@@ -1,0 +1,3516 @@
+64
+3514
+nand1496 1 2 1 2 and1884 and1888 1 0 
+nand1497 1 2 1 1 and1884 0 
+nand1494 1 2 1 4 and1884 and1886 and1887 and1888 3 0 3 4 
+nand1495 1 2 1 3 and1884 and1887 and1888 2 0 1 
+not1492 1 1 1 1 nand1670 1 
+nand1493 1 2 1 5 and1884 and1885 and1886 and1887 and1888 4 0 1 1 2 
+nand1490 1 2 1 1 nand1882 1 
+not1491 1 1 1 1 nand1669 1 
+nand1498 1 2 1 1 nand1889 0 
+not1499 1 1 1 1 nand1671 1 
+not318 1 1 1 1 nand1445 1 
+not319 1 1 1 1 nand1449 1 
+nand1469 1 2 1 5 and1870 and1871 and1872 and1873 and1874 4 0 1 1 2 
+nand1468 1 2 1 2 and1866 and1869 1 0 
+and310 1 2 1 1 or572 1 
+not311 1 1 1 1 nand1431 1 
+not312 1 1 1 1 nand1433 1 
+not313 1 1 1 1 nand1435 1 
+not314 1 1 1 1 nand1437 1 
+not315 1 1 1 1 nand1439 1 
+not316 1 1 1 1 nand1441 1 
+not317 1 1 1 1 nand1443 1 
+and1463 1 2 1 7 buf1997 and2133 and2136 and2139 and2141 and2143 and2144 0 3 2 2 2 2 1 
+not1462 1 1 1 1 nand1656 1 
+not1465 1 1 1 1 nand1657 1 
+nand1464 1 2 1 1 nand1863 0 
+nand1467 1 2 1 3 and1866 and1868 and1869 2 0 3 
+nand1466 1 2 1 4 and1866 and1867 and1868 and1869 3 0 1 1 
+nand1478 1 2 1 1 nand1876 1 
+not1479 1 1 1 1 nand1660 1 
+nand1470 1 2 1 4 and1870 and1872 and1873 and1874 3 0 3 4 
+nand1471 1 2 1 3 and1870 and1873 and1874 2 0 1 
+nand1472 1 2 1 2 and1870 and1874 1 0 
+nand1473 1 2 1 1 and1866 0 
+nand1474 1 2 1 1 and1870 0 
+not1475 1 1 1 1 nand1658 1 
+nand1476 1 2 1 1 nand1875 1 
+not1477 1 1 1 1 nand1659 1 
+not338 1 1 1 1 nand486 1 
+not339 1 1 1 1 nand1498 1 
+buf2190 1 1 1 2 not2512 and2518 0 2 
+not93 1 1 1 5 buf190 buf198 and667 and1014 and1023 0 0 0 0 0 
+and332 1 2 1 1 or480 1 
+and333 1 2 1 1 or481 1 
+and330 1 2 1 1 or478 1 
+and331 1 2 1 1 or479 1 
+not336 1 1 1 1 nand403 1 
+and337 1 2 1 1 and750 1 
+and334 1 2 1 1 or482 1 
+and335 1 2 1 1 or483 1 
+nand1441 1 2 1 1 nand1850 0 
+not1440 1 1 1 1 nand1646 1 
+and1447 1 2 1 5 and2112 and2115 and2117 and2118 or2647 3 2 2 1 0 
+not1446 1 1 1 1 nand1649 1 
+nand1445 1 2 1 1 nand1852 0 
+not1444 1 1 1 1 nand1648 1 
+and309 1 2 1 1 or571 1 
+and308 1 2 1 1 or570 1 
+buf2293 1 1 1 2 nand2482 not2483 0 0 
+buf2292 1 1 1 2 not2481 nand2705 0 0 
+buf2291 1 1 1 2 not2480 nand2704 0 0 
+buf2290 1 1 1 2 not2479 nand2703 0 0 
+buf2297 1 1 1 2 not2558 nand3341 0 0 
+not82 1 1 1 5 buf172 buf181 and387 and697 and706 0 0 0 0 0 
+buf301 1 1 1 6 not442 and448 and449 and450 and451 and452 0 1 1 1 1 1 
+nand1459 1 2 1 1 nand1861 0 
+buf303 1 1 1 6 not454 and460 and461 and462 and463 and464 0 1 1 1 1 1 
+buf302 1 1 1 6 not453 and455 and456 and457 and458 and459 0 1 1 1 1 1 
+buf305 1 1 1 6 not465 and471 and472 and473 and474 and475 0 1 1 1 1 1 
+not304 1 1 1 5 and466 and467 and468 and469 and470 1 1 1 1 1 
+not1452 1 1 1 1 nand1651 1 
+nand1453 1 2 1 1 nand1858 0 
+not1450 1 1 1 1 nand1650 1 
+not88 1 1 1 5 buf195 buf202 and662 and1019 and1028 0 0 0 0 0 
+not1456 1 1 1 1 nand1653 1 
+nand1457 1 2 1 1 nand1860 0 
+not1454 1 1 1 1 nand1652 1 
+nand1455 1 2 1 1 nand1859 0 
+not2282 1 1 1 1 nand3261 1 
+not2283 1 1 1 1 nand3321 1 
+not358 1 1 1 5 and498 and499 and500 and501 and502 1 1 1 1 1 
+buf359 1 1 1 6 not497 and503 and504 and505 and506 and507 0 1 1 1 1 1 
+not2286 1 1 1 1 nand3147 1 
+not2287 1 1 1 1 nand3263 1 
+and354 1 2 1 1 or583 1 
+and355 1 2 1 1 or584 1 
+and356 1 2 1 1 or610 1 
+and357 1 2 1 1 or609 1 
+and350 1 2 1 1 or608 1 
+and351 1 2 1 1 or580 1 
+and352 1 2 1 1 or581 1 
+and353 1 2 1 1 or582 1 
+nand1427 1 2 1 10 and1834 and1837 and1838 and1840 and1841 and1842 and1843 buf1950 and2970 and2971 2 0 1 0 1 1 1 0 2 2 
+nand1426 1 2 1 9 and1834 and1836 and1837 and1838 and1839 and1840 and1841 buf1949 and2970 0 0 3 4 0 2 3 0 4 
+nand1421 1 2 1 6 and1822 and1823 and1824 and1825 buf1989 buf1990 3 0 1 1 0 0 
+nand1420 1 2 1 6 and1802 and1810 and1816 and1821 buf1979 buf1985 0 0 0 0 0 0 
+nand1423 1 2 1 10 and1822 and1825 and1827 and1828 and1830 and1831 and1832 and1833 buf1993 buf1994 2 0 0 1 1 0 1 0 0 0 
+nand1422 1 2 1 10 and1822 and1824 and1825 and1826 and1827 and1828 and1829 and1830 buf1991 buf1992 0 0 3 0 2 2 0 2 0 0 
+and329 1 2 1 1 or477 1 
+not328 1 1 1 3 or481 or482 or483 0 0 0 
+not323 1 1 1 1 nand1457 1 
+not322 1 1 1 1 nand1455 1 
+not321 1 1 1 1 nand1453 1 
+nand1439 1 2 1 1 nand1849 0 
+not327 1 1 1 5 or476 or477 or478 or479 or480 0 0 0 0 0 
+not326 1 1 1 1 nand1464 1 
+not1434 1 1 1 1 nand1643 1 
+nand1435 1 2 1 1 nand1847 0 
+not1436 1 1 1 1 nand1644 1 
+buf2189 1 1 1 2 not2511 and2517 0 2 
+buf2188 1 1 1 2 not2510 and2516 0 2 
+nand1431 1 2 1 1 nand1845 0 
+not1432 1 1 1 1 nand1642 1 
+nand1433 1 2 1 1 nand1846 0 
+not378 1 1 1 5 and532 and533 and534 and535 and536 1 1 1 1 1 
+not379 1 1 1 5 and537 and538 and539 and540 and541 1 1 1 1 1 
+buf376 1 1 1 6 not520 and522 and523 and524 and525 and526 0 1 1 1 1 1 
+buf377 1 1 1 6 not521 and527 and528 and529 and530 and531 0 1 1 1 1 1 
+buf374 1 1 1 6 not508 and510 and511 and512 and513 and514 0 1 1 1 1 1 
+buf375 1 1 1 6 not509 and515 and516 and517 and518 and519 0 1 1 1 1 1 
+nand1409 1 2 1 2 buf1790 buf1791 0 0 
+nand1408 1 2 1 3 not1785 and2079 and2356 0 0 1 
+nand1407 1 2 1 3 not1784 and2079 and2357 0 1 0 
+nand1406 1 2 1 2 buf1788 buf1789 0 0 
+nand1405 1 2 1 3 not1783 and2077 and2354 0 0 1 
+nand1404 1 2 1 3 not1782 and2077 and2355 0 1 0 
+nand1403 1 2 1 2 buf1786 buf1787 0 0 
+nand1402 1 2 1 3 not1781 and2075 and2352 0 0 1 
+nand1401 1 2 1 3 not1780 and2075 and2353 0 1 0 
+not1400 1 1 1 1 and3103 1 
+and2231 1 3 1 1 nor2533 1 
+not349 1 1 1 5 and492 and493 and494 and495 and496 1 1 1 1 1 
+not348 1 1 1 5 and487 and488 and489 and490 and491 1 1 1 1 1 
+and2232 1 3 1 1 nor2534 1 
+not345 1 1 1 1 nand1510 1 
+not344 1 1 1 1 nand1508 1 
+not347 1 1 1 1 nand1514 1 
+not346 1 1 1 1 nand1512 1 
+nand1418 1 2 1 12 and1802 and1806 and1809 and1810 and1813 and1815 and1816 and1818 and1819 and1821 buf1980 buf1986 1 0 0 3 0 0 2 0 0 1 0 0 
+nand1419 1 2 1 5 and1792 and1798 and1820 buf1971 buf1975 0 0 0 0 0 
+nand1416 1 2 1 13 and1802 and1804 and1805 and1806 and1807 and1808 and1809 and1810 and1811 and1812 and1813 buf1983 buf1984 3 0 3 4 0 2 3 2 0 2 3 0 0 
+nand1417 1 2 1 15 and1802 and1805 and1806 and1808 and1809 and1810 and1812 and1813 and1814 and1815 and1816 and1817 and1818 buf1982 buf1988 2 0 1 0 1 1 0 1 0 1 1 0 1 0 0 
+nand1414 1 2 1 9 and1792 and1795 and1797 and1798 and1800 and1801 and1820 buf1972 buf1976 1 0 0 1 0 0 1 0 0 
+nand1415 1 2 1 7 and1802 and1803 and1804 and1805 and1806 buf1981 buf1987 4 0 1 1 2 0 0 
+nand1412 1 2 1 6 and1792 and1793 and1794 and1795 buf1973 buf1977 3 0 1 1 0 0 
+nand1413 1 2 1 10 and1792 and1794 and1795 and1796 and1797 and1798 and1799 and1800 buf1974 buf1978 2 0 3 0 2 2 0 2 0 0 
+not1410 1 1 1 1 nand2771 1 
+not1411 1 1 1 1 nand2773 1 
+and2220 1 2 1 1 or2389 1 
+buf39 1 1 1 1 monitor 34 
+buf38 1 1 1 1 monitor 33 
+buf31 1 1 1 1 monitor 26 
+buf30 1 1 1 1 monitor 25 
+buf33 1 1 1 1 monitor 28 
+buf32 1 1 1 1 monitor 27 
+buf35 1 1 1 1 monitor 30 
+buf34 1 1 1 1 monitor 29 
+buf37 1 1 1 1 monitor 32 
+buf36 1 1 1 1 monitor 31 
+and2239 1 3 1 1 or2393 2 
+and2238 1 2 1 1 or2393 1 
+not369 1 1 1 1 nand1541 1 
+not368 1 1 1 1 nand1539 1 
+not367 1 1 1 1 nand1537 1 
+not366 1 1 1 1 nand1535 1 
+not365 1 1 1 1 nand1533 1 
+and364 1 2 1 1 or591 1 
+and363 1 2 1 1 or590 1 
+and362 1 2 1 1 or589 1 
+and361 1 2 1 1 or588 1 
+and360 1 2 1 1 or587 1 
+and21 1 4 1 2 not109 and113 0 0 
+buf22 1 1 1 1 monitor 17 
+buf23 1 1 1 1 monitor 18 
+buf24 1 1 1 1 monitor 19 
+buf25 1 1 1 1 monitor 20 
+buf26 1 1 1 1 monitor 21 
+buf27 1 1 1 1 monitor 22 
+nand1380 1 2 1 1 nand1628 1 
+nand1381 1 2 1 1 nand1631 0 
+nand1382 1 2 1 1 nand1631 1 
+nand1383 1 2 1 1 nand1630 0 
+nand1384 1 2 1 1 nand1630 1 
+nand1385 1 2 1 1 nand1641 0 
+nand1386 1 2 1 1 nand1641 1 
+nand1387 1 2 1 1 nand1640 0 
+nand1388 1 2 1 1 nand1640 1 
+nand1389 1 2 1 1 and3068 0 
+buf19 1 1 1 1 monitor 15 
+buf18 1 1 1 1 monitor 14 
+and2221 1 2 1 1 or2676 1 
+and2222 1 2 1 1 or2682 1 
+not2223 1 1 1 2 and2530 and2633 1 0 
+not2224 1 1 1 2 and2530 and2634 0 1 
+buf13 1 1 1 1 monitor 9 
+buf12 1 1 1 1 monitor 8 
+and11 1 4 1 2 not112 and114 0 1 
+buf10 1 1 1 1 monitor 7 
+buf17 1 1 1 1 monitor 13 
+buf16 1 1 1 1 monitor 12 
+buf15 1 1 1 1 monitor 11 
+buf14 1 1 1 1 monitor 10 
+and2114 1 3 1 1 or2644 2 
+and2116 1 2 1 1 or2645 1 
+and2117 1 3 1 1 or2645 2 
+not1522 1 1 1 1 nand1681 1 
+and2219 1 3 1 1 nor2440 2 
+and2218 1 2 1 1 nor2440 1 
+and2213 1 3 1 1 nor2441 2 
+and2212 1 2 1 1 nor2441 1 
+and2211 1 4 1 1 or2439 4 
+and2210 1 4 1 1 or2439 3 
+and2217 1 3 1 1 or2438 3 
+and2216 1 3 1 1 or2438 2 
+and2215 1 2 1 1 or2438 1 
+and2214 1 4 1 1 nor2441 3 
+not3504 1 1 1 1 monitor 104 
+nand3506 1 2 1 1 nand3511 0 
+not2272 1 1 1 1 nand3257 1 
+and2208 1 2 1 1 or2439 1 
+and2209 1 3 1 1 or2439 2 
+and2202 1 2 1 1 or2387 1 
+not79 1 1 1 5 buf174 buf184 and384 and700 and709 0 0 0 0 0 
+not78 1 1 1 5 buf175 buf185 and383 and701 and710 0 0 0 0 0 
+and2201 1 3 1 1 nor2437 2 
+and2206 1 4 1 1 or2388 3 
+buf75 1 1 1 1 monitor 38 
+not74 1 1 1 1 and380 0 
+not77 1 1 1 5 buf176 buf186 and382 and702 and711 0 0 0 0 0 
+not76 1 1 1 6 buf178 buf187 and381 and703 and712 nor825 0 0 0 0 0 0 
+not71 1 1 1 4 buf144 buf153 and752 and1125 0 0 0 1 
+buf70 1 1 1 5 not143 buf151 buf152 buf154 buf155 0 0 0 0 0 
+not73 1 1 1 1 nand119 1 
+nand72 1 2 1 4 and136 and137 buf156 buf163 0 0 0 0 
+nand2263 1 2 1 1 nand2550 1 
+nand1391 1 2 1 13 and1750 and1752 and1753 and1754 and1755 and1756 and1757 and1758 and1759 and1760 and1761 buf1963 buf1964 3 0 3 4 0 2 3 2 0 2 3 0 0 
+nand1390 1 2 1 7 and1750 and1751 and1752 and1753 and1754 buf1961 buf1967 4 0 1 1 2 0 0 
+nand1393 1 2 1 12 and1750 and1754 and1757 and1758 and1761 and1763 and1764 and1766 and1767 and1768 buf1960 buf1966 1 0 0 3 0 0 2 0 0 1 0 0 
+nand1392 1 2 1 15 and1750 and1753 and1754 and1756 and1757 and1758 and1760 and1761 and1762 and1763 and1764 and1765 and1766 buf1962 buf1968 2 0 1 0 1 1 0 1 0 1 1 0 1 0 0 
+nand1395 1 2 1 6 and1769 and1770 and1771 and1772 and1773 buf1953 3 0 1 1 2 0 
+nand1394 1 2 1 6 and1750 and1758 and1764 and1768 buf1959 buf1965 0 0 0 0 0 0 
+nand1397 1 2 1 10 and1769 and1772 and1773 and1775 and1776 and1777 and1778 buf1955 and2964 and2965 2 0 1 0 1 1 1 0 2 2 
+nand1396 1 2 1 9 and1769 and1771 and1772 and1773 and1774 and1775 and1776 buf1954 and2964 0 0 3 4 0 2 3 0 4 
+nand1399 1 2 1 6 and1769 buf1952 and2964 and2965 and2966 and2967 1 0 1 1 1 1 
+not2279 1 1 1 1 nand3217 1 
+not2278 1 1 1 1 nand3054 1 
+not2275 1 1 1 1 nand3052 1 
+buf68 1 1 1 5 buf129 buf131 buf133 buf138 not142 0 0 0 0 0 
+and69 1 2 1 1 not117 0 
+not2276 1 1 1 1 nand3215 1 
+not2271 1 1 1 1 nand3141 1 
+not64 1 1 1 1 and356 0 
+not65 1 1 1 1 and357 0 
+not66 1 1 1 1 and353 0 
+buf67 1 1 1 5 buf135 buf139 not141 buf148 buf150 0 0 0 0 0 
+not60 1 1 1 5 buf160 buf168 and352 and679 and690 0 0 0 0 0 
+buf61 1 1 1 2 buf116 not140 0 0 
+not62 1 1 1 5 buf159 buf167 and354 and677 and688 0 0 0 0 0 
+not63 1 1 1 5 buf158 buf166 and355 and676 and687 0 0 0 0 0 
+buf195 1 1 1 2 not318 nand1649 0 0 
+nand1535 1 2 1 1 nand1910 0 
+not1536 1 1 1 1 nand1691 1 
+not1531 1 1 1 1 nand1689 1 
+not1530 1 1 1 1 nand1688 1 
+not2264 1 1 1 1 nand2397 1 
+nand2265 1 2 1 1 nand2551 1 
+not2266 1 1 1 1 nand3139 1 
+not59 1 1 1 6 buf162 buf169 and351 and680 and691 nor786 0 0 0 0 0 0 
+buf58 1 1 1 1 monitor 37 
+not57 1 1 1 1 and350 0 
+not56 1 1 1 1 and118 1 
+buf55 1 1 1 4 buf204 buf205 and228 and337 0 0 1 1 
+nand54 1 2 1 3 buf134 buf147 buf149 0 0 0 
+nand53 1 2 1 3 buf128 buf130 buf132 0 0 0 
+buf52 1 1 1 2 not122 not125 0 0 
+buf51 1 1 1 10 and136 and137 buf157 buf161 buf164 buf165 and226 and227 nor230 nor232 1 1 0 0 0 0 1 0 1 0 
+not50 1 1 1 4 buf170 buf179 and695 and704 0 0 0 0 
+nand3511 1 2 1 1 not3512 0 
+not3510 1 1 1 1 monitor 105 
+buf2259 1 1 1 2 not2455 nand2843 0 0 
+buf2258 1 1 1 2 not2454 nand2842 0 0 
+buf2257 1 1 1 2 not2453 nand3235 0 0 
+buf2256 1 1 1 2 not2452 nand3234 0 0 
+buf2255 1 1 1 2 not2451 nand3233 0 0 
+not48 1 1 1 4 buf173 buf183 and699 and708 0 0 0 0 
+not49 1 1 1 4 buf171 buf180 and696 and705 0 0 0 0 
+not46 1 1 1 2 nand121 nand123 1 1 
+not47 1 1 1 2 and120 nand124 1 1 
+not44 1 1 1 1 nand108 1 
+buf45 1 1 1 2 buf115 buf127 0 0 
+and42 1 4 1 2 not110 and113 0 1 
+not43 1 1 1 1 monitor 36 
+buf40 1 1 1 1 monitor 35 
+and41 1 4 1 2 not111 and114 0 0 
+and2122 1 3 1 1 or2373 2 
+nand1518 1 2 1 3 not1900 and2191 and2384 0 0 1 
+buf2248 1 1 1 2 not2540 and2546 0 2 
+buf2249 1 1 1 2 not2541 and2547 0 2 
+not2246 1 1 1 1 and2395 2 
+buf2247 1 1 1 2 not2539 and2545 0 2 
+not2244 1 1 1 2 and2548 and2643 0 1 
+not2245 1 1 1 1 and2394 2 
+not2242 1 1 1 2 and2546 and2641 0 1 
+not2243 1 1 1 2 and2548 and2642 1 0 
+and2240 1 4 1 1 or2393 3 
+and2241 1 5 1 1 or2393 4 
+nand1308 1 2 1 1 nand1415 1 
+nand1309 1 2 1 1 nand1416 1 
+nand1300 1 2 1 1 nand1407 0 
+nand1301 1 2 1 1 nand1408 0 
+nand1302 1 2 1 1 nand1408 1 
+nand1303 1 2 1 1 nand1409 0 
+nand1304 1 2 1 1 nand1409 1 
+nand1305 1 2 1 1 nand1412 1 
+nand1306 1 2 1 1 nand1413 1 
+nand1307 1 2 1 1 nand1414 1 
+nand1328 1 2 1 1 nand1468 1 
+nand1329 1 2 1 1 nand1469 0 
+nand1322 1 2 1 1 nand1429 1 
+nand1323 1 2 1 1 nand1466 0 
+nand1320 1 2 1 1 nand1427 1 
+nand1321 1 2 1 1 nand1428 1 
+nand1326 1 2 1 1 nand1467 1 
+nand1327 1 2 1 1 nand1468 0 
+nand1324 1 2 1 1 nand1466 1 
+nand1325 1 2 1 1 nand1467 0 
+nand1319 1 2 1 1 nand1426 1 
+nand1318 1 2 1 1 nand1425 1 
+nand1311 1 2 1 1 nand1418 1 
+nand1310 1 2 1 1 nand1417 1 
+nand1313 1 2 1 1 nand1420 1 
+nand1312 1 2 1 1 nand1419 1 
+nand1315 1 2 1 1 nand1422 1 
+nand1314 1 2 1 1 nand1421 1 
+nand1317 1 2 1 1 nand1424 1 
+nand1316 1 2 1 1 nand1423 1 
+nand1348 1 2 1 1 nand1496 1 
+nand1349 1 2 1 1 nand1497 0 
+nand1344 1 2 1 1 nand1494 1 
+nand1345 1 2 1 1 nand1495 0 
+nand1346 1 2 1 1 nand1495 1 
+nand1347 1 2 1 1 nand1496 0 
+nand1340 1 2 1 1 nand1474 1 
+nand1341 1 2 1 1 nand1493 0 
+nand1342 1 2 1 1 nand1493 1 
+nand1343 1 2 1 1 nand1494 0 
+nand1339 1 2 1 1 nand1474 0 
+nand1338 1 2 1 1 nand1473 1 
+nand1333 1 2 1 1 nand1471 0 
+nand1332 1 2 1 1 nand1470 1 
+nand1331 1 2 1 1 nand1470 0 
+nand1330 1 2 1 1 nand1469 1 
+nand1337 1 2 1 1 nand1473 0 
+nand1336 1 2 1 1 nand1472 1 
+nand1335 1 2 1 1 nand1472 0 
+nand1334 1 2 1 1 nand1471 1 
+nand1368 1 2 1 1 nand1584 0 
+nand1369 1 2 1 1 nand1584 1 
+nand1366 1 2 1 1 nand1583 0 
+nand1367 1 2 1 1 nand1583 1 
+nand1364 1 2 1 1 nand1563 1 
+nand1365 1 2 1 1 nand1582 0 
+nand1362 1 2 1 1 nand1562 1 
+nand1363 1 2 1 1 nand1563 0 
+nand1360 1 2 1 1 nand1561 0 
+nand1361 1 2 1 1 nand1562 0 
+not109 1 1 1 1 monitor 41 
+nand1359 1 2 1 1 nand1558 1 
+nand1358 1 2 1 1 nand1558 0 
+nand1355 1 2 1 1 nand1519 0 
+nand1354 1 2 1 1 nand1518 1 
+nand1357 1 2 1 1 nand1557 0 
+nand1356 1 2 1 1 nand1519 1 
+not1351 1 1 1 1 nand1389 0 
+nand1350 1 2 1 1 nand1497 1 
+nand1353 1 2 1 1 nand1518 0 
+nand1352 1 2 1 1 nand1517 0 
+not104 1 1 1 5 buf208 buf217 and657 and1075 and1092 0 0 0 0 0 
+not291 1 1 1 1 nand993 1 
+not290 1 1 1 1 nand991 1 
+not293 1 1 1 1 nand997 1 
+not292 1 1 1 1 nand995 1 
+not295 1 1 1 1 nand1001 1 
+buf158 1 1 1 2 not258 nand1278 0 0 
+buf159 1 1 1 2 not259 nand1279 0 0 
+buf156 1 1 1 2 not256 nand394 0 0 
+buf157 1 1 1 2 not257 nand393 0 0 
+not298 1 1 1 1 nand1007 1 
+buf150 1 1 1 4 not328 and333 and334 and335 0 1 1 1 
+buf151 1 1 1 6 not348 and350 and351 and352 and353 and354 0 1 1 1 1 1 
+and280 1 2 1 1 or567 1 
+and281 1 2 1 1 or568 1 
+not282 1 1 1 1 nand975 1 
+nand1379 1 2 1 1 nand1628 0 
+nand1378 1 2 1 1 nand1629 1 
+nand1377 1 2 1 1 nand1629 0 
+nand1376 1 2 1 1 nand1601 1 
+nand1375 1 2 1 1 nand1601 0 
+nand1374 1 2 1 1 nand1602 1 
+nand1373 1 2 1 1 nand1602 0 
+not1372 1 1 1 1 nand2263 1 
+nand1371 1 2 1 1 nand1585 1 
+nand1370 1 2 1 1 nand1585 0 
+not145 1 1 1 3 and3433 and3434 and3488 2 2 1 
+buf144 1 1 1 6 not304 and306 and307 and308 and309 and310 0 1 1 1 1 1 
+not143 1 1 1 4 buf374 buf375 buf376 buf377 0 0 0 0 
+not142 1 1 1 2 buf300 buf302 0 0 
+not141 1 1 1 4 buf301 buf303 buf305 buf359 0 0 0 0 
+not140 1 1 1 4 buf390 buf391 and678 and689 0 0 0 0 
+buf219 1 1 1 2 not369 nand1694 0 0 
+buf218 1 1 1 2 not368 nand1693 0 0 
+buf211 1 1 1 2 not344 nand1676 0 0 
+buf210 1 1 1 2 not343 nand1675 0 0 
+buf213 1 1 1 2 not346 nand1678 0 0 
+buf212 1 1 1 2 not345 nand1677 0 0 
+buf215 1 1 1 2 not365 nand1690 0 0 
+buf214 1 1 1 2 not347 nand1679 0 0 
+buf217 1 1 1 2 not367 nand1692 0 0 
+buf216 1 1 1 2 not366 nand1691 0 0 
+buf208 1 1 1 2 not341 nand1673 0 0 
+buf209 1 1 1 2 not342 nand1674 0 0 
+buf200 1 1 1 2 not323 nand1654 0 0 
+buf201 1 1 1 2 not324 nand1655 0 0 
+buf202 1 1 1 2 not325 nand1656 0 0 
+buf203 1 1 1 2 not326 nand1657 0 0 
+buf204 1 1 1 2 not336 nand484 0 0 
+buf205 1 1 1 2 not338 nand579 0 0 
+buf206 1 1 1 2 not339 nand1671 0 0 
+buf207 1 1 1 2 not340 nand1672 0 0 
+or3485 1 2 1 2 nand3491 not3492 0 0 
+and3484 1 2 1 1 or3495 1 
+nand3487 1 2 1 1 and3494 1 
+or3486 1 2 1 2 nand3490 not3493 0 0 
+nand3481 1 2 1 1 nand3487 0 
+nand3480 1 2 1 1 not3483 0 
+not3483 1 1 1 1 and3489 0 
+not3482 1 1 1 1 and3488 0 
+and3489 1 2 1 1 or3495 0 
+and239 1 2 1 1 or410 1 
+and238 1 2 1 1 or409 1 
+buf233 1 1 1 2 not402 nand403 0 0 
+nor232 1 2 1 2 not401 nand955 0 0 
+buf231 1 1 1 2 not399 nand400 0 0 
+nor230 1 2 1 2 not404 nand1727 0 0 
+not237 1 1 1 3 or412 or413 or414 0 0 0 
+not236 1 1 1 5 or407 or408 or409 or410 or411 0 0 0 0 0 
+and235 1 2 1 1 or407 1 
+and234 1 2 1 1 monitor 54 
+nand3490 1 2 1 1 nand3499 0 
+nand3491 1 2 1 1 nand3500 0 
+not3492 1 1 1 1 nand3497 1 
+not3493 1 1 1 1 nand3496 1 
+and2594 1 2 1 2 not2769 and3100 0 1 
+nand3499 1 2 1 1 not3503 0 
+nand2596 1 2 1 1 not2694 0 
+nand2597 1 2 1 1 not2695 0 
+and2590 1 2 1 1 or2879 1 
+nand2591 1 2 1 1 and3075 1 
+nand2592 1 2 1 1 and3076 1 
+not2593 1 1 1 1 and3077 1 
+buf220 1 1 1 2 not370 nand1695 0 0 
+buf221 1 1 1 2 not371 nand1696 0 0 
+and226 1 2 1 5 buf405 and614 and615 and616 and617 0 1 1 1 1 
+and227 1 2 1 2 buf406 and618 0 1 
+not2598 1 1 1 1 nand2708 0 
+and2599 1 2 1 1 or2701 1 
+and2595 1 2 1 2 not2776 and3404 0 1 
+not259 1 1 1 1 nand933 1 
+not258 1 1 1 1 nand931 1 
+and255 1 2 1 1 or424 1 
+and254 1 2 1 1 or423 1 
+not257 1 1 1 1 nand394 1 
+not256 1 1 1 1 nand393 1 
+and251 1 2 1 1 or420 1 
+and250 1 2 1 1 or419 1 
+and253 1 2 1 1 or422 1 
+and252 1 2 1 1 or421 1 
+and248 1 2 1 1 or417 1 
+and249 1 2 1 1 or418 1 
+not244 1 1 1 5 or415 or416 or417 or418 or419 0 0 0 0 0 
+not245 1 1 1 5 or420 or421 or422 or423 or424 0 0 0 0 0 
+and246 1 2 1 1 or415 1 
+and247 1 2 1 1 or416 1 
+and240 1 2 1 1 or411 1 
+and241 1 2 1 1 or412 1 
+and242 1 2 1 1 or413 1 
+and243 1 2 1 1 or414 1 
+not2585 1 1 1 1 nand3308 1 
+not2584 1 1 1 1 nand3230 1 
+nand2587 1 2 1 2 not2737 nand2947 0 0 
+not2586 1 1 1 1 nand3364 1 
+not2581 1 1 1 1 nand3362 1 
+not2580 1 1 1 1 nand3306 1 
+not2583 1 1 1 1 nand3420 1 
+not2582 1 1 1 1 nand3418 1 
+and275 1 2 1 1 or563 1 
+and274 1 2 1 1 or562 1 
+and273 1 2 1 1 or561 1 
+and272 1 2 1 1 or612 1 
+and2589 1 2 1 1 or2878 1 
+nand2588 1 2 1 2 not2738 nand2948 0 0 
+not1569 1 1 1 1 nand1709 1 
+nand1562 1 2 1 3 not1925 and2231 and2390 0 0 1 
+nand1563 1 2 1 2 buf1926 buf1927 0 0 
+not1565 1 1 1 1 nand1705 1 
+not268 1 1 1 1 nand949 1 
+not269 1 1 1 1 nand951 1 
+not266 1 1 1 1 nand943 1 
+not267 1 1 1 1 nand945 1 
+nand2550 1 2 1 2 not2743 nand2744 0 0 
+nand2551 1 2 1 2 not2745 nand2746 0 0 
+not262 1 1 1 1 nand939 1 
+not263 1 1 1 1 nand397 1 
+nand2554 1 2 1 1 nand2659 1 
+nand2555 1 2 1 1 nand2661 1 
+not2556 1 1 1 1 nand3149 1 
+not2557 1 1 1 1 nand3265 1 
+nand1597 1 2 1 1 nand1957 0 
+not1594 1 1 1 1 nand1725 1 
+not1593 1 1 1 1 nand1724 1 
+and3180 1 2 1 1 or3210 0 
+nand3181 1 2 1 1 nand3212 0 
+nand3182 1 2 1 1 nand3213 0 
+or3183 1 4 1 2 not3236 nand3497 0 0 
+nand3184 1 2 1 1 nand3218 0 
+nand3185 1 2 1 1 nand3219 0 
+nand3186 1 2 1 1 nand3220 0 
+nand3187 1 2 1 1 nand3221 0 
+nand3188 1 2 1 1 nand3222 0 
+nand3189 1 2 1 1 nand3225 0 
+not1598 1 1 1 1 nand1728 1 
+nand3464 1 2 1 2 not3476 nand3477 0 0 
+not2578 1 1 1 1 nand3334 1 
+not2579 1 1 1 1 nand3228 1 
+nand1547 1 2 1 1 nand1916 0 
+not1544 1 1 1 1 nand1695 1 
+nand1545 1 2 1 1 nand1915 0 
+nand2572 1 2 1 2 not2729 nand2946 0 0 
+not2573 1 1 1 1 nand3156 1 
+nand2570 1 2 1 2 not2714 nand2942 0 0 
+nand2571 1 2 1 2 not2728 nand2945 0 0 
+not2576 1 1 1 1 nand3158 1 
+not2577 1 1 1 1 nand3274 1 
+not2574 1 1 1 1 nand3272 1 
+not2575 1 1 1 1 nand3332 1 
+nand3222 1 2 1 2 not3268 nand3269 0 0 
+nand3224 1 2 1 1 nand3270 1 
+buf2549 1 1 1 2 nand2697 not2698 0 0 
+and2548 1 3 1 1 nor2742 1 
+not1574 1 1 1 1 nand1713 1 
+nand1577 1 2 1 1 nand1934 1 
+not2541 1 1 1 1 and2642 2 
+not2540 1 1 1 1 and2641 2 
+nor2543 1 2 1 1 nand2688 1 
+not2542 1 1 1 1 and2643 2 
+and2545 1 3 1 1 nor2739 1 
+nor2544 1 2 1 1 nand2688 0 
+and2547 1 3 1 1 nor2741 1 
+and2546 1 3 1 1 nor2740 1 
+or3191 1 2 1 1 monitor 85 
+nand3190 1 2 1 1 nand3226 0 
+or3193 1 2 1 1 monitor 87 
+or3192 1 2 1 1 monitor 86 
+or3195 1 2 1 1 monitor 89 
+or3194 1 2 1 1 monitor 88 
+and3197 1 2 1 1 or3277 1 
+nand3196 1 2 1 1 nand3231 0 
+and3199 1 2 1 1 or3279 1 
+not2519 1 1 1 1 and2788 1 
+and1804 1 3 1 1 or2021 2 
+nand1521 1 2 1 1 nand1901 1 
+nor2514 1 2 1 1 nand2675 0 
+and2515 1 3 1 1 nor2724 1 
+and2516 1 3 1 1 nor2725 1 
+and2517 1 3 1 1 nor2726 1 
+not2510 1 1 1 1 and2628 2 
+not2511 1 1 1 1 and2629 2 
+not2512 1 1 1 1 and2630 2 
+nor2513 1 2 1 1 nand2675 1 
+nand1558 1 2 1 3 not1922 and2531 and2635 0 0 1 
+not2569 1 1 1 1 nand3358 1 
+not2568 1 1 1 1 nand3302 1 
+nand1552 1 2 1 1 nand1918 1 
+not1551 1 1 1 1 nand1699 1 
+not1550 1 1 1 1 nand1698 1 
+nand1557 1 2 1 3 not1921 and2531 and2636 0 1 0 
+not2563 1 1 1 1 nand3329 1 
+buf2562 1 1 1 2 not2749 nand3287 0 0 
+not2561 1 1 1 1 nand3327 1 
+not2560 1 1 1 1 nand3267 1 
+nand3420 1 2 1 1 nand3445 1 
+not2566 1 1 1 1 nand3416 1 
+not2565 1 1 1 1 nand3442 1 
+not2564 1 1 1 1 nand3389 1 
+nand2009 1 2 1 2 not2315 nand2426 0 0 
+not1111 1 1 1 1 nand1364 1 
+not1110 1 1 1 1 nand1363 1 
+not2001 1 1 1 1 nand2049 1 
+nand2002 1 2 1 2 not2322 nand2433 0 0 
+not1509 1 1 1 1 nand1676 1 
+nand1506 1 2 1 1 nand1893 0 
+not1507 1 1 1 1 nand1675 1 
+not2538 1 1 1 1 nand2790 1 
+not2539 1 1 1 1 and2640 2 
+nand2536 1 2 1 1 and2735 1 
+and2537 1 2 1 3 and2691 and2692 and2717 1 1 1 
+nor2534 1 2 1 1 nand2674 0 
+not2535 1 1 1 1 nand2715 1 
+and2532 1 3 1 1 nor2734 1 
+nor2533 1 2 1 1 nand2674 1 
+and2530 1 3 1 1 nor2732 1 
+and2531 1 3 1 1 nor2733 1 
+or2039 1 5 1 2 not2413 nand3034 0 0 
+or2038 1 4 1 2 not2410 nand2411 0 0 
+nor2033 1 4 1 2 not2405 nand3033 0 0 
+nand2938 1 2 1 1 nand3015 1 
+not2509 1 1 1 1 and2627 2 
+not2508 1 1 1 1 nand2626 1 
+not1534 1 1 1 1 nand1690 1 
+nand1537 1 2 1 1 nand1911 0 
+nand2505 1 2 1 1 nand2723 0 
+not2504 1 1 1 1 nand2624 1 
+nand2507 1 2 1 1 nand2696 0 
+not2506 1 1 1 1 nand2625 1 
+not2501 1 1 1 1 nand2618 1 
+and2500 1 2 1 6 and2828 and2829 and2860 and2861 and2862 and2863 1 2 1 2 1 2 
+not2503 1 1 1 1 nand2622 1 
+not2502 1 1 1 1 nand2620 1 
+or2029 1 5 1 2 not2380 and2381 0 1 
+or2027 1 4 1 1 or2377 0 
+or2024 1 5 1 2 and2360 or3018 0 0 
+nand1849 1 2 1 6 and2109 and2110 and2111 and2112 buf2258 and2473 0 1 1 2 0 3 
+nand1848 1 2 1 5 not2063 and2097 and2103 and2107 and2959 0 1 0 0 0 
+not2058 1 1 1 1 nand3089 1 
+not2055 1 1 1 1 nand3084 1 
+not2054 1 1 1 1 nand3082 1 
+and3108 1 3 1 1 or3136 2 
+and3109 1 2 1 1 or3137 1 
+nand2051 1 2 1 1 nand2344 1 
+nand2050 1 2 1 1 nand2344 0 
+and3100 1 3 1 1 or3183 2 
+nand1519 1 2 1 2 buf1907 buf1908 0 0 
+not3102 1 1 1 3 and3162 and3179 and3180 1 1 1 
+not2528 1 1 1 1 and2636 2 
+and3104 1 2 1 1 or3210 1 
+not3105 1 1 1 4 and3164 and3165 and3166 and3167 1 1 1 1 
+not2525 1 1 1 1 and2633 2 
+and2524 1 2 1 6 and2835 and2836 and2850 and2851 and2852 and2853 1 2 1 2 1 2 
+not2523 1 1 1 1 nand3463 1 
+not2522 1 1 1 1 nand3461 1 
+not2521 1 1 1 1 nand3379 1 
+not2520 1 1 1 1 nand3377 1 
+buf1151 1 1 1 2 not1604 nand2555 0 0 
+nand3128 1 2 1 1 nand3174 0 
+nand3129 1 2 1 1 nand3175 0 
+nand3122 1 2 1 1 nand3169 0 
+nand3123 1 2 1 1 nand3170 0 
+nand3120 1 2 1 1 monitor 72 
+nand3121 1 2 1 1 nand3168 0 
+nand3126 1 2 1 1 nand3172 0 
+nand3127 1 2 1 1 nand3173 0 
+nand3124 1 2 1 1 nand3171 0 
+nand3125 1 2 1 1 monitor 73 
+and3119 1 2 1 1 or3163 0 
+and3118 1 2 1 1 or3161 0 
+buf3111 1 1 1 2 not3176 nand3177 0 0 
+and3110 1 2 1 1 or3133 1 
+nand3113 1 2 1 1 nand3143 0 
+nand3112 1 2 1 1 nand3142 0 
+nand3115 1 2 1 1 nand3159 0 
+nand3114 1 2 1 1 nand3154 0 
+or3117 1 2 1 1 monitor 71 
+nand3116 1 2 1 1 nand3160 0 
+not3148 1 1 1 1 nand3186 1 
+nand3149 1 2 1 1 nand3220 1 
+not3144 1 1 1 1 nand3184 1 
+nand3145 1 2 1 1 nand3218 1 
+not3146 1 1 1 1 nand3185 1 
+nand3147 1 2 1 1 nand3219 1 
+not3140 1 1 1 1 nand3182 1 
+nand3141 1 2 1 1 nand3213 1 
+nand3142 1 2 1 2 not3214 nand3215 0 0 
+nand3143 1 2 1 2 not3216 nand3217 0 0 
+nand1895 1 2 1 10 and2170 and2173 and2174 and2176 and2177 and2178 and2179 buf2256 and3106 and3107 2 0 1 0 1 1 1 0 2 2 
+nand3139 1 2 1 1 nand3212 1 
+not3138 1 1 1 1 nand3181 1 
+or3133 1 2 1 5 and3197 and3198 and3199 and3200 not3211 0 0 0 0 0 
+and3132 1 3 1 1 or3183 1 
+and3131 1 3 1 1 or3183 0 
+and3130 1 3 1 1 not3178 0 
+or3137 1 2 1 2 not3207 nand3208 0 0 
+or3136 1 3 1 2 not3205 nand3206 0 0 
+or3135 1 4 1 2 not3203 nand3204 0 0 
+or3134 1 5 1 2 not3201 nand3202 0 0 
+nand3168 1 2 1 1 monitor 76 
+nand3169 1 2 1 1 monitor 77 
+and3166 1 2 1 1 or3194 0 
+and3167 1 2 1 1 or3195 0 
+and3164 1 2 1 1 or3192 0 
+and3165 1 2 1 1 or3193 0 
+and3162 1 2 1 1 or3191 0 
+or3163 1 2 1 1 monitor 75 
+nand3160 1 2 1 2 not3229 nand3230 0 0 
+or3161 1 2 1 1 monitor 74 
+nand3159 1 2 1 2 not3227 nand3228 0 0 
+nand3158 1 2 1 1 nand3226 1 
+not3155 1 1 1 1 nand3189 1 
+nand3154 1 2 1 2 not3223 nand3224 0 0 
+not3157 1 1 1 1 nand3190 1 
+nand3156 1 2 1 1 nand3225 1 
+nand3151 1 2 1 1 nand3221 1 
+not3150 1 1 1 1 nand3187 1 
+nand3153 1 2 1 1 nand3222 1 
+not3152 1 1 1 1 nand3188 1 
+nand928 1 2 1 1 nand1147 1 
+and3179 1 2 1 1 or3209 0 
+not3178 1 1 1 1 monitor 84 
+nand3177 1 2 1 1 nand3231 1 
+not3176 1 1 1 1 nand3196 1 
+nand3175 1 2 1 1 monitor 83 
+nand3174 1 2 1 1 monitor 82 
+nand3173 1 2 1 1 monitor 81 
+nand3172 1 2 1 1 monitor 80 
+nand3171 1 2 1 1 monitor 79 
+nand3170 1 2 1 1 monitor 78 
+buf192 1 1 1 2 not315 nand1646 0 0 
+buf193 1 1 1 2 not316 nand1647 0 0 
+buf190 1 1 1 2 not313 nand1644 0 0 
+buf191 1 1 1 2 not314 nand1645 0 0 
+buf196 1 1 1 2 not319 nand1650 0 0 
+buf197 1 1 1 2 not320 nand1651 0 0 
+buf194 1 1 1 2 not317 nand1648 0 0 
+buf901 1 1 1 2 not1121 nand1714 0 0 
+buf198 1 1 1 2 not321 nand1652 0 0 
+buf199 1 1 1 2 not322 nand1653 0 0 
+nand951 1 2 1 1 nand1399 0 
+not959 1 1 1 1 nand1291 1 
+not965 1 1 1 1 nand1296 1 
+not962 1 1 1 1 nand1294 1 
+buf183 1 1 1 2 not295 nand1318 0 0 
+buf182 1 1 1 2 not294 nand1317 0 0 
+buf181 1 1 1 2 not293 nand1316 0 0 
+buf180 1 1 1 2 not292 nand1315 0 0 
+buf187 1 1 1 2 not299 nand1322 0 0 
+buf186 1 1 1 2 not298 nand1321 0 0 
+buf185 1 1 1 2 not297 nand1320 0 0 
+buf184 1 1 1 2 not296 nand1319 0 0 
+buf189 1 1 1 2 not312 nand1643 0 0 
+buf188 1 1 1 2 not311 nand1642 0 0 
+not941 1 1 1 1 nand1277 1 
+not940 1 1 1 1 nand1282 1 
+not948 1 1 1 1 nand1285 1 
+nand991 1 2 1 1 nand1420 0 
+not996 1 1 1 1 nand1315 1 
+nand995 1 2 1 1 nand1422 0 
+buf138 1 1 1 6 not270 and272 and273 and274 and275 and276 0 1 1 1 1 1 
+buf139 1 1 1 6 not271 and277 and278 and279 and280 and281 0 1 1 1 1 1 
+buf130 1 1 1 3 and547 and605 and606 1 1 1 
+buf131 1 1 1 4 not237 and241 and242 and243 0 1 1 1 
+buf132 1 1 1 5 and548 and549 and550 and551 and552 1 1 1 1 1 
+buf133 1 1 1 6 not244 and246 and247 and248 and249 and250 0 1 1 1 1 1 
+buf134 1 1 1 5 and553 and554 and555 and556 and557 1 1 1 1 1 
+buf135 1 1 1 6 not245 and251 and252 and253 and254 and255 0 1 1 1 1 1 
+and136 1 2 1 4 or682 or684 nor784 or922 0 0 0 0 
+and137 1 2 1 1 or693 0 
+and118 1 2 1 1 not146 0 
+nand119 1 2 1 2 and228 buf233 0 0 
+not112 1 1 1 1 monitor 44 
+and113 1 2 1 1 and3130 0 
+not110 1 1 1 1 monitor 42 
+not111 1 1 1 1 monitor 43 
+buf116 1 1 1 1 monitor 46 
+not117 1 1 1 6 and226 and227 buf229 nor230 buf231 nor232 0 1 0 0 0 1 
+and114 1 2 1 1 and3130 1 
+buf115 1 1 1 1 monitor 45 
+not980 1 1 1 1 nand1307 1 
+nand987 1 2 1 1 nand1418 0 
+buf129 1 1 1 6 and235 not236 and238 and239 and240 or408 1 0 1 1 1 1 
+buf128 1 1 1 5 and542 and543 and544 and545 and546 1 1 1 1 1 
+nand121 1 2 1 1 monitor 47 
+and120 1 2 1 1 not224 0 
+nand123 1 2 1 1 monitor 49 
+not122 1 1 1 1 monitor 48 
+not125 1 1 1 1 monitor 51 
+nand124 1 2 1 1 monitor 50 
+buf127 1 1 1 2 buf225 and234 0 1 
+not126 1 1 1 1 nand2697 1 
+buf178 1 1 1 2 not290 nand1313 0 0 
+buf179 1 1 1 2 not291 nand1314 0 0 
+buf174 1 1 1 2 not286 nand1309 0 0 
+buf175 1 1 1 2 not287 nand1310 0 0 
+buf176 1 1 1 2 not288 nand1311 0 0 
+buf177 1 1 1 2 not289 nand1312 0 0 
+buf170 1 1 1 2 not282 nand1305 0 0 
+buf171 1 1 1 2 not283 nand1306 0 0 
+buf172 1 1 1 2 not284 nand1307 0 0 
+buf173 1 1 1 2 not285 nand1308 0 0 
+not2495 1 1 1 1 nand2783 1 
+not2494 1 1 1 1 nand3459 1 
+not2497 1 1 1 1 nand2690 1 
+not2496 1 1 1 1 nand2901 1 
+not2491 1 1 1 1 nand3373 1 
+and2490 1 2 1 1 or2668 1 
+not2493 1 1 1 1 nand3477 1 
+not2492 1 1 1 1 nand3375 1 
+not101 1 1 1 5 buf211 buf219 and654 and1078 and1095 0 0 0 0 0 
+not100 1 1 1 5 buf212 buf220 and653 and1079 and1096 0 0 0 0 0 
+buf107 1 1 1 2 not126 nand2757 0 0 
+not106 1 1 1 5 buf206 buf215 and659 and1073 and1090 0 0 0 0 0 
+or2499 1 2 1 2 or2878 or2879 0 0 
+and2498 1 2 1 6 and2691 and2692 and2717 and2831 and2833 and2858 2 2 2 1 1 1 
+nand2484 1 2 1 1 nand2699 0 
+not2485 1 1 1 1 nand2609 1 
+not2486 1 1 1 1 nand2711 1 
+and2487 1 5 1 3 not2709 nand2710 and2712 0 0 1 
+not2480 1 1 1 1 nand2605 1 
+not2481 1 1 1 1 nand2607 1 
+nand2482 1 2 1 1 nand2706 0 
+not2483 1 1 1 1 nand2608 1 
+buf154 1 1 1 6 not378 and380 and381 and382 and383 and384 0 1 1 1 1 1 
+buf155 1 1 1 6 not379 and385 and386 and387 and388 and389 0 1 1 1 1 1 
+buf152 1 1 1 6 not349 and355 and356 and357 or585 or586 0 1 1 1 1 1 
+buf153 1 1 1 6 not358 and360 and361 and362 and363 and364 0 1 1 1 1 1 
+and2488 1 4 1 1 or2669 4 
+and2489 1 3 1 1 or2667 3 
+and2395 1 3 1 1 nor2544 0 
+buf169 1 1 1 2 not269 nand1287 0 0 
+buf168 1 1 1 2 not268 nand1286 0 0 
+buf165 1 1 1 2 not265 nand429 0 0 
+buf164 1 1 1 2 not264 nand397 0 0 
+buf167 1 1 1 2 not267 nand1284 0 0 
+buf166 1 1 1 2 not266 nand1283 0 0 
+buf161 1 1 1 2 not261 nand427 0 0 
+buf160 1 1 1 2 not260 nand1281 0 0 
+buf163 1 1 1 2 not263 nand398 0 0 
+buf162 1 1 1 2 not262 nand1282 0 0 
+nor2459 1 2 1 1 nand2652 0 
+nor2458 1 2 1 1 nand2652 1 
+buf149 1 1 1 3 and577 and603 and604 1 1 1 
+buf148 1 1 1 6 not327 and329 and330 and331 and332 or476 0 1 1 1 1 1 
+buf147 1 1 1 5 and573 and574 and575 and576 and592 1 1 1 1 1 
+not146 1 1 1 2 and337 buf392 0 0 
+not2451 1 1 1 1 nand3204 1 
+not2450 1 1 1 1 nand3202 1 
+not2453 1 1 1 1 nand3208 1 
+not2452 1 1 1 1 nand3206 1 
+not2455 1 1 1 1 nand2764 1 
+not2454 1 1 1 1 nand2762 1 
+not2457 1 1 1 1 nand2768 1 
+not2456 1 1 1 1 nand2766 1 
+nand1648 1 2 1 1 nand1851 1 
+nand2448 1 2 1 1 and3166 0 
+not2449 1 1 1 1 nand3177 1 
+nor2440 1 3 1 2 not2684 nand2685 0 0 
+nor2441 1 4 1 2 not2687 nand3116 0 0 
+nand2442 1 2 1 1 nand2587 0 
+nand2443 1 2 1 1 nand2587 1 
+nand2444 1 2 1 1 nand2588 0 
+nand2445 1 2 1 1 nand2588 1 
+or2446 1 2 1 1 or2877 0 
+or2447 1 2 1 1 or2880 0 
+nand1658 1 2 1 1 nand1875 0 
+not2479 1 1 1 1 nand2603 1 
+not2478 1 1 1 1 nand2601 1 
+and2473 1 5 1 2 and2700 and2707 1 0 
+not2472 1 1 1 1 nand2708 1 
+nand2471 1 2 1 1 not2593 0 
+nand2470 1 2 1 1 nand2597 0 
+and2477 1 2 1 1 or2647 1 
+and2476 1 3 1 1 or2646 2 
+and2475 1 4 1 1 or2645 3 
+and2474 1 5 1 1 or2644 4 
+buf1182 1 1 1 2 not1491 nand1670 0 0 
+buf1183 1 1 1 2 not1492 nand1669 0 0 
+nand1668 1 2 1 1 nand1882 0 
+buf1181 1 1 1 2 not1489 nand1490 0 0 
+buf1186 1 1 1 2 nand1502 not1503 0 0 
+buf1187 1 1 1 2 nand1504 not1505 0 0 
+buf1184 1 1 1 2 nand1498 not1499 0 0 
+nand2468 1 2 1 1 nand2596 0 
+nand2469 1 2 1 1 nand2592 0 
+buf1188 1 1 1 2 nand1506 not1507 0 0 
+buf1189 1 1 1 2 nand1508 not1509 0 0 
+nor2462 1 2 1 1 nand2654 1 
+nand1664 1 2 1 1 nand1880 0 
+nor2460 1 2 1 1 nand2653 1 
+nor2461 1 2 1 1 nand2653 0 
+or2466 1 2 1 2 and2689 or2906 0 0 
+nand2467 1 2 1 1 nand2591 0 
+buf2338 1 1 1 2 not2522 nand3471 0 0 
+buf2339 1 1 1 2 not2523 nand3472 0 0 
+buf2335 1 1 1 2 not2580 nand3312 0 0 
+nor2419 1 3 1 2 not2602 nand2603 0 0 
+or2418 1 4 1 2 not2600 nand2601 0 0 
+nand2415 1 2 1 1 nand2661 0 
+not2414 1 1 1 1 nand2555 1 
+not2417 1 1 1 1 nand2996 1 
+not2416 1 1 1 2 not2662 nand2871 0 0 
+nand2411 1 2 1 1 nand2659 0 
+not2410 1 1 1 1 nand2554 1 
+not2413 1 1 1 1 nand2994 1 
+or2412 1 2 1 2 not2660 nand2870 0 0 
+not2408 1 1 1 2 not2657 nand2658 0 0 
+not2409 1 1 1 1 nand2924 1 
+not2404 1 1 1 2 not2651 nand2869 0 0 
+not2405 1 1 1 1 nand2990 1 
+or2406 1 2 1 2 not2655 nand2656 0 0 
+not2407 1 1 1 1 nand2922 1 
+or2400 1 2 1 2 not2649 nand2868 0 0 
+not2401 1 1 1 1 nand2988 1 
+not2402 1 1 1 1 nand2553 1 
+nand2403 1 2 1 1 nand2650 0 
+nor1193 1 2 1 2 not1516 nand2625 0 0 
+buf1192 1 1 1 2 nand1514 not1515 0 0 
+buf1191 1 1 1 2 nand1512 not1513 0 0 
+buf1190 1 1 1 2 nand1510 not1511 0 0 
+buf1197 1 1 1 2 not1524 nand1684 0 0 
+buf1196 1 1 1 2 not1523 nand1681 0 0 
+buf1195 1 1 1 2 not1522 nand1682 0 0 
+buf1194 1 1 1 2 not1520 nand1521 0 0 
+buf1199 1 1 1 2 not1612 nand1730 0 0 
+buf1198 1 1 1 2 not1525 nand1683 0 0 
+or2438 1 4 1 2 not2680 nand2681 0 0 
+nor2437 1 3 1 2 not2679 nand3040 0 0 
+or2436 1 4 1 2 not2677 nand3039 0 0 
+nand2435 1 2 1 1 nand2572 1 
+nand2434 1 2 1 1 nand2572 0 
+nand2433 1 2 1 1 nand2571 1 
+nand2432 1 2 1 1 nand2571 0 
+nor2431 1 2 1 2 not2623 nand2624 0 0 
+or2430 1 3 1 2 not2621 nand2622 0 0 
+nand1628 1 2 1 2 not2000 nand2049 0 0 
+or2428 1 4 1 2 not2617 nand2618 0 0 
+nor2429 1 3 1 2 not2619 nand2620 0 0 
+not1625 1 1 1 1 nand1738 1 
+nand2427 1 2 1 1 nand2570 1 
+nor2424 1 3 1 2 not2670 nand2671 0 0 
+nor2425 1 4 1 2 not2673 nand3114 0 0 
+or2422 1 4 1 2 not2664 nand3036 0 0 
+nor2423 1 3 1 2 not2666 nand3037 0 0 
+or2420 1 3 1 2 not2604 nand2605 0 0 
+nor2421 1 2 1 2 not2606 nand2607 0 0 
+not2464 1 1 1 1 nand2775 1 
+or2465 1 2 1 2 and2693 or2892 0 0 
+or2375 1 5 1 3 not2611 and2612 and3434 0 1 1 
+or2376 1 2 1 2 or2668 not2672 0 0 
+not1638 1 1 1 1 nand1747 1 
+not1639 1 1 1 1 nand1748 1 
+not1128 1 1 1 1 nand1366 1 
+not1129 1 1 1 1 nand1367 1 
+and1120 1 2 1 1 and2239 2 
+not1121 1 1 1 1 nand1577 1 
+and1122 1 2 1 1 and2240 2 
+and1123 1 2 1 1 and2241 3 
+not1124 1 1 1 1 nand1580 1 
+and1125 1 2 1 5 and1447 and1463 buf1605 buf1607 nor1610 1 1 0 0 1 
+not1126 1 1 1 1 nand1365 1 
+nand1127 1 2 1 1 nand1582 1 
+not1108 1 1 1 1 nand1361 1 
+not1109 1 1 1 1 nand1362 1 
+nand2843 1 2 1 1 nand2886 0 
+nand1102 1 2 1 1 nand1557 1 
+not1103 1 1 1 1 nand1358 1 
+not1100 1 1 1 1 nand1555 1 
+nand2848 1 2 1 1 nand2891 0 
+and2849 1 2 1 1 or2892 1 
+nand1107 1 2 1 1 nand1561 1 
+not1104 1 1 1 1 nand1359 1 
+not1105 1 1 1 1 nand1560 1 
+not1139 1 1 1 1 nand2746 1 
+not1138 1 1 1 1 nand2265 1 
+not1131 1 1 1 1 nand1369 1 
+not1130 1 1 1 1 nand1368 1 
+not1133 1 1 1 1 nand1371 1 
+not1132 1 1 1 1 nand1370 1 
+or1135 1 2 1 2 not1596 nand1597 0 0 
+not1134 1 1 1 1 nand1591 1 
+not1137 1 1 1 2 not1598 nand1599 0 0 
+not1136 1 1 1 1 nand2744 1 
+buf1168 1 1 1 2 nand1461 not1462 0 0 
+buf1169 1 1 1 2 nand1464 not1465 0 0 
+buf1164 1 1 1 2 nand1453 not1454 0 0 
+buf1165 1 1 1 2 nand1455 not1456 0 0 
+buf1166 1 1 1 2 nand1457 not1458 0 0 
+buf1167 1 1 1 2 nand1459 not1460 0 0 
+buf1160 1 1 1 2 nand1445 not1446 0 0 
+nor1161 1 2 1 2 not1448 nand2608 0 0 
+buf1162 1 1 1 2 nand1449 not1450 0 0 
+buf1163 1 1 1 2 nand1451 not1452 0 0 
+not1119 1 1 1 1 nand1575 1 
+and1118 1 2 1 1 and2238 1 
+and1113 1 2 1 1 and2234 1 
+and1112 1 2 1 1 or2392 0 
+nand2891 1 2 1 1 and3022 1 
+nand2890 1 2 1 1 and3020 0 
+not1117 1 1 1 1 nand1573 1 
+and1116 1 2 1 1 or2393 0 
+and1115 1 2 1 1 and2236 2 
+and1114 1 2 1 1 and2235 2 
+not2897 1 1 1 1 and3436 1 
+not2896 1 1 1 1 and2940 1 
+not1148 1 1 1 1 nand2656 1 
+buf1149 1 1 1 2 not1603 nand2748 0 0 
+nand1146 1 2 1 2 not1410 nand2846 0 0 
+nand1147 1 2 1 2 not1411 nand2847 0 0 
+not1144 1 1 1 1 nand1375 1 
+not1145 1 1 1 1 nand1376 1 
+not1142 1 1 1 1 nand1373 1 
+not1143 1 1 1 1 nand1374 1 
+not1140 1 1 1 1 nand2399 1 
+buf1141 1 1 1 2 not1600 nand2553 0 0 
+buf1179 1 1 1 2 not1487 nand1667 0 0 
+buf1178 1 1 1 2 not1486 nand1664 0 0 
+buf1175 1 1 1 2 not1483 nand1663 0 0 
+buf1174 1 1 1 2 not1481 nand1482 0 0 
+buf1177 1 1 1 2 not1485 nand1665 0 0 
+buf1176 1 1 1 2 not1484 nand1662 0 0 
+buf1171 1 1 1 2 not1475 nand1476 0 0 
+nor1170 1 2 1 2 not1608 nand2872 0 0 
+buf1173 1 1 1 2 not1479 nand1480 0 0 
+buf1172 1 1 1 2 not1477 nand1478 0 0 
+buf819 1 1 1 2 nand983 not984 0 0 
+or769 1 2 1 3 and1122 buf1251 buf1260 0 0 0 
+not768 1 1 1 1 nand1107 1 
+buf1158 1 1 1 2 nand1441 not1442 0 0 
+buf1157 1 1 1 2 nand1439 not1440 0 0 
+buf1156 1 1 1 2 nand1437 not1438 0 0 
+buf1155 1 1 1 2 nand1435 not1436 0 0 
+buf1154 1 1 1 2 nand1433 not1434 0 0 
+buf1153 1 1 1 2 nand1431 not1432 0 0 
+buf1152 1 1 1 2 not1430 nand2370 0 0 
+not804 1 1 1 1 nand927 1 
+not1150 1 1 1 1 nand2411 1 
+buf808 1 1 1 2 not972 nand1301 0 0 
+and709 1 2 1 2 and1835 or3024 1 0 
+and708 1 2 1 1 or2024 0 
+buf859 1 1 1 2 not1055 nand1661 0 0 
+buf858 1 1 1 2 not1052 nand1660 0 0 
+buf849 1 1 1 2 not1041 nand1333 0 0 
+buf895 1 1 1 2 not1237 nand1382 0 0 
+buf886 1 1 1 2 not1101 nand1102 0 0 
+buf884 1 1 1 2 not1230 nand1380 0 0 
+buf885 1 1 1 2 not1231 nand1379 0 0 
+and2195 1 3 1 1 or2386 2 
+and2196 1 4 1 1 or2386 3 
+and2199 1 3 1 1 or2436 3 
+not294 1 1 1 1 nand999 1 
+nand2796 1 2 1 1 nand2920 1 
+nand2797 1 2 1 2 not2921 nand2922 0 0 
+nand2794 1 2 1 1 nand2919 1 
+not2795 1 1 1 1 nand2869 1 
+nand2792 1 2 1 1 nand2867 0 
+not2793 1 1 1 1 nand2868 1 
+nand2790 1 2 1 1 nand2914 1 
+nand2791 1 2 1 1 nand2866 0 
+nand2798 1 2 1 2 not2923 nand2924 0 0 
+not2799 1 1 1 1 nand2870 1 
+not2181 1 1 1 2 and2516 and2627 1 0 
+and2180 1 2 1 1 or3136 1 
+and493 1 2 1 1 or610 0 
+nand2778 1 2 1 1 not2841 0 
+or2779 1 2 1 6 and2881 and2882 and2883 and2884 not2894 and2895 0 0 0 0 0 1 
+not2770 1 1 1 1 nand2846 1 
+nand2771 1 2 1 1 nand2889 1 
+not2772 1 1 1 1 nand2847 1 
+nand2773 1 2 1 1 nand2890 1 
+not2774 1 1 1 1 nand2848 1 
+nand2775 1 2 1 1 nand2891 1 
+not2776 1 1 1 1 and3405 1 
+buf2296 1 1 1 2 not2557 nand3285 0 0 
+buf2295 1 1 1 2 not2556 nand3186 0 0 
+buf2294 1 1 1 2 nand2484 not2485 0 0 
+buf2299 1 1 1 2 not2559 nand3187 0 0 
+buf2298 1 1 1 2 not2491 nand3393 0 0 
+or483 1 2 1 1 and603 0 
+or480 1 2 1 1 and576 0 
+or481 1 2 1 1 and577 0 
+nand2787 1 2 1 1 nand2908 1 
+not2786 1 1 1 1 nand2864 1 
+nand2785 1 2 1 1 not2838 0 
+nand2784 1 2 1 1 not2837 0 
+nand2783 1 2 1 1 nand2899 1 
+not2782 1 1 1 1 nand2854 1 
+and2781 1 2 1 2 not2897 and3435 0 1 
+and2780 1 2 1 2 not2896 and2898 0 0 
+not2280 1 1 1 1 nand3295 1 
+not2789 1 1 1 1 nand2865 1 
+and2788 1 2 1 2 not2913 and3439 0 1 
+not2284 1 1 1 1 nand3385 1 
+not2285 1 1 1 1 nand3387 1 
+not2288 1 1 1 1 nand3323 1 
+buf2289 1 1 1 2 not2478 nand2702 0 0 
+nand2758 1 2 1 1 and2881 1 
+and471 1 2 1 1 or879 1 
+nand2752 1 2 1 1 nand2821 1 
+nand2753 1 2 1 1 nand2823 1 
+nand2750 1 2 1 1 nand2811 1 
+not2751 1 1 1 1 nand3224 1 
+not2756 1 1 1 1 and3199 1 
+nand2757 1 2 1 1 nand2839 1 
+nand2754 1 2 1 1 and3197 1 
+nand2755 1 2 1 1 and3198 1 
+nand930 1 2 1 1 nand1212 1 
+nand931 1 2 1 1 nand1390 0 
+not932 1 1 1 1 nand1278 1 
+nand933 1 2 1 1 nand1391 0 
+not934 1 1 1 1 nand1279 1 
+nand935 1 2 1 1 nand1392 0 
+not936 1 1 1 1 nand1280 1 
+nand937 1 2 1 1 nand1393 0 
+not938 1 1 1 1 nand1281 1 
+nand1282 1 2 1 1 nand1394 1 
+nand1285 1 2 1 1 nand1397 1 
+nand1284 1 2 1 1 nand1396 1 
+nand3387 1 2 1 1 nand3413 1 
+not3384 1 1 1 1 nand3399 1 
+nand3385 1 2 1 1 nand3412 1 
+nand1288 1 2 1 1 not1400 0 
+not3388 1 1 1 1 nand3401 1 
+nand3389 1 2 1 1 nand3414 1 
+not2761 1 1 1 1 nand2842 1 
+not2760 1 1 1 1 and2883 1 
+not2763 1 1 1 1 nand2843 1 
+nand2762 1 2 1 1 nand2885 1 
+not2765 1 1 1 1 nand2844 1 
+nand2764 1 2 1 1 nand2886 1 
+not2767 1 1 1 1 nand2845 1 
+nand2766 1 2 1 1 nand2887 1 
+nand1290 1 2 1 1 nand1401 0 
+nand1291 1 2 1 1 nand1402 0 
+nand1292 1 2 1 1 nand1402 1 
+nand1293 1 2 1 1 nand1403 0 
+nand1294 1 2 1 1 nand1403 1 
+nand1295 1 2 1 1 nand1404 0 
+nand1296 1 2 1 1 nand1405 0 
+nand1297 1 2 1 1 nand1405 1 
+nand1298 1 2 1 1 nand1406 0 
+not2738 1 1 1 1 nand2918 1 
+nor2739 1 2 1 1 nand2826 1 
+nor2734 1 2 1 1 nand2814 0 
+and2735 1 2 1 2 not2855 and2856 0 0 
+and3198 1 2 1 1 or3278 1 
+not2737 1 1 1 1 nand2916 1 
+or2730 1 2 1 3 and2834 and2849 or2893 0 0 0 
+nor2731 1 2 1 1 nand2813 1 
+nor2732 1 2 1 1 nand2813 0 
+nor2733 1 2 1 1 nand2814 1 
+not2230 1 1 1 1 and2391 2 
+and2233 1 4 1 3 not2535 and2537 and2639 0 0 0 
+or912 1 2 1 2 not1132 nand1371 0 0 
+or913 1 2 1 2 not1133 nand1370 0 0 
+buf910 1 1 1 2 not1257 nand1388 0 0 
+buf911 1 1 1 2 not1258 nand1387 0 0 
+not916 1 1 1 1 nand955 1 
+nand917 1 2 1 1 nand1289 0 
+or914 1 2 1 2 not1134 nand1722 0 0 
+nand915 1 2 1 1 nand1288 0 
+not918 1 1 1 1 nand956 1 
+not919 1 1 1 1 nand958 1 
+not2749 1 1 1 1 nand3269 1 
+nand2748 1 2 1 1 nand2798 1 
+not2743 1 1 1 1 nand2791 1 
+nor2742 1 2 1 1 nand2825 0 
+nor2741 1 2 1 1 nand2825 1 
+nor2740 1 2 1 1 nand2826 0 
+nand2747 1 2 1 1 nand2797 1 
+nand2746 1 2 1 1 nand2867 1 
+not2745 1 1 1 1 nand2792 1 
+nand2744 1 2 1 1 nand2866 1 
+or921 1 2 1 3 not1351 or2499 and3042 0 0 1 
+not920 1 1 1 1 nand964 1 
+not923 1 1 1 1 nand2938 1 
+or922 1 3 1 2 not1372 nand2396 0 0 
+nand925 1 2 1 1 nand1146 0 
+not924 1 1 1 1 nand2939 1 
+nand927 1 2 1 1 nand1147 0 
+nand926 1 2 1 1 nand1146 1 
+nand929 1 2 1 1 nand1212 0 
+nand3391 1 2 1 2 not3417 nand3418 0 0 
+nand3390 1 2 1 2 not3415 nand3416 0 0 
+nand3397 1 2 1 1 nand3410 0 
+nand3396 1 2 1 1 nand3409 0 
+nand3395 1 2 1 1 nand3408 0 
+nand3394 1 2 1 1 nand3407 0 
+nand3399 1 2 1 1 nand3412 0 
+nand3398 1 2 1 1 nand3411 0 
+or2716 1 2 1 3 and2830 and2832 and2857 0 0 0 
+and2717 1 4 1 1 or2905 3 
+not2714 1 1 1 1 nand2903 1 
+nand2715 1 2 1 1 and2904 0 
+and2712 1 2 1 3 and2836 and2851 and2853 1 1 1 
+or2713 1 2 1 3 and2835 and2850 and2852 0 0 0 
+nand2710 1 2 1 1 and2780 1 
+nand2711 1 2 1 1 and2940 0 
+not974 1 1 1 1 nand1304 1 
+nand975 1 2 1 1 nand1412 0 
+not976 1 1 1 1 nand1305 1 
+nand977 1 2 1 1 nand1413 0 
+nand970 1 2 1 1 nand1407 1 
+not971 1 1 1 1 nand1301 1 
+not972 1 1 1 1 nand1302 1 
+not973 1 1 1 1 nand1303 1 
+and2234 1 2 1 1 or2392 1 
+and2237 1 5 1 2 nand2536 and2537 0 1 
+and2236 1 4 1 1 or2392 3 
+not978 1 1 1 1 nand1306 1 
+nand979 1 2 1 1 nand1414 0 
+not2729 1 1 1 1 nand2912 1 
+not2728 1 1 1 1 nand2910 1 
+nor2725 1 2 1 1 nand2815 0 
+nor2724 1 2 1 1 nand2815 1 
+nor2727 1 2 1 1 nand2816 0 
+nor2726 1 2 1 1 nand2816 1 
+nand2721 1 2 1 1 nand2755 0 
+nand2720 1 2 1 1 nand2784 0 
+nand2723 1 2 1 1 not2756 0 
+nand2722 1 2 1 1 nand2785 0 
+buf2228 1 1 1 2 not2528 and2532 0 2 
+not2229 1 1 1 1 and2390 2 
+buf903 1 1 1 2 not1126 nand1127 0 0 
+buf902 1 1 1 2 not1124 nand1717 0 0 
+and1754 1 5 1 1 or2016 4 
+buf900 1 1 1 2 not1119 nand1713 0 0 
+buf907 1 1 1 2 not1131 nand1368 0 0 
+buf906 1 1 1 2 not1130 nand1369 0 0 
+buf905 1 1 1 2 not1129 nand1366 0 0 
+buf904 1 1 1 2 not1128 nand1367 0 0 
+buf2225 1 1 1 2 not2525 and2529 0 2 
+buf909 1 1 1 2 not1256 nand1385 0 0 
+buf908 1 1 1 2 not1255 nand1386 0 0 
+and2205 1 3 1 1 or2388 2 
+nand956 1 2 1 1 nand1289 1 
+not957 1 1 1 1 nand1290 1 
+not954 1 1 1 1 nand1276 0 
+nand955 1 2 1 1 nand1288 1 
+not952 1 1 1 1 nand1287 1 
+not953 1 1 1 1 nand1276 1 
+not950 1 1 1 1 nand1286 1 
+not3328 1 1 1 1 nand3343 1 
+nand3329 1 2 1 1 nand3356 1 
+nand958 1 2 1 1 nand1401 1 
+not3320 1 1 1 1 nand3339 1 
+nand3321 1 2 1 1 nand3352 1 
+not3322 1 1 1 1 nand3340 1 
+nand3323 1 2 1 1 nand3353 1 
+not3324 1 1 1 1 nand3341 1 
+nand3325 1 2 1 1 nand3354 1 
+not3326 1 1 1 1 nand3342 1 
+nand3327 1 2 1 1 nand3355 1 
+nand2703 1 2 1 1 nand2777 0 
+nand2702 1 2 1 1 nand2758 0 
+or2701 1 2 1 3 and2828 and2860 and2862 0 0 0 
+and2700 1 2 1 3 and2829 and2861 and2863 1 1 1 
+and3103 1 2 1 1 or3209 1 
+and3106 1 5 1 1 or3134 4 
+and3107 1 4 1 1 or3135 3 
+nand964 1 2 1 1 nand1404 1 
+not967 1 1 1 1 nand1298 1 
+not966 1 1 1 1 nand1297 1 
+not961 1 1 1 1 nand1293 1 
+not960 1 1 1 1 nand1292 1 
+not963 1 1 1 1 nand1295 1 
+and2203 1 5 1 2 not2519 and2524 0 1 
+and2200 1 2 1 1 nor2437 1 
+and2207 1 5 1 1 or2388 4 
+not969 1 1 1 1 nand1300 1 
+not968 1 1 1 1 nand1299 1 
+nand1449 1 2 1 1 nand1856 0 
+buf1209 1 1 1 2 not1617 nand1733 0 0 
+buf1208 1 1 1 2 not1616 nand1734 0 0 
+nand2274 1 2 1 2 not2464 nand2848 0 0 
+not2277 1 1 1 1 nand3293 1 
+nand3309 1 2 1 1 nand3318 0 
+not2270 1 1 1 1 nand3383 1 
+not2273 1 1 1 1 nand3317 1 
+buf1201 1 1 1 2 not1614 nand1732 0 0 
+nand3302 1 2 1 1 nand3330 1 
+nand3303 1 2 1 2 not3331 nand3332 0 0 
+nand3300 1 2 1 2 not3328 nand3329 0 0 
+not3301 1 1 1 1 nand3311 1 
+nand3306 1 2 1 1 nand3335 1 
+not3307 1 1 1 1 nand3313 1 
+nand3304 1 2 1 2 not3333 nand3334 0 0 
+not3305 1 1 1 1 nand3312 1 
+nand947 1 2 1 1 nand1397 0 
+not946 1 1 1 1 nand1284 1 
+nand945 1 2 1 1 nand1396 0 
+not944 1 1 1 1 nand1283 1 
+nand943 1 2 1 1 nand1395 0 
+not942 1 1 1 1 nand1277 0 
+buf1218 1 1 1 2 nand1543 not1544 0 0 
+nand3339 1 2 1 1 nand3352 0 
+nand3338 1 2 1 1 nand3351 0 
+not2267 1 1 1 1 nand3255 1 
+buf2260 1 1 1 2 not2456 nand2844 0 0 
+buf2261 1 1 1 2 not2457 nand2845 0 0 
+nand949 1 2 1 1 nand1398 0 
+not3331 1 1 1 1 nand3344 1 
+nand3330 1 2 1 2 not3357 nand3358 0 0 
+buf1213 1 1 1 2 nand1533 not1534 0 0 
+nand3332 1 2 1 1 nand3359 1 
+nand3335 1 2 1 2 not3361 nand3362 0 0 
+buf1216 1 1 1 2 nand1539 not1540 0 0 
+buf1217 1 1 1 2 nand1541 not1542 0 0 
+nand3336 1 2 1 2 not3363 nand3364 0 0 
+not998 1 1 1 1 nand1316 1 
+nand999 1 2 1 1 nand1424 0 
+not3429 1 1 1 1 nand3448 1 
+not992 1 1 1 1 nand1313 1 
+nand993 1 2 1 1 nand1421 0 
+not990 1 1 1 1 nand1312 1 
+nand3368 1 2 1 1 nand3391 0 
+nand3369 1 2 1 1 nand3392 0 
+nand997 1 2 1 1 nand1423 0 
+not994 1 1 1 1 nand1314 1 
+nand3364 1 2 1 1 nand3392 1 
+nand3365 1 2 1 1 nand3370 0 
+nand3366 1 2 1 1 nand3371 0 
+nand3367 1 2 1 1 nand3390 0 
+nand3360 1 2 1 2 not3378 nand3379 0 0 
+not3361 1 1 1 1 nand3368 1 
+nand3362 1 2 1 1 nand3391 1 
+not3363 1 1 1 1 nand3369 1 
+not1238 1 1 1 1 nand1382 1 
+nand3319 1 2 1 2 not3348 nand3349 0 0 
+nand3318 1 2 1 2 not3346 nand3347 0 0 
+buf1232 1 1 1 2 not1559 nand1560 0 0 
+nand3313 1 2 1 1 nand3336 0 
+nand3312 1 2 1 1 nand3335 0 
+nand3311 1 2 1 1 nand3330 0 
+nand3310 1 2 1 1 nand3319 0 
+nand3317 1 2 1 1 nand3351 1 
+not3316 1 1 1 1 nand3338 1 
+buf1235 1 1 1 2 not1626 nand1740 0 0 
+not3314 1 1 1 1 nand3337 1 
+buf1249 1 1 1 2 not1572 nand1573 0 0 
+buf1248 1 1 1 2 not1571 nand1710 0 0 
+not3348 1 1 1 1 nand3366 1 
+nand3349 1 2 1 1 nand3371 1 
+not3346 1 1 1 1 nand3365 1 
+buf1247 1 1 1 2 not1570 nand1711 0 0 
+nand3344 1 2 1 1 nand3359 0 
+nand3345 1 2 1 1 nand3360 0 
+nand3342 1 2 1 1 nand3355 0 
+nand3343 1 2 1 1 nand3356 0 
+nand3340 1 2 1 1 nand3353 0 
+nand3341 1 2 1 1 nand3354 0 
+nand989 1 2 1 1 nand1419 0 
+not988 1 1 1 1 nand1311 1 
+nand983 1 2 1 1 nand1416 0 
+not982 1 1 1 1 nand1308 1 
+nand981 1 2 1 1 nand1415 0 
+nand3379 1 2 1 1 nand3409 1 
+not3378 1 1 1 1 nand3396 1 
+not986 1 1 1 1 nand1310 1 
+nand985 1 2 1 1 nand1417 0 
+not984 1 1 1 1 nand1309 1 
+not3374 1 1 1 1 nand3394 1 
+nand3377 1 2 1 1 nand3408 1 
+not3376 1 1 1 1 nand3395 1 
+nand3371 1 2 1 2 and3402 and3404 0 0 
+nand3370 1 2 1 2 and3403 and3405 0 0 
+nand3373 1 2 1 1 nand3406 1 
+not3372 1 1 1 1 nand3393 1 
+buf1269 1 1 1 2 not1593 nand1723 0 0 
+buf1268 1 1 1 2 not1592 nand1724 0 0 
+buf1267 1 1 1 2 not1590 nand1591 0 0 
+buf1266 1 1 1 2 not1635 nand1743 0 0 
+buf1265 1 1 1 2 not1634 nand1744 0 0 
+buf1264 1 1 1 2 not1633 nand1741 0 0 
+buf1263 1 1 1 2 not1632 nand1742 0 0 
+buf1262 1 1 1 2 not1589 nand1720 0 0 
+buf1261 1 1 1 2 not1588 nand1721 0 0 
+buf1260 1 1 1 2 not1587 nand1718 0 0 
+nand1278 1 2 1 1 nand1390 1 
+nand1279 1 2 1 1 nand1391 1 
+nand1276 1 2 1 1 and3071 0 
+nand1277 1 2 1 1 and3119 0 
+nand3356 1 2 1 2 not3388 nand3389 0 0 
+nand3355 1 2 1 2 not3374 nand3375 0 0 
+nand3354 1 2 1 2 not3372 nand3373 0 0 
+nand3353 1 2 1 2 not3386 nand3387 0 0 
+nand3352 1 2 1 2 not3384 nand3385 0 0 
+nand3351 1 2 1 2 not3382 nand3383 0 0 
+nand3350 1 2 1 2 not3380 nand3381 0 0 
+nand1920 1 2 1 2 buf2225 buf2226 0 0 
+not1921 1 1 1 2 and2532 and2635 1 0 
+not1922 1 1 1 2 and2532 and2636 0 1 
+nand1923 1 2 1 2 buf2227 buf2228 0 0 
+not1924 1 1 1 2 and2232 and2390 1 0 
+not1925 1 1 1 2 and2232 and2391 0 1 
+buf1926 1 1 1 2 not2229 and2231 0 2 
+buf1927 1 1 1 2 not2230 and2232 0 2 
+nand1928 1 2 1 4 and2233 and2234 and2235 and2236 3 0 1 1 
+nand1929 1 2 1 3 and2233 and2235 and2236 2 0 3 
+buf794 1 1 1 2 not960 nand1291 0 0 
+buf795 1 1 1 2 not961 nand1294 0 0 
+buf796 1 1 1 2 not962 nand1293 0 0 
+not797 1 1 1 1 nand925 1 
+buf790 1 1 1 2 nand949 not950 0 0 
+buf791 1 1 1 2 nand951 not952 0 0 
+buf792 1 1 1 2 not957 nand958 0 0 
+buf793 1 1 1 2 not959 nand1292 0 0 
+not798 1 1 1 1 nand926 1 
+buf799 1 1 1 2 not963 nand964 0 0 
+nand1902 1 2 1 3 not2182 and2515 and2627 0 0 1 
+nand1903 1 2 1 2 buf2187 buf2188 0 0 
+not1900 1 1 1 2 and2192 and2385 0 1 
+nand1901 1 2 1 3 not2181 and2515 and2628 0 1 0 
+nand1906 1 2 1 2 buf2189 buf2190 0 0 
+buf1907 1 1 1 2 not2185 and2191 0 2 
+nand1904 1 2 1 3 not2183 and2517 and2630 0 1 0 
+nand1905 1 2 1 3 not2184 and2517 and2629 0 0 1 
+buf1908 1 1 1 2 not2186 and2192 0 2 
+nand1909 1 2 1 6 and2193 and2194 and2195 and2196 buf2328 buf2332 3 0 1 1 0 0 
+nand1931 1 2 1 5 and2237 and2238 and2239 and2240 and2241 4 0 1 1 2 
+nand1930 1 2 1 2 and2233 and2236 1 0 
+nand1933 1 2 1 3 and2237 and2240 and2241 2 0 1 
+nand1932 1 2 1 4 and2237 and2239 and2240 and2241 3 0 3 4 
+nand1935 1 2 1 1 and2233 0 
+nand1934 1 2 1 2 and2237 and2241 1 0 
+not1937 1 1 1 2 and2252 and2394 1 0 
+nand1936 1 2 1 1 and2237 0 
+not1939 1 1 1 2 and2546 and2640 1 0 
+not1938 1 1 1 2 and2252 and2395 0 1 
+not342 1 1 1 1 nand1504 1 
+buf785 1 1 1 2 not1139 nand2792 0 0 
+nor784 1 2 1 2 not1138 nand2397 0 0 
+buf787 1 1 1 2 nand943 not944 0 0 
+nor786 1 2 1 2 not1140 nand2552 0 0 
+buf781 1 1 1 2 nand937 not938 0 0 
+buf780 1 1 1 2 nand935 not936 0 0 
+buf783 1 1 1 2 not1136 nand2791 0 0 
+buf782 1 1 1 2 nand939 not940 0 0 
+buf789 1 1 1 2 nand947 not948 0 0 
+buf788 1 1 1 2 nand945 not946 0 0 
+buf1964 1 1 1 2 not2066 nand3447 0 0 
+buf1965 1 1 1 2 not2271 nand3182 0 0 
+buf1966 1 1 1 2 not2272 nand3282 0 0 
+buf1967 1 1 1 2 not2273 nand3338 0 0 
+buf1960 1 1 1 2 not2267 nand3281 0 0 
+buf1961 1 1 1 2 not2268 nand3337 0 0 
+buf1962 1 1 1 2 not2269 nand3397 0 0 
+buf1963 1 1 1 2 not2065 nand3446 0 0 
+or758 1 2 1 3 and1060 buf1182 buf1267 0 0 0 
+or759 1 2 1 3 and1059 buf1179 buf1269 0 0 0 
+and750 1 2 1 1 or921 1 
+not751 1 1 1 1 nand1083 1 
+and752 1 2 1 2 and1123 buf1254 1 0 
+or753 1 2 1 5 and1077 and1094 buf1188 buf1197 buf1216 1 1 0 0 0 
+or754 1 2 1 7 and1076 and1093 buf1187 nor1193 buf1200 buf1220 nor1222 0 1 0 0 0 0 1 
+or755 1 2 1 5 and1075 and1092 buf1186 buf1199 buf1215 1 1 0 0 0 
+or756 1 2 1 5 and1074 and1091 buf1185 buf1202 buf1214 1 1 0 0 0 
+or757 1 2 1 5 and1073 and1090 buf1184 buf1201 buf1213 1 1 0 0 0 
+nand1913 1 2 1 13 and2203 and2205 and2206 and2207 and2208 and2209 and2210 and2211 and2212 and2213 and2214 buf2338 buf2339 3 0 3 4 0 2 3 2 0 2 3 0 0 
+nand1912 1 2 1 7 and2203 and2204 and2205 and2206 and2207 buf2336 buf2342 4 0 1 1 2 0 0 
+nand1911 1 2 1 9 and2193 and2196 and2198 and2199 and2201 and2202 and2221 buf2327 buf2331 1 0 0 1 0 0 1 0 0 
+nand1910 1 2 1 10 and2193 and2195 and2196 and2197 and2198 and2199 and2200 and2201 buf2329 buf2333 2 0 3 0 2 2 0 2 0 0 
+nand1917 1 2 1 6 and2203 and2211 and2217 and2222 buf2334 buf2340 0 0 0 0 0 0 
+nand1916 1 2 1 5 and2193 and2199 and2221 buf2326 buf2330 0 0 0 0 0 
+nand1915 1 2 1 12 and2203 and2207 and2210 and2211 and2214 and2216 and2217 and2219 and2220 and2222 buf2335 buf2341 1 0 0 3 0 0 2 0 0 1 0 0 
+nand1914 1 2 1 15 and2203 and2206 and2207 and2209 and2210 and2211 and2213 and2214 and2215 and2216 and2217 and2218 and2219 buf2337 buf2343 2 0 1 0 1 1 0 1 0 1 1 0 1 0 0 
+buf9 1 1 1 1 monitor 6 
+nand1919 1 2 1 3 not2224 and2529 and2633 0 0 1 
+nand1918 1 2 1 3 not2223 and2529 and2634 0 1 0 
+buf2 1 1 1 1 monitor 1 
+not3 1 1 1 1 nand108 0 
+buf1 1 1 1 1 monitor 0 
+buf6 1 1 1 1 monitor 3 
+buf7 1 1 1 1 monitor 4 
+and4 1 2 1 2 and120 nand124 0 0 
+buf5 1 1 1 1 monitor 2 
+buf1946 1 1 1 2 not2246 and2252 0 2 
+buf1947 1 1 1 2 not2052 nand3074 0 0 
+nand1944 1 2 1 2 buf2249 buf2250 0 0 
+buf1945 1 1 1 2 not2245 and2251 0 2 
+nand1942 1 2 1 3 not2243 and2547 and2643 0 1 0 
+nand1943 1 2 1 3 not2244 and2547 and2642 0 0 1 
+nand1940 1 2 1 3 not2242 and2545 and2640 0 0 1 
+nand1941 1 2 1 2 buf2247 buf2248 0 0 
+buf778 1 1 1 2 nand931 not932 0 0 
+buf779 1 1 1 2 nand933 not934 0 0 
+or772 1 2 1 3 and1116 buf1247 buf1261 0 0 0 
+or773 1 2 1 3 and1115 buf1252 buf1264 0 0 0 
+or770 1 2 1 3 and1120 buf1250 buf1259 0 0 0 
+or771 1 2 1 3 and1118 buf1249 buf1262 0 0 0 
+or776 1 2 1 3 and1112 buf1241 buf1265 0 0 0 
+not777 1 1 1 1 nand1127 1 
+or774 1 2 1 3 and1114 buf1245 buf1263 0 0 0 
+or775 1 2 1 3 and1113 buf1243 buf1266 0 0 0 
+buf1975 1 1 1 2 not2278 nand3113 0 0 
+buf1974 1 1 1 2 not2082 nand3365 0 0 
+buf1977 1 1 1 2 not2280 nand3310 0 0 
+buf1976 1 1 1 2 not2279 nand3242 0 0 
+buf1971 1 1 1 2 not2275 nand3112 0 0 
+not1970 1 1 1 1 nand2035 1 
+buf1973 1 1 1 2 not2277 nand3309 0 0 
+buf1972 1 1 1 2 not2276 nand3241 0 0 
+and749 1 2 1 3 not1072 and2157 and2381 0 0 0 
+and748 1 2 1 1 and1888 3 
+and741 1 2 1 1 and1872 2 
+and740 1 2 1 1 and1871 1 
+and743 1 2 1 1 and1874 3 
+and742 1 2 1 1 and1873 2 
+and745 1 2 1 1 and1885 1 
+and744 1 2 1 1 or2029 0 
+and747 1 2 1 1 and1887 2 
+and746 1 2 1 1 and1886 2 
+or718 1 2 1 5 and1016 and1025 buf1157 buf1165 buf1206 1 1 0 0 0 
+or719 1 2 1 7 and1015 and1024 buf1156 nor1161 buf1169 nor1170 buf1209 0 1 0 0 0 1 0 
+or714 1 2 1 3 and1115 buf1234 buf1253 1 0 0 
+or715 1 2 1 3 and1114 buf1233 buf1246 1 0 0 
+or716 1 2 1 3 and1113 buf1236 buf1244 1 0 0 
+or717 1 2 1 3 and1112 buf1235 buf1242 1 0 0 
+and710 1 2 1 3 and1836 and1839 or3025 2 1 0 
+and711 1 2 1 4 and1837 and1840 and1842 or3026 2 1 0 0 
+and712 1 2 1 5 and1838 and1841 and1843 and1844 or3027 3 2 2 1 0 
+or713 1 2 1 3 and1116 buf1232 buf1248 1 0 0 
+nand1957 1 2 1 2 not2262 nand2263 0 0 
+buf1956 1 1 1 2 not2061 nand3129 0 0 
+buf1955 1 1 1 2 not2060 nand3128 0 0 
+buf1954 1 1 1 2 not2059 nand3127 0 0 
+buf1953 1 1 1 2 not2058 nand3126 0 0 
+buf1952 1 1 1 2 not2057 nand3087 0 0 
+buf1951 1 1 1 2 not2056 nand3124 0 0 
+buf1950 1 1 1 2 not2055 nand3123 0 0 
+buf1959 1 1 1 2 not2266 nand3181 0 0 
+nand1958 1 2 1 2 not2264 nand2265 0 0 
+or763 1 2 1 3 and1054 buf1181 buf1273 0 0 0 
+or762 1 2 1 3 and1056 buf1174 buf1270 0 0 0 
+or761 1 2 1 3 and1057 buf1175 buf1271 0 0 0 
+or760 1 2 1 3 and1058 buf1177 buf1268 0 0 0 
+not767 1 1 1 1 nand1102 1 
+or766 1 2 1 3 and1049 buf1171 buf1274 0 0 0 
+or765 1 2 1 3 and1051 buf1172 buf1275 0 0 0 
+or764 1 2 1 3 and1053 buf1173 buf1272 0 0 0 
+buf1988 1 1 1 2 not2285 nand3400 0 0 
+buf1989 1 1 1 2 not2088 nand2467 0 0 
+buf1982 1 1 1 2 not2284 nand3399 0 0 
+buf1983 1 1 1 2 not2084 nand3448 0 0 
+buf1980 1 1 1 2 not2282 nand3283 0 0 
+buf1981 1 1 1 2 not2283 nand3339 0 0 
+buf1986 1 1 1 2 not2287 nand3284 0 0 
+buf1987 1 1 1 2 not2288 nand3340 0 0 
+buf1984 1 1 1 2 not2085 nand3449 0 0 
+buf1985 1 1 1 2 not2286 nand3185 0 0 
+and738 1 2 1 1 and1869 2 
+and739 1 2 1 1 or2028 0 
+and736 1 2 1 1 and1867 1 
+and737 1 2 1 1 and1868 2 
+or734 1 2 1 5 and1017 and1026 buf1158 buf1166 buf1207 1 1 0 0 0 
+and735 1 2 1 1 or2027 0 
+or732 1 2 1 5 and1019 and1028 buf1160 buf1168 buf1205 1 1 0 0 0 
+or733 1 2 1 5 and1018 and1027 buf1159 buf1167 buf1204 1 1 0 0 0 
+or730 1 2 1 5 and1078 and1095 buf1189 buf1198 buf1217 1 1 0 0 0 
+or731 1 2 1 2 and1125 buf1203 0 0 
+nand2697 1 2 1 1 nand2839 0 
+nand2696 1 2 1 1 and3248 0 
+not2695 1 1 1 1 and3165 0 
+not2694 1 1 1 1 and3164 0 
+and2693 1 2 1 1 or2880 1 
+and2692 1 5 1 1 or2879 4 
+and705 1 2 1 3 and1823 or2042 nor2043 1 0 0 
+and704 1 2 1 1 or2023 0 
+and707 1 2 1 6 buf1152 and1825 and1827 and1830 and1831 and1833 0 2 1 0 1 1 
+and706 1 2 1 5 and1824 and1826 and1829 or2044 nor2045 2 1 1 0 0 
+and701 1 2 1 5 and1804 and1807 and1811 or2038 nor2040 2 1 1 0 0 
+and700 1 2 1 3 and1803 or2039 nor2041 1 0 0 
+and703 1 2 1 7 buf1151 and1806 and1809 and1813 and1815 and1818 and1819 0 3 2 2 2 2 1 
+and702 1 2 1 6 and1805 and1808 and1812 and1814 and1817 or2022 2 1 1 1 1 0 
+nand2699 1 2 1 1 and2958 0 
+not2698 1 1 1 1 nand2757 1 
+nand2094 1 2 1 1 nand2448 0 
+not2686 1 1 1 2 not2824 nand2955 0 0 
+not2687 1 1 1 1 nand3067 1 
+not2684 1 1 1 1 nand2753 1 
+nand2685 1 2 1 1 nand2823 0 
+or2682 1 2 1 2 not2822 nand2954 0 0 
+not2683 1 1 1 1 nand3065 1 
+not2680 1 1 1 1 nand2752 1 
+nand2681 1 2 1 1 nand2821 0 
+nand2688 1 2 1 2 not2789 nand2790 0 0 
+and2689 1 2 1 1 or2877 1 
+not1999 1 1 1 1 nand2047 1 
+not1998 1 1 1 1 nand2046 1 
+buf1993 1 1 1 2 nand2092 not2093 0 0 
+buf1992 1 1 1 2 not2091 nand2470 0 0 
+buf1991 1 1 1 2 not2090 nand2469 0 0 
+buf1990 1 1 1 2 not2089 nand2468 0 0 
+buf1997 1 1 1 2 not2308 nand2750 0 0 
+not1996 1 1 1 1 nand2808 1 
+not2679 1 1 1 1 nand3007 1 
+not2678 1 1 1 2 not2819 nand2820 0 0 
+or729 1 2 1 5 and1079 and1096 buf1190 buf1195 buf1218 1 1 0 0 0 
+or728 1 2 1 5 and1080 and1097 buf1191 buf1196 buf1219 1 1 0 0 0 
+or727 1 2 1 6 and1081 and1098 buf1192 buf1194 buf1221 nor1223 1 1 0 0 0 1 
+or726 1 2 1 3 and1057 buf1176 buf1227 1 0 0 
+or725 1 2 1 3 and1058 buf1178 buf1225 1 0 0 
+or724 1 2 1 3 and1059 buf1180 buf1226 1 0 0 
+or723 1 2 1 3 and1060 buf1183 buf1224 1 0 0 
+or722 1 2 1 5 and1012 and1021 buf1153 buf1162 buf1210 1 1 0 0 0 
+or721 1 2 1 5 and1013 and1022 buf1154 buf1163 buf1211 1 1 0 0 0 
+or720 1 2 1 5 and1014 and1023 buf1155 buf1164 buf1208 1 1 0 0 0 
+not2677 1 1 1 1 nand3005 1 
+or2676 1 2 1 2 not2817 nand2818 0 0 
+not3081 1 1 1 1 nand3122 1 
+nand3080 1 2 1 1 nand3168 1 
+not3083 1 1 1 1 nand3123 1 
+nand3082 1 2 1 1 nand3169 1 
+or2668 1 2 1 2 not2809 nand3038 0 0 
+or2669 1 5 1 2 not2810 nand3188 0 0 
+nand3087 1 2 1 1 nand3125 0 
+nand3086 1 2 1 1 nand3171 1 
+nand3089 1 2 1 1 nand3172 1 
+not3088 1 1 1 1 nand3126 1 
+not2660 1 1 1 1 nand2800 1 
+nand2661 1 2 1 2 not2801 nand2802 0 0 
+not2662 1 1 1 1 nand2802 1 
+or2663 1 2 1 2 not2803 nand2804 0 0 
+not2664 1 1 1 1 nand2998 1 
+not2665 1 1 1 2 not2805 nand2806 0 0 
+not2666 1 1 1 1 nand3000 1 
+or2667 1 4 1 2 not2807 nand2808 0 0 
+not3090 1 1 1 1 nand3127 1 
+nand3091 1 2 1 1 nand3173 1 
+not3092 1 1 1 1 nand3128 1 
+nand3093 1 2 1 1 nand3174 1 
+not3094 1 1 1 1 nand3129 1 
+nand3095 1 2 1 1 nand3175 1 
+nand2659 1 2 1 2 not2799 nand2800 0 0 
+nand2658 1 2 1 1 nand2798 0 
+not3098 1 1 1 1 monitor 70 
+and3099 1 3 1 1 and3130 2 
+nand2653 1 2 1 2 not2772 nand2773 0 0 
+nand2652 1 2 1 2 not2770 nand2771 0 0 
+not2651 1 1 1 1 nand2796 1 
+nand2650 1 2 1 2 not2795 nand2796 0 0 
+not2657 1 1 1 1 nand2748 1 
+nand2656 1 2 1 1 nand2797 0 
+not2655 1 1 1 1 nand2747 1 
+nand2654 1 2 1 2 not2774 nand2775 0 0 
+buf831 1 1 1 2 nand1003 not1004 0 0 
+buf830 1 1 1 2 nand1001 not1002 0 0 
+buf833 1 1 1 2 nand1007 not1008 0 0 
+buf832 1 1 1 2 nand1005 not1006 0 0 
+nor835 1 2 1 2 not1011 nand2369 0 0 
+buf834 1 1 1 2 nand1009 not1010 0 0 
+buf837 1 1 1 2 not1029 nand2026 0 0 
+buf836 1 1 1 2 not1020 nand2025 0 0 
+buf839 1 1 1 2 not1031 nand1323 0 0 
+buf838 1 1 1 2 not1030 nand1324 0 0 
+nand2648 1 2 1 2 not2793 nand2794 0 0 
+not2649 1 1 1 1 nand2794 1 
+and2642 1 3 1 1 nor2741 0 
+and2643 1 3 1 1 nor2742 0 
+and2640 1 3 1 1 nor2739 0 
+and2641 1 3 1 1 nor2740 0 
+or2646 1 3 1 2 not2765 nand2766 0 0 
+or2647 1 2 1 2 not2767 nand2768 0 0 
+or2644 1 5 1 2 not2761 nand2762 0 0 
+or2645 1 4 1 2 not2763 nand2764 0 0 
+buf820 1 1 1 2 nand985 not986 0 0 
+buf821 1 1 1 2 nand987 not988 0 0 
+buf822 1 1 1 2 nand989 not990 0 0 
+buf823 1 1 1 2 nand991 not992 0 0 
+nor824 1 2 1 2 not1148 nand2747 0 0 
+nor825 1 2 1 2 not1150 nand2554 0 0 
+buf826 1 1 1 2 nand993 not994 0 0 
+buf827 1 1 1 2 nand995 not996 0 0 
+buf828 1 1 1 2 nand997 not998 0 0 
+buf829 1 1 1 2 nand999 not1000 0 0 
+and2639 1 2 1 1 or2736 1 
+not2638 1 1 1 1 and2735 0 
+and2635 1 3 1 1 nor2733 0 
+and2634 1 3 1 1 nor2732 0 
+not2637 1 1 1 1 nand2715 0 
+and2636 1 3 1 1 nor2734 0 
+not2631 1 1 1 2 and2788 and3437 0 1 
+and2630 1 3 1 1 nor2727 0 
+and2633 1 3 1 1 nor2731 0 
+and2632 1 2 1 1 or2730 1 
+buf813 1 1 1 2 not1144 nand1376 0 0 
+buf812 1 1 1 2 not1143 nand1373 0 0 
+buf811 1 1 1 2 not1142 nand1374 0 0 
+buf810 1 1 1 2 not974 nand1303 0 0 
+buf817 1 1 1 2 nand979 not980 0 0 
+buf816 1 1 1 2 nand977 not978 0 0 
+buf815 1 1 1 2 nand975 not976 0 0 
+buf814 1 1 1 2 not1145 nand1375 0 0 
+buf1786 1 1 1 2 not2069 and2075 0 2 
+buf1787 1 1 1 2 not2070 and2076 0 2 
+not1448 1 1 1 1 nand2482 1 
+buf818 1 1 1 2 nand981 not982 0 0 
+not1782 1 1 1 2 and2078 and2354 1 0 
+not1783 1 1 1 2 and2078 and2355 0 1 
+nand1443 1 2 1 1 nand1851 0 
+not1442 1 1 1 1 nand1647 1 
+buf1788 1 1 1 2 not2071 and2077 0 2 
+buf1789 1 1 1 2 not2072 and2078 0 2 
+nand2625 1 2 1 1 nand2723 1 
+nand2626 1 2 1 1 nand2696 1 
+and2627 1 3 1 1 nor2724 0 
+nand2620 1 2 1 1 nand2784 1 
+not2621 1 1 1 1 nand2721 1 
+nand2622 1 2 1 1 nand2755 1 
+not2623 1 1 1 1 nand2722 1 
+not2558 1 1 1 1 nand3325 1 
+not2559 1 1 1 1 nand3151 1 
+buf802 1 1 1 2 not967 nand1299 0 0 
+buf803 1 1 1 2 not968 nand1298 0 0 
+buf800 1 1 1 2 not965 nand1297 0 0 
+buf801 1 1 1 2 not966 nand1296 0 0 
+buf806 1 1 1 2 not969 nand970 0 0 
+buf807 1 1 1 2 not971 nand1302 0 0 
+nand2553 1 2 1 1 nand2650 1 
+not805 1 1 1 1 nand928 1 
+not1458 1 1 1 1 nand1654 1 
+buf809 1 1 1 2 not973 nand1304 0 0 
+not2619 1 1 1 1 nand2720 1 
+nand2618 1 2 1 1 nand2754 1 
+nand1451 1 2 1 1 nand1857 0 
+and2616 1 2 1 1 or2718 1 
+and2615 1 2 1 1 or2716 1 
+nand1398 1 2 1 9 and1769 and1773 and1776 and1778 and1779 buf1956 and2964 and2965 and2966 4 0 0 0 0 0 3 3 2 
+not2613 1 1 1 1 nand2690 0 
+and2612 1 2 1 1 or2713 1 
+not2611 1 1 1 3 and2780 and2781 and3433 0 0 1 
+not2610 1 1 1 1 nand2711 0 
+buf875 1 1 1 2 not1087 nand1355 0 0 
+buf874 1 1 1 2 not1086 nand1356 0 0 
+not877 1 1 1 1 nand930 1 
+not876 1 1 1 1 nand929 1 
+buf871 1 1 1 2 not1082 nand1083 0 0 
+buf870 1 1 1 2 not1071 nand1349 0 0 
+buf873 1 1 1 2 not1085 nand1353 0 0 
+buf872 1 1 1 2 not1084 nand1354 0 0 
+and492 1 2 1 1 or584 0 
+or879 1 2 1 2 not1089 nand1685 0 0 
+or878 1 2 1 2 not1088 nand1680 0 0 
+nand1428 1 2 1 9 and1834 and1838 and1841 and1843 and1844 buf1951 and2970 and2971 and2972 4 0 0 0 0 0 3 3 2 
+nand1425 1 2 1 6 and1834 and1835 and1836 and1837 and1838 buf1948 3 0 1 1 2 0 
+nand1424 1 2 1 5 not1749 and1822 and1828 and1832 and3167 0 1 0 0 0 
+not2606 1 1 1 1 nand2705 1 
+nand2607 1 2 1 1 nand2778 1 
+not2604 1 1 1 1 nand2704 1 
+nand2605 1 2 1 1 nand2759 1 
+not2602 1 1 1 1 nand2703 1 
+nand2603 1 2 1 1 nand2777 1 
+not2600 1 1 1 1 nand2702 1 
+nand2601 1 2 1 1 nand2758 1 
+buf864 1 1 1 2 not1065 nand1343 0 0 
+buf865 1 1 1 2 not1066 nand1346 0 0 
+buf866 1 1 1 2 not1067 nand1345 0 0 
+buf867 1 1 1 2 not1068 nand1348 0 0 
+buf860 1 1 1 2 not1061 nand1668 0 0 
+buf861 1 1 1 2 not1062 nand1342 0 0 
+buf862 1 1 1 2 not1063 nand1341 0 0 
+buf863 1 1 1 2 not1064 nand1344 0 0 
+and1797 1 3 1 1 or2036 2 
+and1796 1 2 1 1 or2036 1 
+buf1791 1 1 1 2 not2074 and2080 0 2 
+buf1790 1 1 1 2 not2073 and2079 0 2 
+buf868 1 1 1 2 not1069 nand1347 0 0 
+buf869 1 1 1 2 not1070 nand1350 0 0 
+not1438 1 1 1 1 nand1645 1 
+and1799 1 2 1 1 nor2037 1 
+and1798 1 3 1 1 or2036 3 
+nand1437 1 2 1 1 nand1848 0 
+not1430 1 1 1 1 nand2094 1 
+buf857 1 1 1 2 not1050 nand1659 0 0 
+buf856 1 1 1 2 not1048 nand1658 0 0 
+buf855 1 1 1 2 not1047 nand1339 0 0 
+buf854 1 1 1 2 not1046 nand1340 0 0 
+buf853 1 1 1 2 not1045 nand1337 0 0 
+buf852 1 1 1 2 not1044 nand1338 0 0 
+buf851 1 1 1 2 not1043 nand1335 0 0 
+buf850 1 1 1 2 not1042 nand1336 0 0 
+nand3008 1 2 1 2 not3064 nand3065 0 0 
+nand1740 1 2 1 1 nand2008 1 
+nand1741 1 2 1 1 nand2013 0 
+nand1742 1 2 1 1 nand2013 1 
+nand1743 1 2 1 1 nand2012 0 
+nand1744 1 2 1 1 nand2012 1 
+nand1745 1 2 1 1 nand2015 0 
+nand1746 1 2 1 1 nand2015 1 
+nand1747 1 2 1 1 nand2014 0 
+not3006 1 1 1 1 nand3040 1 
+buf846 1 1 1 2 not1038 nand1332 0 0 
+buf847 1 1 1 2 not1039 nand1331 0 0 
+buf844 1 1 1 2 not1036 nand1330 0 0 
+buf845 1 1 1 2 not1037 nand1329 0 0 
+buf842 1 1 1 2 not1034 nand1328 0 0 
+buf843 1 1 1 2 not1035 nand1327 0 0 
+buf840 1 1 1 2 not1032 nand1326 0 0 
+buf841 1 1 1 2 not1033 nand1325 0 0 
+or3019 1 2 1 6 and3106 and3107 and3108 and3109 and3110 buf3111 0 0 0 0 1 0 
+buf848 1 1 1 2 not1040 nand1334 0 0 
+or3010 1 2 1 1 monitor 64 
+or3011 1 2 1 1 monitor 65 
+or3012 1 2 1 1 monitor 66 
+or3013 1 2 1 1 monitor 67 
+and3014 1 2 1 2 not3072 and3073 0 0 
+nand3015 1 2 1 2 and3101 and3132 0 0 
+nand3016 1 2 1 2 and3100 and3131 0 0 
+or3017 1 2 1 4 and3071 not3102 and3103 and3104 1 0 0 0 
+and1768 1 2 1 1 or2400 1 
+and1769 1 5 1 2 and2068 and2968 1 0 
+or3028 1 5 1 2 not3088 nand3089 0 0 
+buf2567 1 1 1 2 not2751 nand3243 0 0 
+and1762 1 2 1 1 or2030 1 
+and1763 1 3 1 1 or2030 2 
+and1760 1 3 1 1 nor2033 2 
+and1761 1 4 1 1 nor2033 3 
+and1766 1 3 1 1 nor2032 2 
+and1767 1 2 1 1 or2017 1 
+and1764 1 3 1 1 or2030 3 
+and1765 1 2 1 1 nor2032 1 
+or3024 1 5 1 2 not3079 nand3080 0 0 
+not2057 1 1 1 1 nand3046 1 
+not3507 1 1 1 1 nand3509 1 
+and1759 1 2 1 1 nor2033 1 
+and1758 1 4 1 1 or2031 4 
+nand3038 1 2 1 1 nand3059 0 
+nand3039 1 2 1 1 nand3062 0 
+and1751 1 2 1 1 or2016 1 
+nand3032 1 2 1 1 nand3049 0 
+nand3033 1 2 1 1 nand3050 0 
+or3030 1 3 1 2 not3092 nand3093 0 0 
+or3031 1 2 1 2 not3094 nand3095 0 0 
+nand3036 1 2 1 1 nand3057 0 
+and1757 1 4 1 1 or2031 3 
+and1756 1 3 1 1 or2031 2 
+nand3035 1 2 1 1 nand3056 0 
+buf899 1 1 1 2 not1117 nand1712 0 0 
+buf898 1 1 1 2 not1240 nand1383 0 0 
+nand1502 1 2 1 1 nand1891 0 
+not1501 1 1 1 1 nand1672 1 
+buf893 1 1 1 2 not1110 nand1364 0 0 
+buf892 1 1 1 2 not1109 nand1361 0 0 
+buf891 1 1 1 2 not1108 nand1362 0 0 
+buf890 1 1 1 2 not1106 nand1107 0 0 
+buf897 1 1 1 2 not1239 nand1384 0 0 
+buf896 1 1 1 2 not1238 nand1381 0 0 
+nand1704 1 2 1 1 nand1928 0 
+buf894 1 1 1 2 not1111 nand1363 0 0 
+nand1706 1 2 1 1 nand1929 0 
+nand1707 1 2 1 1 nand1929 1 
+nand1700 1 2 1 1 nand1919 0 
+nand1701 1 2 1 1 nand1919 1 
+nand1702 1 2 1 1 nand1920 1 
+nand1703 1 2 1 1 nand1923 0 
+and3042 1 2 1 1 or3117 1 
+buf888 1 1 1 2 not1104 nand1358 0 0 
+buf889 1 1 1 2 not1105 nand1703 0 0 
+buf882 1 1 1 2 not1228 nand1378 0 0 
+buf883 1 1 1 2 not1229 nand1377 0 0 
+or880 1 2 1 2 not1099 nand1699 0 0 
+buf881 1 1 1 2 not1100 nand1702 0 0 
+nand3059 1 2 1 2 not3152 nand3153 0 0 
+buf887 1 1 1 2 not1103 nand1359 0 0 
+and1773 1 5 1 1 or2018 4 
+and1772 1 4 1 1 or2018 3 
+and1771 1 3 1 1 or2018 2 
+and1770 1 2 1 1 or2018 1 
+nand3057 1 2 1 2 not3148 nand3149 0 0 
+nand3050 1 2 1 2 not3140 nand3141 0 0 
+and1775 1 3 1 1 or3028 2 
+and1774 1 2 1 1 or3028 1 
+not3053 1 1 1 1 nand3113 1 
+and2529 1 3 1 1 nor2731 1 
+nand1728 1 2 1 1 nand1958 1 
+nand1729 1 2 1 1 nand2003 0 
+nand1726 1 2 1 1 nand1944 1 
+nand1727 1 2 1 1 nand1957 1 
+nand1724 1 2 1 1 nand1943 1 
+nand1725 1 2 1 1 nand1944 0 
+not3064 1 1 1 1 nand3115 1 
+nand1723 1 2 1 1 nand1943 0 
+nand1720 1 2 1 1 nand1941 0 
+nand1721 1 2 1 1 nand1941 1 
+not3060 1 1 1 1 nand3114 1 
+nand1719 1 2 1 1 nand1940 1 
+nand1718 1 2 1 1 nand1940 0 
+and3078 1 2 1 1 or3195 1 
+nand1715 1 2 1 1 nand1935 0 
+nand1714 1 2 1 1 nand1934 0 
+and3077 1 2 1 1 or3194 1 
+nand1716 1 2 1 1 nand1935 1 
+and3075 1 2 1 1 or3192 1 
+nand1710 1 2 1 1 nand1931 0 
+nand1713 1 2 1 1 nand1933 0 
+nand1712 1 2 1 1 nand1932 0 
+and3071 1 2 1 1 or3191 1 
+nand1739 1 2 1 1 nand2008 0 
+nand1738 1 2 1 1 nand2009 1 
+nand1737 1 2 1 1 nand2009 0 
+nand1736 1 2 1 1 nand2004 1 
+nand1735 1 2 1 1 nand2004 0 
+nand1734 1 2 1 1 nand2005 1 
+nand1733 1 2 1 1 nand2005 0 
+nand1732 1 2 1 1 nand2002 1 
+nand1731 1 2 1 1 nand2002 0 
+nand1730 1 2 1 1 nand2003 1 
+and695 1 2 1 1 or2019 0 
+not694 1 1 1 1 nand970 1 
+and697 1 2 1 4 and1794 and1796 and1799 or2020 2 1 1 0 
+and696 1 2 1 3 and1793 or2036 nor2037 1 0 0 
+and691 1 2 1 5 and1773 and1776 and1778 and1779 or3031 3 2 2 1 0 
+and690 1 2 1 4 and1772 and1775 and1777 or3030 2 1 0 0 
+or693 1 2 1 3 not954 or2446 and3162 0 0 0 
+and692 1 2 1 3 not953 and2068 and2349 0 0 1 
+and699 1 2 1 1 or2021 0 
+and698 1 2 1 5 buf1149 and1795 and1797 and1800 and1801 0 2 1 1 1 
+or684 1 2 1 2 or1135 not1137 0 0 
+and685 1 2 1 1 or1135 1 
+not686 1 1 1 1 and3104 1 
+and687 1 2 1 1 or2018 0 
+and680 1 2 1 7 buf1141 and1754 and1757 and1761 and1763 and1766 and1767 0 3 2 2 2 2 1 
+and681 1 2 1 3 not941 and2067 and2350 0 0 0 
+or682 1 2 1 3 not942 or2447 and3073 0 0 1 
+and683 1 2 1 1 or922 2 
+and688 1 2 1 2 and1770 or3028 1 0 
+and689 1 2 1 3 and1771 and1774 or3029 2 1 0 
+and659 1 2 1 1 or766 0 
+and658 1 2 1 1 or765 0 
+and651 1 2 1 1 or758 0 
+and650 1 2 1 1 or914 0 
+and653 1 2 1 1 or760 0 
+and652 1 2 1 1 or759 0 
+and655 1 2 1 1 or762 0 
+and654 1 2 1 1 or761 0 
+and657 1 2 1 1 or764 0 
+and656 1 2 1 1 or763 0 
+and648 1 2 1 1 or756 0 
+and649 1 2 1 1 or757 0 
+and640 1 2 1 1 or731 0 
+and641 1 2 1 1 or732 0 
+and642 1 2 1 1 or733 0 
+and643 1 2 1 1 or734 0 
+nand644 1 2 1 1 and749 0 
+and645 1 2 1 1 or753 0 
+and646 1 2 1 1 or754 0 
+and647 1 2 1 1 or755 0 
+and679 1 2 1 6 and1753 and1756 and1760 and1762 and1765 or2017 2 1 1 1 1 0 
+and678 1 2 1 5 and1752 and1755 and1759 or2030 nor2032 2 1 1 0 0 
+buf673 1 1 1 2 nand917 not918 0 0 
+buf672 1 1 1 2 nand915 not916 0 0 
+buf671 1 1 1 2 not924 nand2962 0 0 
+buf670 1 1 1 2 not923 nand2961 0 0 
+and677 1 2 1 3 and1751 or2031 nor2033 1 0 0 
+and676 1 2 1 1 or2016 0 
+not675 1 1 1 2 not920 nand1295 0 0 
+not674 1 1 1 2 not919 nand1290 0 0 
+and668 1 2 1 1 or775 0 
+and669 1 2 1 1 or776 0 
+and662 1 2 1 1 or769 0 
+and663 1 2 1 1 or770 0 
+and660 1 2 1 1 or913 0 
+and661 1 2 1 1 or912 0 
+and666 1 2 1 1 or773 0 
+and667 1 2 1 1 or774 0 
+and664 1 2 1 1 or771 0 
+and665 1 2 1 1 or772 0 
+and619 1 2 1 1 or713 0 
+and618 1 2 1 1 or693 1 
+and615 1 2 1 1 or922 1 
+and614 1 2 1 1 or682 1 
+and617 1 2 1 1 or684 1 
+and616 1 2 1 1 nor784 1 
+or611 1 2 1 2 not767 nand1357 0 0 
+or610 1 2 1 2 not877 nand929 0 0 
+or613 1 2 1 2 not777 nand1365 0 0 
+or612 1 2 1 2 not768 nand1360 0 0 
+or608 1 2 1 2 not751 nand1352 0 0 
+or609 1 2 1 2 not876 nand930 0 0 
+and604 1 2 1 2 not798 nand925 0 0 
+and605 1 2 1 2 not804 nand928 0 0 
+and606 1 2 1 2 not805 nand927 0 0 
+or607 1 2 1 2 not694 nand1300 0 0 
+or600 1 2 1 3 and736 buf840 buf911 0 0 0 
+or601 1 2 1 3 and735 buf838 buf910 0 0 0 
+not602 1 1 1 1 nand1599 1 
+and603 1 2 1 2 not797 nand926 0 0 
+and639 1 2 1 1 or879 0 
+and638 1 2 1 1 or730 0 
+and637 1 2 1 1 or729 0 
+and636 1 2 1 1 or728 0 
+and635 1 2 1 1 or727 0 
+and634 1 2 1 1 or878 0 
+and633 1 2 1 1 or726 0 
+and632 1 2 1 1 or725 0 
+and631 1 2 1 1 or724 0 
+and630 1 2 1 1 or723 0 
+and628 1 2 1 1 or722 0 
+and629 1 2 1 1 or880 0 
+and626 1 2 1 1 or720 0 
+and627 1 2 1 1 or721 0 
+and624 1 2 1 1 or718 0 
+and625 1 2 1 1 or719 0 
+and622 1 2 1 1 or716 0 
+and623 1 2 1 1 or717 0 
+and620 1 2 1 1 or714 0 
+and621 1 2 1 1 or715 0 
+and1827 1 3 1 1 or2042 2 
+and1839 1 2 1 1 or3024 1 
+and1805 1 4 1 1 or2021 3 
+and1819 1 2 1 1 or2022 1 
+nand1083 1 2 1 1 nand1517 1 
+not1082 1 1 1 1 nand1352 1 
+and1081 1 2 1 5 and2174 and2177 and2179 and2180 or3137 3 2 2 1 0 
+and1080 1 2 1 4 and2173 and2176 and2178 or3136 2 1 0 0 
+not1087 1 1 1 1 nand1356 1 
+not1086 1 1 1 1 nand1355 1 
+not1085 1 1 1 1 nand1354 1 
+not1084 1 1 1 1 nand1353 1 
+nand3383 1 2 1 1 nand3411 1 
+not3380 1 1 1 1 nand3397 1 
+not1089 1 1 1 1 nand1527 1 
+not1088 1 1 1 1 nand1521 1 
+and1868 1 3 1 1 or2027 2 
+and1092 1 2 1 4 and2195 and2197 and2200 or2387 2 1 1 0 
+and1093 1 2 1 5 buf1621 and2196 and2198 and2201 and2202 0 2 1 1 1 
+and1090 1 2 1 1 or2386 0 
+and1091 1 2 1 3 and2194 or2436 nor2437 1 0 0 
+and1096 1 2 1 5 and2205 and2208 and2212 or2438 nor2440 2 1 1 0 0 
+and1097 1 2 1 6 and2206 and2209 and2213 and2215 and2218 or2389 2 1 1 1 1 0 
+and1094 1 2 1 1 or2388 0 
+and1095 1 2 1 3 and2204 or2439 nor2441 1 0 0 
+and1098 1 2 1 7 buf1623 and2207 and2210 and2214 and2216 and2219 and2220 0 3 2 2 2 2 1 
+not1099 1 1 1 1 nand1552 1 
+not1589 1 1 1 1 nand1721 1 
+nand1878 1 2 1 5 and2152 and2153 and2154 and2155 and2156 4 0 1 1 2 
+nand1879 1 2 1 4 and2152 and2154 and2155 and2156 3 0 3 4 
+nand3393 1 2 1 1 nand3406 0 
+nand3392 1 2 1 2 not3419 nand3420 0 0 
+or2879 1 5 1 1 monitor 58 
+or2878 1 5 1 1 monitor 57 
+not1567 1 1 1 1 nand1707 1 
+and3101 1 3 1 1 or3183 3 
+or2893 1 3 1 4 not2969 and3404 and3405 and3468 0 2 2 0 
+or2892 1 4 1 2 nand2960 buf2963 1 0 
+and2895 1 2 1 1 or3019 1 
+not2894 1 1 1 5 and2956 and2957 and2958 and2959 and2975 1 1 1 1 1 
+not1540 1 1 1 1 nand1693 1 
+nand1541 1 2 1 1 nand1913 0 
+not1029 1 1 1 1 nand1864 1 
+and1028 1 2 1 6 and2132 and2135 and2138 and2140 and2142 or2376 2 1 1 1 1 0 
+and1021 1 2 1 1 or2373 0 
+not1020 1 1 1 1 nand1853 1 
+and1023 1 2 1 4 and2122 and2124 and2127 or2374 2 1 1 0 
+and1022 1 2 1 3 and2121 or2422 nor2423 1 0 0 
+and1025 1 2 1 1 or2375 0 
+and1024 1 2 1 5 buf1609 and2123 and2125 and2128 and2129 0 2 1 1 1 
+and1027 1 2 1 5 and2131 and2134 and2137 nor2424 or2667 2 1 1 0 0 
+and1026 1 2 1 3 and2130 nor2425 or2669 1 0 0 
+not1038 1 1 1 1 nand1331 1 
+not1039 1 1 1 1 nand1332 1 
+not1576 1 1 1 1 nand1714 1 
+nor2463 1 2 1 1 nand2654 0 
+not1030 1 1 1 1 nand1323 1 
+not1031 1 1 1 1 nand1324 1 
+not1032 1 1 1 1 nand1325 1 
+not1033 1 1 1 1 nand1326 1 
+not1034 1 1 1 1 nand1327 1 
+not1035 1 1 1 1 nand1328 1 
+not1036 1 1 1 1 nand1329 1 
+not1037 1 1 1 1 nand1330 1 
+not1525 1 1 1 1 nand1684 1 
+not1526 1 1 1 1 nand1685 1 
+nand1527 1 2 1 1 nand1904 1 
+nand1009 1 2 1 1 nand1429 0 
+not1008 1 1 1 1 nand1321 1 
+not1523 1 1 1 1 nand1682 1 
+nand3508 1 2 1 1 not3510 0 
+nand3509 1 2 1 1 nand3511 1 
+nand1003 1 2 1 1 nand1426 0 
+not1002 1 1 1 1 nand1318 1 
+nand1001 1 2 1 1 nand1425 0 
+not1000 1 1 1 1 nand1317 1 
+nand1007 1 2 1 1 nand1428 0 
+not1006 1 1 1 1 nand1320 1 
+nand1005 1 2 1 1 nand1427 0 
+not1004 1 1 1 1 nand1319 1 
+not3503 1 1 1 1 monitor 103 
+nand3308 1 2 1 1 nand3336 1 
+and1018 1 2 1 3 and2110 and2113 or2645 2 1 0 
+and1019 1 2 1 4 and2111 and2114 and2116 or2646 2 1 0 0 
+not1556 1 1 1 1 nand1702 1 
+nand1555 1 2 1 1 nand1920 0 
+not1554 1 1 1 1 nand1701 1 
+and1012 1 2 1 1 or2371 0 
+and1013 1 2 1 3 and2098 or2418 nor2419 1 0 0 
+not1010 1 1 1 1 nand1322 1 
+not1011 1 1 1 1 nand2092 1 
+and1016 1 2 1 1 or2372 0 
+and1017 1 2 1 2 and2109 or2644 1 0 
+and1014 1 2 1 5 and2099 and2101 and2104 or2420 nor2421 2 1 1 0 0 
+and1015 1 2 1 6 buf1606 and2100 and2102 and2105 and2106 and2108 0 2 1 0 1 1 
+not3333 1 1 1 1 nand3345 1 
+nand3334 1 2 1 1 nand3360 1 
+nand3337 1 2 1 1 nand3350 0 
+nand1504 1 2 1 1 nand1892 0 
+not1069 1 1 1 1 nand1348 1 
+not1068 1 1 1 1 nand1347 1 
+not1503 1 1 1 1 nand1673 1 
+nand1500 1 2 1 1 nand1890 0 
+not1065 1 1 1 1 nand1344 1 
+not1064 1 1 1 1 nand1343 1 
+not1067 1 1 1 1 nand1346 1 
+not1066 1 1 1 1 nand1345 1 
+not1061 1 1 1 1 nand1490 1 
+and1060 1 2 1 1 and2156 3 
+not1063 1 1 1 1 nand1342 1 
+not1062 1 1 1 1 nand1341 1 
+and496 1 2 1 1 or586 0 
+and494 1 2 1 1 or609 0 
+and1078 1 2 1 2 and2171 or3134 1 0 
+and1079 1 2 1 3 and2172 and2175 or3135 2 1 0 
+and491 1 2 1 1 or583 0 
+and490 1 2 1 1 or582 0 
+and1074 1 2 1 3 and2159 or2428 nor2429 1 0 0 
+and1075 1 2 1 5 and2160 and2162 and2165 or2430 nor2431 2 1 1 0 0 
+and1076 1 2 1 6 buf1611 and2161 and2163 and2166 and2167 and2169 0 2 1 0 1 1 
+and1077 1 2 1 1 or2383 0 
+not1070 1 1 1 1 nand1349 1 
+not1071 1 1 1 1 nand1350 1 
+not1072 1 1 1 1 nand1389 1 
+and1073 1 2 1 1 or2382 0 
+not3512 1 1 1 1 monitor 106 
+not3460 1 1 1 1 nand3471 1 
+not3467 1 1 1 1 and3475 0 
+nand3315 1 2 1 1 nand3350 1 
+nand486 1 2 1 1 nand644 1 
+and487 1 2 1 1 or608 0 
+nand484 1 2 1 1 nand578 0 
+not485 1 1 1 1 nand579 1 
+or482 1 2 1 1 and604 0 
+and1049 1 2 1 1 or2378 0 
+not1048 1 1 1 1 nand1476 1 
+not1047 1 1 1 1 nand1340 1 
+not1046 1 1 1 1 nand1339 1 
+not1045 1 1 1 1 nand1338 1 
+not1044 1 1 1 1 nand1337 1 
+not1043 1 1 1 1 nand1336 1 
+not1042 1 1 1 1 nand1335 1 
+not1041 1 1 1 1 nand1334 1 
+not1040 1 1 1 1 nand1333 1 
+nand3472 1 2 1 1 nand3480 0 
+not3473 1 1 1 1 nand3501 1 
+nand3347 1 2 1 1 nand3370 1 
+or479 1 2 1 1 and575 0 
+or478 1 2 1 1 and574 0 
+and1058 1 2 1 1 and2154 2 
+and1059 1 2 1 1 and2155 2 
+and1056 1 2 1 1 or2379 0 
+and1057 1 2 1 1 and2153 1 
+and1054 1 2 1 1 and2151 2 
+not1055 1 1 1 1 nand1482 1 
+not1052 1 1 1 1 nand1480 1 
+and1053 1 2 1 1 and2150 2 
+not1050 1 1 1 1 nand1478 1 
+and1051 1 2 1 1 and2149 1 
+nand3375 1 2 1 1 nand3407 1 
+nand3412 1 2 1 2 not3429 nand3430 0 0 
+nand3413 1 2 1 2 not3431 nand3432 0 0 
+and459 1 2 1 1 or726 1 
+and458 1 2 1 1 or725 1 
+not453 1 1 1 5 and629 and630 and631 and632 and633 1 1 1 1 1 
+nand2426 1 2 1 1 nand2570 0 
+nand3359 1 2 1 2 not3376 nand3377 0 0 
+nand3358 1 2 1 1 nand3390 1 
+not3357 1 1 1 1 nand3367 1 
+and448 1 2 1 1 or718 1 
+and449 1 2 1 1 or719 1 
+or596 1 2 1 3 and740 buf846 buf907 0 0 0 
+or597 1 2 1 3 and739 buf844 buf906 0 0 0 
+or594 1 2 1 3 and742 buf850 buf905 0 0 0 
+or595 1 2 1 3 and741 buf848 buf904 0 0 0 
+and592 1 2 1 1 not674 0 
+or593 1 2 1 3 and743 buf854 buf903 0 0 0 
+or590 1 2 1 3 buf857 buf885 and1051 0 0 1 
+or591 1 2 1 3 buf856 buf884 and1049 0 0 1 
+or598 1 2 1 3 and738 buf852 buf909 0 0 0 
+or599 1 2 1 3 and737 buf842 buf908 0 0 0 
+nand578 1 2 1 2 and749 and750 1 0 
+nand579 1 2 1 1 nand644 0 
+or570 1 2 1 3 buf888 buf901 and1122 0 0 1 
+or571 1 2 1 3 buf887 buf900 and1120 0 0 1 
+or572 1 2 1 3 buf889 buf899 and1118 0 0 1 
+and573 1 2 1 6 and680 and691 buf782 nor786 buf791 buf792 1 1 0 1 0 0 
+and574 1 2 1 5 and679 and690 buf781 buf790 buf794 1 1 0 0 0 
+and575 1 2 1 5 and678 and689 buf780 buf789 buf793 1 1 0 0 0 
+and576 1 2 1 5 and677 and688 buf779 buf788 buf796 1 1 0 0 0 
+and577 1 2 1 5 and676 and687 buf778 buf787 buf795 1 1 0 0 0 
+or587 1 2 1 3 buf859 buf881 and1056 0 0 1 
+or586 1 2 1 2 buf902 and1123 0 0 
+or585 1 2 1 5 buf836 buf837 and1447 and1463 nor1610 0 0 0 0 0 
+or584 1 2 1 3 and744 buf861 buf874 0 0 0 
+or583 1 2 1 3 and745 buf863 buf875 0 0 0 
+or582 1 2 1 3 and746 buf865 buf872 0 0 0 
+or581 1 2 1 3 and747 buf867 buf873 0 0 0 
+or580 1 2 1 3 and748 buf869 buf871 0 0 0 
+or589 1 2 1 3 buf858 buf882 and1053 0 0 1 
+or588 1 2 1 3 buf860 buf883 and1054 0 0 1 
+not297 1 1 1 1 nand1005 1 
+nand558 1 2 1 5 and681 and683 and685 buf783 buf785 0 0 0 0 0 
+nand559 1 2 1 3 not686 and692 and3180 0 0 0 
+and552 1 2 1 3 and735 buf839 buf897 1 0 0 
+and553 1 2 1 5 and699 and708 buf809 buf818 buf830 1 1 0 0 0 
+and550 1 2 1 3 and737 buf843 buf895 1 0 0 
+and551 1 2 1 3 and736 buf841 buf898 1 0 0 
+and556 1 2 1 5 and696 and705 buf814 buf816 buf827 1 1 0 0 0 
+and557 1 2 1 5 and695 and704 buf813 buf815 buf826 1 1 0 0 0 
+and554 1 2 1 7 and698 and707 buf812 buf822 nor824 buf829 nor835 1 0 0 0 1 0 0 
+and555 1 2 1 5 and697 and706 buf811 buf817 buf828 1 1 0 0 0 
+or569 1 2 1 2 and752 buf886 1 0 
+or568 1 2 1 5 and700 and709 buf810 buf819 buf831 1 1 0 0 0 
+or561 1 2 1 3 and743 buf855 buf890 1 0 0 
+not560 1 1 1 1 nand917 1 
+or563 1 2 1 3 and741 buf849 buf891 1 0 0 
+or562 1 2 1 3 and742 buf851 buf892 1 0 0 
+or565 1 2 1 6 and703 and712 buf806 buf823 nor825 buf834 1 1 0 0 1 0 
+or564 1 2 1 3 and740 buf847 buf894 1 0 0 
+or567 1 2 1 5 and701 and710 buf807 buf820 buf832 1 1 0 0 0 
+or566 1 2 1 5 and702 and711 buf808 buf821 buf833 1 1 0 0 0 
+and538 1 2 1 1 or598 0 
+and539 1 2 1 1 or599 0 
+and534 1 2 1 1 or594 0 
+and535 1 2 1 1 or595 0 
+and536 1 2 1 1 or596 0 
+and537 1 2 1 1 or597 0 
+and530 1 2 1 1 or775 1 
+and531 1 2 1 1 or776 1 
+and532 1 2 1 1 or613 0 
+and533 1 2 1 1 or593 0 
+and549 1 2 1 3 and738 buf853 buf896 1 0 0 
+and548 1 2 1 3 and739 buf845 buf893 1 0 0 
+and543 1 2 1 3 and748 buf799 buf870 1 0 0 
+and542 1 2 1 1 not675 0 
+and541 1 2 1 1 or601 0 
+and540 1 2 1 1 or600 0 
+and547 1 2 1 3 and744 buf802 buf862 1 0 0 
+and546 1 2 1 3 and745 buf803 buf864 1 0 0 
+and545 1 2 1 3 and746 buf800 buf866 1 0 0 
+and544 1 2 1 3 and747 buf801 buf868 1 0 0 
+and518 1 2 1 1 or765 1 
+and519 1 2 1 1 or766 1 
+and516 1 2 1 1 or763 1 
+and517 1 2 1 1 or764 1 
+and514 1 2 1 1 or761 1 
+and515 1 2 1 1 or762 1 
+and512 1 2 1 1 or759 1 
+and513 1 2 1 1 or760 1 
+and510 1 2 1 1 or914 1 
+and511 1 2 1 1 or758 1 
+and529 1 2 1 1 or774 1 
+and528 1 2 1 1 or773 1 
+and525 1 2 1 1 or770 1 
+and524 1 2 1 1 or769 1 
+and527 1 2 1 1 or772 1 
+and526 1 2 1 1 or771 1 
+not521 1 1 1 5 and665 and666 and667 and668 and669 1 1 1 1 1 
+not520 1 1 1 5 and660 and661 and662 and663 and664 1 1 1 1 1 
+and523 1 2 1 1 or912 1 
+and522 1 2 1 1 or913 1 
+not509 1 1 1 5 and655 and656 and657 and658 and659 1 1 1 1 1 
+not508 1 1 1 5 and650 and651 and652 and653 and654 1 1 1 1 1 
+and507 1 2 1 1 or757 1 
+and506 1 2 1 1 or756 1 
+and505 1 2 1 1 or755 1 
+and504 1 2 1 1 or754 1 
+and503 1 2 1 1 or753 1 
+and502 1 2 1 1 or591 0 
+and501 1 2 1 1 or590 0 
+and500 1 2 1 1 or589 0 
+nand3283 1 2 1 1 nand3296 0 
+nand3282 1 2 1 1 nand3291 0 
+nand3281 1 2 1 1 nand3290 0 
+or3280 1 2 1 1 monitor 102 
+nand3287 1 2 1 1 nand3300 0 
+nand3286 1 2 1 1 nand3299 0 
+nand3285 1 2 1 1 nand3298 0 
+nand3284 1 2 1 1 nand3297 0 
+nand3289 1 2 1 1 nand3304 0 
+nand3288 1 2 1 1 nand3303 0 
+not3292 1 1 1 1 nand3309 1 
+nand3293 1 2 1 1 nand3318 1 
+nand3290 1 2 1 2 not3314 nand3315 0 0 
+nand3291 1 2 1 2 not3316 nand3317 0 0 
+nand3296 1 2 1 2 not3320 nand3321 0 0 
+nand3297 1 2 1 2 not3322 nand3323 0 0 
+not3294 1 1 1 1 nand3310 1 
+nand3295 1 2 1 1 nand3319 1 
+nand3298 1 2 1 2 not3324 nand3325 0 0 
+nand3299 1 2 1 2 not3326 nand3327 0 0 
+not3096 1 1 1 1 monitor 68 
+not3097 1 1 1 1 monitor 69 
+not2281 1 1 1 1 nand3145 1 
+and2118 1 2 1 1 or2646 1 
+nand2119 1 2 1 6 and2487 and2488 and2489 and2490 buf2562 buf2567 0 0 0 0 0 0 
+nand1688 1 2 1 1 nand1906 0 
+not1586 1 1 1 1 nand1718 1 
+not1587 1 1 1 1 nand1719 1 
+nand1584 1 2 1 2 buf1945 buf1946 0 0 
+nand1585 1 2 1 3 not1939 and2545 and2641 0 1 0 
+nand1582 1 2 1 3 not1937 and2251 and2395 0 1 0 
+nand1583 1 2 1 3 not1938 and2251 and2394 0 0 1 
+nand1580 1 2 1 1 nand1936 0 
+not1581 1 1 1 1 nand1717 1 
+buf1180 1 1 1 2 not1488 nand1666 0 0 
+not1588 1 1 1 1 nand1720 1 
+buf1185 1 1 1 2 nand1500 not1501 0 0 
+nand2777 1 2 1 1 not2840 0 
+not1568 1 1 1 1 nand1708 1 
+not3229 1 1 1 1 nand3245 1 
+nand3228 1 2 1 1 nand3275 1 
+nand1560 1 2 1 1 nand1923 1 
+nand1561 1 2 1 3 not1924 and2231 and2391 0 1 0 
+nand3220 1 2 1 2 not3264 nand3265 0 0 
+not3223 1 1 1 1 nand3243 1 
+not1564 1 1 1 1 nand1704 1 
+nand3225 1 2 1 2 not3271 nand3272 0 0 
+not1566 1 1 1 1 nand1706 1 
+not3227 1 1 1 1 nand3244 1 
+nand3226 1 2 1 2 not3273 nand3274 0 0 
+and2109 1 2 1 1 or2372 1 
+nand2759 1 2 1 1 and2882 1 
+and2191 1 3 1 1 nor2513 1 
+and2192 1 3 1 1 nor2514 1 
+and2193 1 4 1 2 and2524 and2632 0 0 
+and2194 1 2 1 1 or2386 1 
+not1596 1 1 1 1 nand1727 1 
+not1595 1 1 1 1 nand1726 1 
+and2197 1 2 1 1 or2436 1 
+and2198 1 3 1 1 or2436 2 
+not1592 1 1 1 1 nand1723 1 
+nand1591 1 2 1 1 nand1942 1 
+not1590 1 1 1 1 nand1722 1 
+nand3230 1 2 1 1 nand3276 1 
+nand3231 1 2 1 1 monitor 90 
+nand3232 1 2 1 1 nand3250 0 
+nand3233 1 2 1 1 nand3251 0 
+nand3234 1 2 1 1 nand3252 0 
+nand1599 1 2 1 1 nand1958 0 
+not3236 1 1 1 1 nand3491 1 
+buf3237 1 1 1 1 monitor 91 
+not2769 1 1 1 1 and3101 1 
+nand2768 1 2 1 1 nand2888 1 
+not1548 1 1 1 1 nand1697 1 
+nand1549 1 2 1 1 nand1917 0 
+nand3208 1 2 1 1 nand3253 1 
+not1542 1 1 1 1 nand1694 1 
+nand1543 1 2 1 1 nand1914 0 
+nand3202 1 2 1 1 nand3250 1 
+not3201 1 1 1 1 nand3232 1 
+not1546 1 1 1 1 nand1696 1 
+not3207 1 1 1 1 nand3235 1 
+nand3206 1 2 1 1 nand3252 1 
+not3205 1 1 1 1 nand3234 1 
+nand3204 1 2 1 1 nand3251 1 
+and2235 1 3 1 1 or2392 2 
+not1579 1 1 1 1 nand1716 1 
+not1578 1 1 1 1 nand1715 1 
+nand3218 1 2 1 2 not3260 nand3261 0 0 
+nand3219 1 2 1 2 not3262 nand3263 0 0 
+or2736 1 2 1 3 and2831 and2833 and2858 0 0 0 
+not1571 1 1 1 1 nand1711 1 
+not1570 1 1 1 1 nand1710 1 
+nand1573 1 2 1 1 nand1932 1 
+not1572 1 1 1 1 nand1712 1 
+nand1575 1 2 1 1 nand1933 1 
+not3216 1 1 1 1 nand3242 1 
+nand3217 1 2 1 1 nand3259 1 
+not3214 1 1 1 1 nand3241 1 
+nand3215 1 2 1 1 nand3258 1 
+buf2226 1 1 1 2 not2526 and2530 0 2 
+buf2227 1 1 1 2 not2527 and2531 0 2 
+not3001 1 1 1 1 nand3038 1 
+nand3000 1 2 1 1 nand3058 1 
+nand3003 1 2 1 2 not3060 nand3061 0 0 
+nand3002 1 2 1 1 nand3059 1 
+nand3005 1 2 1 1 nand3062 1 
+not3004 1 1 1 1 nand3039 1 
+nand3007 1 2 1 1 nand3063 1 
+not2183 1 1 1 2 and2518 and2629 1 0 
+not2182 1 1 1 2 and2516 and2628 0 1 
+not2185 1 1 1 1 and2384 2 
+not2184 1 1 1 2 and2518 and2630 0 1 
+buf2187 1 1 1 2 not2509 and2515 0 2 
+not2186 1 1 1 1 and2385 2 
+not1528 1 1 1 1 nand1686 1 
+not1529 1 1 1 1 nand1687 1 
+not3268 1 1 1 1 nand3287 1 
+not1524 1 1 1 1 nand1683 1 
+nand3265 1 2 1 1 nand3298 1 
+not3264 1 1 1 1 nand3285 1 
+nand3267 1 2 1 1 nand3299 1 
+not1520 1 1 1 1 nand1680 1 
+nand3261 1 2 1 1 nand3296 1 
+not3260 1 1 1 1 nand3283 1 
+nand3263 1 2 1 1 nand3297 1 
+not3262 1 1 1 1 nand3284 1 
+not1559 1 1 1 1 nand1703 1 
+or2718 1 2 1 3 and2827 and2859 or2907 0 0 0 
+nand2719 1 2 1 1 nand2754 0 
+or3278 1 2 1 1 monitor 100 
+or3279 1 2 1 1 monitor 101 
+not1553 1 1 1 1 nand1700 1 
+nand3274 1 2 1 1 nand3304 1 
+nand3275 1 2 1 2 not3305 nand3306 0 0 
+nand3276 1 2 1 2 not3307 nand3308 0 0 
+or3277 1 2 1 1 monitor 99 
+nand3270 1 2 1 2 not3301 nand3302 0 0 
+not3271 1 1 1 1 nand3288 1 
+nand3272 1 2 1 1 nand3303 1 
+not3273 1 1 1 1 nand3289 1 
+or3029 1 4 1 2 not3090 nand3091 0 0 
+and2204 1 2 1 1 or2388 1 
+and3022 1 4 1 2 not3096 and3099 0 0 
+and3021 1 2 1 2 not3069 and3070 0 0 
+and3020 1 4 1 2 not3098 and3099 0 2 
+or3027 1 2 1 2 not3085 nand3086 0 0 
+or3026 1 3 1 2 not3083 nand3084 0 0 
+or3025 1 4 1 2 not3081 nand3082 0 0 
+nand1508 1 2 1 1 nand1894 0 
+and3249 1 2 1 1 or3280 0 
+and3248 1 2 1 1 or3279 0 
+and3247 1 2 1 1 or3278 0 
+and3246 1 2 1 1 or3277 0 
+nand3245 1 2 1 1 nand3276 0 
+nand3244 1 2 1 1 nand3275 0 
+nand3243 1 2 1 1 nand3270 0 
+nand3242 1 2 1 1 nand3259 0 
+nand3241 1 2 1 1 nand3258 0 
+buf3240 1 1 1 1 monitor 94 
+not1101 1 1 1 1 nand1357 1 
+not1106 1 1 1 1 nand1360 1 
+nand3037 1 2 1 1 nand3058 0 
+nand3034 1 2 1 1 nand3055 0 
+nand1539 1 2 1 1 nand1912 0 
+not1538 1 1 1 1 nand1692 1 
+nand3258 1 2 1 2 not3292 nand3293 0 0 
+nand3259 1 2 1 2 not3294 nand3295 0 0 
+not3256 1 1 1 1 nand3282 1 
+nand3257 1 2 1 1 nand3291 1 
+not3254 1 1 1 1 nand3281 1 
+nand3255 1 2 1 1 nand3290 1 
+nand3252 1 2 1 1 monitor 97 
+nand1533 1 2 1 1 nand1909 0 
+not1532 1 1 1 1 nand2787 1 
+nand3251 1 2 1 1 monitor 96 
+not2268 1 1 1 1 nand3315 1 
+not2269 1 1 1 1 nand3381 1 
+nand3049 1 2 1 2 not3138 nand3139 0 0 
+not3048 1 1 1 3 and3437 and3438 and3489 2 2 1 
+not3045 1 1 1 1 nand3087 1 
+nand3044 1 2 1 1 nand3120 1 
+not2262 1 1 1 1 nand2396 1 
+nand3046 1 2 1 1 nand3125 1 
+not3041 1 1 1 1 and3068 1 
+nand3040 1 2 1 1 nand3063 0 
+not3043 1 1 1 1 nand3074 1 
+not2709 1 1 1 1 and2781 1 
+nand2708 1 2 1 1 and2895 0 
+and2707 1 2 1 1 or2779 1 
+nand2706 1 2 1 1 not2760 0 
+nand2705 1 2 1 1 nand2778 0 
+nand2704 1 2 1 1 nand2759 0 
+nand3058 1 2 1 2 not3150 nand3151 0 0 
+buf2254 1 1 1 2 not2450 nand3232 0 0 
+buf2253 1 1 1 2 not2449 nand3196 0 0 
+and2252 1 3 1 1 nor2544 1 
+and2251 1 3 1 1 nor2543 1 
+buf2250 1 1 1 2 not2542 and2548 0 2 
+not3051 1 1 1 1 nand3112 1 
+nand3052 1 2 1 1 nand3142 1 
+and2110 1 3 1 1 or2372 2 
+and2111 1 4 1 1 or2372 3 
+and2112 1 5 1 1 or2372 4 
+and2113 1 2 1 1 or2644 1 
+nand1517 1 2 1 3 not1899 and2191 and2385 0 1 0 
+and2115 1 4 1 1 or2644 3 
+not1515 1 1 1 1 nand1679 1 
+nand1514 1 2 1 1 nand1897 0 
+not1513 1 1 1 1 nand1678 1 
+nand1512 1 2 1 1 nand1896 0 
+not1511 1 1 1 1 nand1677 1 
+nand1510 1 2 1 1 nand1895 0 
+not3069 1 1 1 1 and3118 1 
+and3068 1 2 1 1 or3117 0 
+nand3067 1 2 1 1 nand3160 1 
+not3066 1 1 1 1 nand3116 1 
+nand3065 1 2 1 1 nand3159 1 
+nand3063 1 2 1 2 not3157 nand3158 0 0 
+nand3062 1 2 1 2 not3155 nand3156 0 0 
+nand3061 1 2 1 1 nand3154 1 
+not3079 1 1 1 1 nand3121 1 
+and2138 1 3 1 1 nor2425 2 
+and2139 1 4 1 1 nor2425 3 
+nand3074 1 2 1 1 nand3120 0 
+not3072 1 1 1 1 and3119 1 
+and3073 1 2 1 1 or3163 1 
+and2132 1 4 1 1 or2375 3 
+and2133 1 5 1 1 or2375 4 
+and2130 1 2 1 1 or2375 1 
+and2131 1 3 1 1 or2375 2 
+and2136 1 4 1 1 or2669 3 
+and2137 1 2 1 1 nor2425 1 
+and2134 1 2 1 1 or2669 1 
+and2135 1 3 1 1 or2669 2 
+and1821 1 2 1 1 or2412 1 
+and1820 1 2 1 1 or2406 1 
+and1823 1 2 1 1 or2023 1 
+and1822 1 4 1 2 and2087 and2360 0 1 
+and1825 1 4 1 1 or2023 3 
+and1824 1 3 1 1 or2023 2 
+and2108 1 2 1 1 nor2421 1 
+and1826 1 2 1 1 or2042 1 
+and1829 1 2 1 1 nor2043 1 
+and1828 1 3 1 1 or2042 3 
+and2101 1 2 1 1 or2418 1 
+and2100 1 4 1 1 or2371 3 
+and2103 1 3 1 1 or2418 3 
+and2102 1 3 1 1 or2418 2 
+and2105 1 3 1 1 nor2419 2 
+and2104 1 2 1 1 nor2419 1 
+and2107 1 2 1 1 or2420 2 
+and2106 1 2 1 1 or2420 1 
+and1830 1 3 1 1 nor2043 2 
+and1831 1 2 1 1 or2044 1 
+and1832 1 2 1 1 or2044 2 
+and1833 1 2 1 1 nor2045 1 
+and1834 1 5 1 2 and2087 and2974 1 0 
+and1835 1 2 1 1 or2024 1 
+and1836 1 3 1 1 or2024 2 
+and1837 1 4 1 1 or2024 3 
+and1838 1 5 1 1 or2024 4 
+and2158 1 4 1 2 and2500 and2616 0 1 
+and2159 1 2 1 1 or2382 1 
+and2154 1 3 1 1 or2379 2 
+and2155 1 4 1 1 or2379 3 
+and2156 1 5 1 1 or2379 4 
+and2157 1 2 1 8 and2589 and2590 and2691 and2692 and2830 and2831 and2832 and2833 1 1 4 4 2 3 2 3 
+and2150 1 3 1 1 or2378 2 
+and2151 1 4 1 1 or2378 3 
+and2152 1 5 1 2 and2498 nand2978 1 0 
+and2153 1 2 1 1 or2379 1 
+and1803 1 2 1 1 or2021 1 
+and1802 1 5 1 2 not2081 and2086 0 1 
+and1801 1 2 1 1 or2020 1 
+and1800 1 3 1 1 nor2037 2 
+and1807 1 2 1 1 or2039 1 
+and1806 1 5 1 1 or2021 4 
+buf1159 1 1 1 2 nand1443 not1444 0 0 
+and2129 1 2 1 1 or2374 1 
+and2128 1 3 1 1 nor2423 2 
+and1809 1 4 1 1 or2039 3 
+and1808 1 3 1 1 or2039 2 
+not497 1 1 1 5 and645 and646 and647 and648 and649 1 1 1 1 1 
+and2123 1 4 1 1 or2373 3 
+and495 1 2 1 1 or585 0 
+and2121 1 2 1 1 or2373 1 
+and2120 1 4 1 3 not2486 and2612 and2712 0 0 0 
+and2127 1 2 1 1 nor2423 1 
+and2126 1 3 1 1 or2422 3 
+and2125 1 3 1 1 or2422 2 
+and2124 1 2 1 1 or2422 1 
+and499 1 2 1 1 or588 0 
+and498 1 2 1 1 or587 0 
+and1812 1 3 1 1 nor2041 2 
+and1813 1 4 1 1 nor2041 3 
+and1810 1 4 1 1 or2039 4 
+and1811 1 2 1 1 nor2041 1 
+and1816 1 3 1 1 or2038 3 
+and1817 1 2 1 1 nor2040 1 
+and1814 1 2 1 1 or2038 1 
+and1815 1 3 1 1 or2038 2 
+and1818 1 3 1 1 nor2040 2 
+and2178 1 2 1 1 or3135 1 
+and2179 1 3 1 1 or3135 2 
+and2176 1 3 1 1 or3134 2 
+and2177 1 4 1 1 or3134 3 
+and2174 1 5 1 1 or2383 4 
+and2175 1 2 1 1 or3134 1 
+and2172 1 3 1 1 or2383 2 
+and2173 1 4 1 1 or2383 3 
+and2170 1 5 1 2 and2500 and3110 1 0 
+and2171 1 2 1 1 or2383 1 
+and488 1 2 1 1 or580 0 
+and489 1 2 1 1 or581 0 
+not1865 1 1 1 1 nand2026 1 
+nand1864 1 2 1 1 nand2119 0 
+and1867 1 2 1 1 or2027 1 
+and1866 1 4 1 2 and2146 and2147 0 0 
+nand1861 1 2 1 15 and2132 and2133 and2135 and2136 and2138 and2139 and2140 and2141 and2142 and2143 buf2305 buf2311 and2487 and2488 and2489 0 1 0 1 0 1 0 1 0 1 0 0 2 1 1 
+nand1860 1 2 1 13 and2131 and2132 and2133 and2134 and2135 and2136 and2137 and2138 and2139 buf2306 buf2307 and2487 and2488 0 3 4 0 2 3 0 2 3 0 0 3 2 
+nand1863 1 2 1 5 and2120 and2126 and2145 buf2295 buf2299 0 0 0 0 0 
+nand1862 1 2 1 12 and2133 and2136 and2139 and2141 and2143 and2144 buf2303 buf2309 and2487 and2488 and2489 and2490 0 0 0 0 0 0 0 0 1 3 2 1 
+and2149 1 2 1 1 or2378 1 
+and2148 1 4 1 3 not2497 and2498 and2615 0 0 0 
+and1869 1 4 1 1 or2027 3 
+and2145 1 2 1 1 or2663 1 
+and2144 1 2 1 1 or2376 1 
+and2147 1 2 1 1 or2377 1 
+and2146 1 2 1 9 and2691 and2692 and2717 and2830 and2831 and2832 and2833 and2857 and2858 3 3 3 1 2 1 2 1 2 
+and2141 1 3 1 1 or2667 2 
+and2140 1 2 1 1 or2667 1 
+and2143 1 3 1 1 nor2424 2 
+and2142 1 2 1 1 nor2424 1 
+and470 1 2 1 1 or572 0 
+and473 1 2 1 1 or732 1 
+and472 1 2 1 1 or731 1 
+and475 1 2 1 1 or734 1 
+and474 1 2 1 1 or733 1 
+or477 1 2 1 1 and573 0 
+or476 1 2 1 1 and592 0 
+and1874 1 5 1 1 or2028 4 
+nand1875 1 2 1 4 and2148 and2149 and2150 and2151 3 0 1 1 
+nand1876 1 2 1 3 and2148 and2150 and2151 2 0 3 
+nand1877 1 2 1 2 and2148 and2151 1 0 
+and1870 1 5 1 1 and2146 1 
+and1871 1 2 1 1 or2028 1 
+and1872 1 3 1 1 or2028 2 
+and1873 1 4 1 1 or2028 3 
+and468 1 2 1 1 or570 0 
+and469 1 2 1 1 or571 0 
+and460 1 2 1 1 or878 1 
+and461 1 2 1 1 or727 1 
+and462 1 2 1 1 or728 1 
+and463 1 2 1 1 or729 1 
+and464 1 2 1 1 or730 1 
+not465 1 1 1 5 and639 and640 and641 and642 and643 1 1 1 1 1 
+and466 1 2 1 1 or611 0 
+and467 1 2 1 1 or569 0 
+nand1847 1 2 1 10 and2097 and2100 and2102 and2103 and2105 and2106 and2107 and2108 buf2293 buf2294 2 0 0 1 1 0 1 0 0 0 
+nand1846 1 2 1 10 and2097 and2099 and2100 and2101 and2102 and2103 and2104 and2105 buf2291 buf2292 0 0 3 0 2 2 0 2 0 0 
+nand1845 1 2 1 6 and2097 and2098 and2099 and2100 buf2289 buf2290 3 0 1 1 0 0 
+and1844 1 2 1 1 or3026 1 
+and1843 1 3 1 1 or3025 2 
+and1842 1 2 1 1 or3025 1 
+and1841 1 4 1 1 or3024 3 
+and1840 1 3 1 1 or3024 2 
+and2169 1 2 1 1 nor2431 1 
+and2168 1 2 1 1 or2430 2 
+and2167 1 2 1 1 or2430 1 
+and2166 1 3 1 1 nor2429 2 
+and2165 1 2 1 1 nor2429 1 
+and2164 1 3 1 1 or2428 3 
+and2163 1 3 1 1 or2428 2 
+and2162 1 2 1 1 or2428 1 
+and2161 1 4 1 1 or2382 3 
+and2160 1 3 1 1 or2382 2 
+and452 1 2 1 1 or722 1 
+and451 1 2 1 1 or721 1 
+and450 1 2 1 1 or720 1 
+and457 1 2 1 1 or724 1 
+and456 1 2 1 1 or723 1 
+and455 1 2 1 1 or880 1 
+not454 1 1 1 5 and634 and635 and636 and637 and638 1 1 1 1 1 
+nand1856 1 2 1 6 and2120 and2121 and2122 and2123 buf2297 buf2301 3 0 1 1 0 0 
+nand1857 1 2 1 10 and2120 and2122 and2123 and2124 and2125 and2126 and2127 and2128 buf2298 buf2302 2 0 3 0 2 2 0 2 0 0 
+not1854 1 1 1 1 nand2025 1 
+not1855 1 1 1 1 nand2484 1 
+nand1852 1 2 1 9 and2112 and2115 and2117 and2118 buf2261 and2473 and2474 and2475 and2476 0 0 0 0 0 4 3 3 2 
+nand1853 1 2 1 1 nand2096 0 
+nand1850 1 2 1 9 and2110 and2111 and2112 and2113 and2114 and2115 buf2259 and2473 and2474 0 3 4 0 2 3 0 0 4 
+nand1851 1 2 1 10 and2111 and2112 and2114 and2115 and2116 and2117 buf2260 and2473 and2474 and2475 0 1 0 1 1 1 0 2 2 2 
+nand1858 1 2 1 9 and2120 and2123 and2125 and2126 and2128 and2129 and2145 buf2296 buf2300 1 0 0 1 0 0 1 0 0 
+nand1859 1 2 1 7 and2130 and2131 and2132 and2133 buf2304 buf2310 and2487 0 1 1 2 0 0 4 
+not442 1 1 1 5 and624 and625 and626 and627 and628 1 1 1 1 1 
+and443 1 2 1 1 or713 1 
+and440 1 2 1 1 or568 0 
+not441 1 1 1 5 and619 and620 and621 and622 and623 1 1 1 1 1 
+and446 1 2 1 1 or716 1 
+and447 1 2 1 1 or717 1 
+and444 1 2 1 1 or714 1 
+and445 1 2 1 1 or715 1 
+and439 1 2 1 1 or567 0 
+and438 1 2 1 1 or566 0 
+and435 1 2 1 1 or564 0 
+and434 1 2 1 1 or563 0 
+and437 1 2 1 1 or565 0 
+and436 1 2 1 1 or607 0 
+and431 1 2 1 1 or612 0 
+not430 1 1 1 1 nand947 1 
+and433 1 2 1 1 or562 0 
+and432 1 2 1 1 or561 0 
+nand428 1 2 1 4 and618 buf672 buf673 and692 0 0 0 1 
+nand429 1 2 1 1 nand559 0 
+or424 1 2 1 1 and557 0 
+nand425 1 2 1 9 and614 and615 and616 and617 buf670 buf671 and681 and683 and685 0 0 0 0 0 0 1 1 1 
+not426 1 1 1 1 nand935 1 
+nand427 1 2 1 1 nand558 0 
+or420 1 2 1 1 and553 0 
+or421 1 2 1 1 and554 0 
+or422 1 2 1 1 and555 0 
+or423 1 2 1 1 and556 0 
+nand1889 1 2 1 6 and2158 and2159 and2160 and2161 buf2316 buf2317 3 0 1 1 0 0 
+and1888 1 5 1 1 or2029 4 
+nand1883 1 2 1 1 and2152 0 
+nand1882 1 2 1 1 and2148 0 
+nand1881 1 2 1 2 and2152 and2156 1 0 
+nand1880 1 2 1 3 and2152 and2155 and2156 2 0 1 
+and1887 1 4 1 1 or2029 3 
+and1886 1 3 1 1 or2029 2 
+and1885 1 2 1 1 or2029 1 
+and1884 1 5 1 2 and2157 nand2944 1 0 
+or419 1 2 1 1 and552 0 
+or418 1 2 1 1 and551 0 
+or417 1 2 1 1 and550 0 
+or416 1 2 1 1 and549 0 
+or415 1 2 1 1 and548 0 
+or414 1 2 1 1 and605 0 
+or413 1 2 1 1 and606 0 
+or412 1 2 1 1 and547 0 
+or411 1 2 1 1 and546 0 
+or410 1 2 1 1 and545 0 
+not1898 1 1 1 1 nand2507 1 
+not1899 1 1 1 2 and2192 and2384 1 0 
+nand1892 1 2 1 5 not2062 and2158 and2164 and2168 and3249 0 1 0 0 0 
+nand1893 1 2 1 6 and2170 and2171 and2172 and2173 and2174 buf2254 3 0 1 1 2 0 
+nand1890 1 2 1 10 and2158 and2160 and2161 and2162 and2163 and2164 and2165 and2166 buf2318 buf2319 0 0 3 0 2 2 0 2 0 0 
+nand1891 1 2 1 10 and2158 and2161 and2163 and2164 and2166 and2167 and2168 and2169 buf2320 buf2321 2 0 0 1 1 0 1 0 0 0 
+nand1896 1 2 1 9 and2170 and2174 and2177 and2179 and2180 buf2257 and3106 and3107 and3108 4 0 0 0 0 0 3 3 2 
+nand1897 1 2 1 6 and2170 buf2253 and3106 and3107 and3108 and3109 1 0 1 1 1 1 
+nand1894 1 2 1 9 and2170 and2172 and2173 and2174 and2175 and2176 and2177 buf2255 and3106 0 0 3 4 0 2 3 0 4 
+not83 1 1 1 1 and388 0 
+or408 1 2 1 1 and543 0 
+or409 1 2 1 1 and544 0 
+buf406 1 1 1 2 not560 nand956 0 0 
+or407 1 2 1 1 and542 0 
+not404 1 1 1 1 nand1597 1 
+buf405 1 1 1 2 not602 nand1728 0 0 
+not402 1 1 1 1 nand484 1 
+nand403 1 2 1 1 nand578 1 
+nand400 1 2 1 1 nand559 1 
+not401 1 1 1 1 nand915 1 
+or2019 1 4 1 1 or2465 0 
+and2086 1 2 1 6 and2834 and2835 and2836 and2849 and2850 and2851 1 2 3 1 2 3 
+nand1685 1 2 1 1 nand1904 0 
+nand1684 1 2 1 1 nand1903 1 
+nand1687 1 2 1 1 nand1905 1 
+nand1686 1 2 1 1 nand1905 0 
+nand1681 1 2 1 1 nand1902 0 
+nand1680 1 2 1 1 nand1901 0 
+nand1683 1 2 1 1 nand1903 0 
+nand1682 1 2 1 1 nand1902 1 
+nand1689 1 2 1 1 nand1906 1 
+not3382 1 1 1 1 nand3398 1 
+nand3381 1 2 1 1 nand3410 1 
+not3386 1 1 1 1 nand3400 1 
+nand1694 1 2 1 1 nand1913 1 
+nand1695 1 2 1 1 nand1914 1 
+nand1696 1 2 1 1 nand1915 1 
+nand1697 1 2 1 1 nand1916 1 
+nand1690 1 2 1 1 nand1909 1 
+nand1691 1 2 1 1 nand1910 1 
+nand1692 1 2 1 1 nand1911 1 
+nand1693 1 2 1 1 nand1912 1 
+nand1281 1 2 1 1 nand1393 1 
+nand1280 1 2 1 1 nand1392 1 
+nand1283 1 2 1 1 nand1395 1 
+nand1698 1 2 1 1 nand1917 1 
+nand1699 1 2 1 1 nand1918 0 
+nand1287 1 2 1 1 nand1399 1 
+nand1286 1 2 1 1 nand1398 1 
+nand1289 1 2 1 1 and3179 0 
+and2691 1 5 1 1 or2878 4 
+nand2690 1 2 1 1 and3118 0 
+nand1299 1 2 1 1 nand1406 1 
+not105 1 1 1 5 buf207 buf216 and658 and1074 and1091 0 0 0 0 0 
+nand1649 1 2 1 1 nand1852 1 
+nand2671 1 2 1 1 nand2811 0 
+not2670 1 1 1 1 nand2750 1 
+not2673 1 1 1 1 nand3061 1 
+not2672 1 1 1 2 not2812 nand2953 0 0 
+nand2675 1 2 1 2 not2786 nand2787 0 0 
+nand2674 1 2 1 2 not2782 nand2783 0 0 
+nand1641 1 2 1 2 not2011 nand2050 0 0 
+nand1640 1 2 1 2 not2010 nand2051 0 0 
+nand1643 1 2 1 1 nand1846 1 
+nand1642 1 2 1 1 nand1845 1 
+nand1645 1 2 1 1 nand1848 1 
+nand1644 1 2 1 1 nand1847 1 
+nand1647 1 2 1 1 nand1850 1 
+nand1646 1 2 1 1 nand1849 1 
+or2018 1 5 1 2 and2349 or3017 0 0 
+not2091 1 1 1 1 nand2368 1 
+not2090 1 1 1 1 nand2366 1 
+not2093 1 1 1 1 nand2369 1 
+nand2092 1 2 1 1 nand2471 0 
+not2095 1 1 1 1 nand2370 1 
+nand1659 1 2 1 1 nand1876 0 
+and2097 1 4 1 3 not2472 and2599 and2700 0 1 0 
+nand2096 1 2 1 6 and2473 and2474 and2475 and2476 and2477 buf2549 1 1 1 1 1 0 
+and2099 1 3 1 1 or2371 2 
+and2098 1 2 1 1 or2371 1 
+nand1650 1 2 1 1 nand1856 1 
+nand1651 1 2 1 1 nand1857 1 
+nand1652 1 2 1 1 nand1858 1 
+nand1653 1 2 1 1 nand1859 1 
+nand1654 1 2 1 1 nand1860 1 
+nand1655 1 2 1 1 nand1861 1 
+nand1656 1 2 1 1 nand1862 1 
+nand1657 1 2 1 1 nand1863 1 
+nand2008 1 2 1 2 not2314 nand2427 0 0 
+and2080 1 3 1 1 nor2463 1 
+not2081 1 1 1 1 and2595 1 
+not2082 1 1 1 1 nand3347 1 
+not2083 1 1 1 1 nand3349 1 
+not2084 1 1 1 1 nand3430 1 
+not2085 1 1 1 1 nand3432 1 
+nand1669 1 2 1 1 nand1883 0 
+and2087 1 2 1 6 and2827 and2828 and2829 and2859 and2860 and2861 1 2 3 1 2 3 
+not2088 1 1 1 1 nand2362 1 
+not2089 1 1 1 1 nand2364 1 
+nand1663 1 2 1 1 nand1879 1 
+nand1662 1 2 1 1 nand1879 0 
+nand1661 1 2 1 1 nand1878 0 
+nand1660 1 2 1 1 nand1877 0 
+nand1667 1 2 1 1 nand1881 1 
+nand1666 1 2 1 1 nand1881 0 
+nand1665 1 2 1 1 nand1880 1 
+nand2552 1 2 1 1 nand2648 1 
+nand1678 1 2 1 1 nand1896 1 
+nand1679 1 2 1 1 nand1897 1 
+nand1672 1 2 1 1 nand1890 1 
+nand1673 1 2 1 1 nand1891 1 
+nand1670 1 2 1 1 nand1883 1 
+nand1671 1 2 1 1 nand1889 1 
+nand1676 1 2 1 1 nand1894 1 
+nand1677 1 2 1 1 nand1895 1 
+nand1674 1 2 1 1 nand1892 1 
+nand1675 1 2 1 1 nand1893 1 
+buf1609 1 1 1 2 not1995 nand2873 0 0 
+not1608 1 1 1 1 nand2804 1 
+buf1605 1 1 1 2 nand1853 not1854 0 0 
+not1604 1 1 1 1 nand2415 1 
+buf1607 1 1 1 2 nand1864 not1865 0 0 
+buf1606 1 1 1 2 not1855 nand2609 0 0 
+nand1601 1 2 1 2 not1969 nand2035 0 0 
+not1600 1 1 1 1 nand2403 1 
+not1603 1 1 1 1 nand2658 1 
+nand1602 1 2 1 2 not1970 nand2034 0 0 
+and2628 1 3 1 1 nor2725 0 
+and2629 1 3 1 1 nor2726 0 
+not1618 1 1 1 1 nand1735 1 
+not1619 1 1 1 1 nand1736 1 
+nand2624 1 2 1 1 nand2785 1 
+not1614 1 1 1 1 nand1731 1 
+not1615 1 1 1 1 nand1732 1 
+not1616 1 1 1 1 nand1733 1 
+not1617 1 1 1 1 nand1734 1 
+nor1610 1 2 1 2 not1996 nand2874 0 0 
+buf1611 1 1 1 2 not1898 nand2626 0 0 
+not1612 1 1 1 1 nand1729 1 
+not1613 1 1 1 1 nand1730 1 
+buf1200 1 1 1 2 not1613 nand1729 0 0 
+buf1203 1 1 1 2 not1526 nand1527 0 0 
+buf1202 1 1 1 2 not1615 nand1731 0 0 
+buf1205 1 1 1 2 not1529 nand1686 0 0 
+buf1204 1 1 1 2 not1528 nand1687 0 0 
+buf1207 1 1 1 2 not1531 nand1688 0 0 
+buf1206 1 1 1 2 not1530 nand1689 0 0 
+nand1629 1 2 1 2 not2001 nand2048 0 0 
+not2617 1 1 1 1 nand2719 1 
+not1627 1 1 1 1 nand1740 1 
+not1626 1 1 1 1 nand1739 1 
+not2614 1 1 1 1 and3021 0 
+not1624 1 1 1 1 nand1737 1 
+buf1623 1 1 1 2 not2007 nand2753 0 0 
+not1622 1 1 1 1 nand2681 1 
+buf1621 1 1 1 2 not2006 nand2876 0 0 
+not1620 1 1 1 1 nand2818 1 
+and2518 1 3 1 1 nor2727 1 
+buf1219 1 1 1 2 nand1545 not1546 0 0 
+buf1210 1 1 1 2 not1618 nand1736 0 0 
+buf1211 1 1 1 2 not1619 nand1735 0 0 
+nand1212 1 2 1 2 not1532 nand2864 0 0 
+nand3505 1 2 1 1 nand3508 1 
+buf1214 1 1 1 2 nand1535 not1536 0 0 
+buf1215 1 1 1 2 nand1537 not1538 0 0 
+nand3500 1 2 1 1 not3504 0 
+nand3501 1 2 1 1 nand3508 0 
+not3502 1 1 1 1 nand3505 1 
+nand2608 1 2 1 1 nand2706 1 
+nand2609 1 2 1 1 nand2699 1 
+not1636 1 1 1 1 nand1745 1 
+not1637 1 1 1 1 nand1746 1 
+not1634 1 1 1 1 nand1743 1 
+not1635 1 1 1 1 nand1744 1 
+not1632 1 1 1 1 nand1741 1 
+not1633 1 1 1 1 nand1742 1 
+nand1630 1 2 1 2 not1998 nand2047 0 0 
+nand1631 1 2 1 2 not1999 nand2046 0 0 
+not1229 1 1 1 1 nand1378 1 
+not1228 1 1 1 1 nand1377 1 
+nor1223 1 2 1 2 not1622 nand2752 0 0 
+nor1222 1 2 1 2 not1620 nand2875 0 0 
+buf1221 1 1 1 2 nand1549 not1550 0 0 
+buf1220 1 1 1 2 nand1547 not1548 0 0 
+buf1227 1 1 1 2 nand1555 not1556 0 0 
+buf1226 1 1 1 2 not1554 nand1700 0 0 
+buf1225 1 1 1 2 not1553 nand1701 0 0 
+buf1224 1 1 1 2 not1551 nand1552 0 0 
+and228 1 2 1 1 or921 0 
+buf229 1 1 1 2 not395 nand396 0 0 
+not1239 1 1 1 1 nand1383 1 
+buf222 1 1 1 2 not372 nand1697 0 0 
+buf1233 1 1 1 2 not1624 nand1738 0 0 
+not1230 1 1 1 1 nand1379 1 
+not1231 1 1 1 1 nand1380 1 
+buf1236 1 1 1 2 not1627 nand1739 0 0 
+not1237 1 1 1 1 nand1381 1 
+buf1234 1 1 1 2 not1625 nand1737 0 0 
+not2011 1 1 1 1 nand2051 1 
+not2010 1 1 1 1 nand2050 1 
+nand2013 1 2 1 2 not2348 nand2444 0 0 
+nand2012 1 2 1 2 not2347 nand2445 0 0 
+nand2015 1 2 1 2 not2346 nand2442 0 0 
+nand2014 1 2 1 2 not2345 nand2443 0 0 
+or2017 1 2 1 2 or2400 not2404 0 0 
+or2016 1 5 1 3 and2350 not2351 and3132 1 0 1 
+nand1461 1 2 1 1 nand1862 0 
+not1460 1 1 1 1 nand1655 1 
+buf1245 1 1 1 2 not1568 nand1709 0 0 
+buf1244 1 1 1 2 not1567 nand1706 0 0 
+buf1246 1 1 1 2 not1569 nand1708 0 0 
+buf1241 1 1 1 2 not1564 nand1705 0 0 
+not1240 1 1 1 1 nand1384 1 
+buf1243 1 1 1 2 not1566 nand1707 0 0 
+buf1242 1 1 1 2 not1565 nand1704 0 0 
+not2000 1 1 1 1 nand2048 1 
+buf1968 1 1 1 2 not2270 nand3398 0 0 
+not1969 1 1 1 1 nand2034 1 
+nand2003 1 2 1 2 not2323 nand2432 0 0 
+nand2004 1 2 1 2 not2324 nand2435 0 0 
+nand2005 1 2 1 2 not2325 nand2434 0 0 
+not2006 1 1 1 1 nand2820 1 
+not2007 1 1 1 1 nand2685 1 
+not1258 1 1 1 1 nand1388 1 
+buf1259 1 1 1 2 not1586 nand1719 0 0 
+buf1254 1 1 1 2 nand1580 not1581 0 0 
+not1255 1 1 1 1 nand1385 1 
+not1256 1 1 1 1 nand1386 1 
+not1257 1 1 1 1 nand1387 1 
+buf1250 1 1 1 2 not1574 nand1575 0 0 
+buf1251 1 1 1 2 not1576 nand1577 0 0 
+buf1252 1 1 1 2 not1578 nand1716 0 0 
+buf1253 1 1 1 2 not1579 nand1715 0 0 
+nor2032 1 3 1 2 not2402 nand2403 0 0 
+or2031 1 5 1 2 not2401 nand3032 0 0 
+or2030 1 4 1 2 not2398 nand2399 0 0 
+nor2037 1 3 1 2 not2409 nand2952 0 0 
+or2036 1 4 1 2 not2407 nand2951 0 0 
+nand2035 1 2 1 1 nand2274 1 
+nand2034 1 2 1 1 nand2274 0 
+nand939 1 2 1 1 nand1394 0 
+or2028 1 5 1 1 and2147 1 
+not2527 1 1 1 1 and2635 2 
+not2526 1 1 1 1 and2634 2 
+or2022 1 2 1 2 or2412 not2416 0 0 
+or2023 1 4 1 1 or2466 0 
+or2020 1 2 1 2 or2406 not2408 0 0 
+or2021 1 5 1 3 not2358 and2359 and3403 0 1 1 
+nand2026 1 2 1 1 nand2119 1 
+buf1948 1 1 1 2 not2053 nand3121 0 0 
+buf1949 1 1 1 2 not2054 nand3122 0 0 
+nand2025 1 2 1 1 nand2096 1 
+not2059 1 1 1 1 nand3091 1 
+buf1274 1 1 1 2 not1638 nand1748 0 0 
+buf1275 1 1 1 2 not1639 nand1747 0 0 
+buf1272 1 1 1 2 not1636 nand1746 0 0 
+buf1273 1 1 1 2 not1637 nand1745 0 0 
+buf1270 1 1 1 2 not1594 nand1726 0 0 
+buf1271 1 1 1 2 not1595 nand1725 0 0 
+not2056 1 1 1 1 nand3086 1 
+buf1979 1 1 1 2 not2281 nand3184 0 0 
+buf1978 1 1 1 2 not2083 nand3366 0 0 
+not2053 1 1 1 1 nand3080 1 
+not2052 1 1 1 1 nand3044 1 
+nand2048 1 2 1 1 nand2313 0 
+nand2049 1 2 1 1 nand2313 1 
+or2044 1 3 1 2 not2365 nand2366 0 0 
+nor2045 1 2 1 2 not2367 nand2368 0 0 
+nand2046 1 2 1 1 nand2312 0 
+nand2047 1 2 1 1 nand2312 1 
+nor2040 1 3 1 2 not2414 nand2415 0 0 
+nor2041 1 4 1 2 not2417 nand3035 0 0 
+or2042 1 4 1 2 not2361 nand2362 0 0 
+nor2043 1 3 1 2 not2363 nand2364 0 0 
+and2079 1 3 1 1 nor2462 1 
+and2078 1 3 1 1 nor2461 1 
+and2077 1 3 1 1 nor2460 1 
+and2076 1 3 1 1 nor2459 1 
+and2075 1 3 1 1 nor2458 1 
+not2074 1 1 1 1 and2357 2 
+not2073 1 1 1 1 and2356 2 
+not2072 1 1 1 1 and2355 2 
+not2071 1 1 1 1 and2354 2 
+not2070 1 1 1 1 and2353 2 
+and2068 1 2 1 4 and2689 and2827 and2828 and2829 1 2 3 4 
+not2069 1 1 1 1 and2352 2 
+not2066 1 1 1 1 nand3428 1 
+and2067 1 2 1 4 and2693 and2834 and2835 and2836 1 2 3 4 
+not2064 1 1 1 1 and2594 1 
+not2065 1 1 1 1 nand3426 1 
+not2062 1 1 1 1 and3200 1 
+not2063 1 1 1 1 and2884 1 
+not2060 1 1 1 1 nand3093 1 
+not2061 1 1 1 1 nand3095 1 
+nand2910 1 2 1 1 nand2980 1 
+not2911 1 1 1 1 nand2946 1 
+nand2912 1 2 1 1 nand2981 1 
+not2913 1 1 1 1 and3440 1 
+nand2914 1 2 1 1 and3023 1 
+not2915 1 1 1 1 nand2947 1 
+nand2916 1 2 1 1 nand2983 1 
+not2917 1 1 1 1 nand2948 1 
+nand2918 1 2 1 1 nand2984 1 
+nand2919 1 2 1 2 not2987 nand2988 0 0 
+not1995 1 1 1 1 nand2806 1 
+buf1994 1 1 1 2 nand2094 not2095 0 0 
+nand2932 1 2 1 2 not3004 nand3005 0 0 
+nand2933 1 2 1 2 not3006 nand3007 0 0 
+not2930 1 1 1 1 nand2953 1 
+nand2931 1 2 1 1 nand3003 1 
+not2936 1 1 1 1 nand2955 1 
+nand2937 1 2 1 1 nand3009 1 
+not2934 1 1 1 1 nand2954 1 
+nand2935 1 2 1 1 nand3008 1 
+buf300 1 1 1 6 not441 and443 and444 and445 and446 and447 0 1 1 1 1 1 
+nand2939 1 2 1 1 nand3016 1 
+and307 1 2 1 1 or569 1 
+and306 1 2 1 1 or611 1 
+nand2901 1 2 1 1 nand2976 1 
+not2900 1 1 1 1 nand2941 1 
+nand2903 1 2 1 1 nand2977 1 
+not2902 1 1 1 1 nand2942 1 
+or2905 1 4 1 1 nand2944 1 
+and2904 1 2 1 1 or2943 0 
+or2907 1 3 1 6 and2970 and2971 and2972 and2973 and2974 buf2985 0 0 0 0 1 0 
+or2906 1 4 1 6 and2964 and2965 and2966 and2967 and2968 buf2986 0 0 0 0 1 0 
+not2909 1 1 1 1 nand2945 1 
+nand2908 1 2 1 1 and3023 0 
+nand2954 1 2 1 1 nand3008 0 
+nand2955 1 2 1 1 nand3009 0 
+and2956 1 2 1 1 or3010 0 
+and2957 1 2 1 1 or3011 0 
+not2950 1 1 1 1 nand2962 1 
+nand2951 1 2 1 1 nand2991 0 
+nand2952 1 2 1 1 nand2992 0 
+nand2953 1 2 1 1 nand3003 0 
+and2958 1 2 1 1 or3012 0 
+and2959 1 2 1 1 or3013 0 
+not320 1 1 1 1 nand1451 1 
+not325 1 1 1 1 nand1461 1 
+not324 1 1 1 1 nand1459 1 
+not2923 1 1 1 1 nand2952 1 
+nand2922 1 2 1 1 nand2991 1 
+not2921 1 1 1 1 nand2951 1 
+nand2920 1 2 1 2 not2989 nand2990 0 0 
+nand2927 1 2 1 2 not2997 nand2998 0 0 
+nand2926 1 2 1 2 not2995 nand2996 0 0 
+nand2925 1 2 1 2 not2993 nand2994 0 0 
+nand2924 1 2 1 1 nand2992 1 
+nand2929 1 2 1 2 not3001 nand3002 0 0 
+nand2928 1 2 1 2 not2999 nand3000 0 0 
+not372 1 1 1 1 nand1547 1 
+not373 1 1 1 1 nand1549 1 
+not370 1 1 1 1 nand1543 1 
+not371 1 1 1 1 nand1545 1 
+nand2976 1 2 1 1 and3020 2 
+nand2977 1 2 1 1 and3020 3 
+and2974 1 2 1 1 or3018 1 
+and2975 1 2 1 1 or3019 0 
+and2972 1 3 1 1 or3026 2 
+and2973 1 2 1 1 or3027 1 
+and2970 1 5 1 1 or3024 4 
+and2971 1 4 1 1 or3025 3 
+nand2978 1 2 1 1 and3021 1 
+and2979 1 2 1 2 not3041 and3042 0 0 
+not341 1 1 1 1 nand1502 1 
+not340 1 1 1 1 nand1500 1 
+not343 1 1 1 1 nand1506 1 
+buf8 1 1 1 1 monitor 5 
+nand2945 1 2 1 1 nand2980 0 
+nand2944 1 2 1 1 and2979 1 
+nand2947 1 2 1 1 nand2983 0 
+nand2946 1 2 1 1 nand2981 0 
+nand2941 1 2 1 1 nand2976 0 
+and2940 1 2 1 1 or2982 0 
+or2943 1 2 1 1 nand2978 1 
+nand2942 1 2 1 1 nand2977 0 
+not2949 1 1 1 1 nand2961 1 
+nand2948 1 2 1 1 nand2984 0 
+nand2998 1 2 1 1 nand3057 1 
+not2999 1 1 1 1 nand3037 1 
+nand2990 1 2 1 1 nand3050 1 
+nand2991 1 2 1 2 not3051 nand3052 0 0 
+nand2992 1 2 1 2 not3053 nand3054 0 0 
+not2993 1 1 1 1 nand3034 1 
+nand2994 1 2 1 1 nand3055 1 
+not2995 1 1 1 1 nand3035 1 
+nand2996 1 2 1 1 nand3056 1 
+not2997 1 1 1 1 nand3036 1 
+and2967 1 2 1 1 or3031 1 
+and2966 1 3 1 1 or3030 2 
+and2965 1 4 1 1 or3029 3 
+and2964 1 5 1 1 or3028 4 
+buf2963 1 1 1 4 not3047 and3100 and3101 and3466 0 2 2 0 
+nand2962 1 2 1 1 nand3016 0 
+nand2961 1 2 1 1 nand3015 0 
+nand2960 1 2 1 1 and3014 1 
+not2969 1 1 1 3 and3402 and3403 and3475 2 2 1 
+and2968 1 2 1 1 or3017 1 
+not92 1 1 1 7 buf191 buf203 and666 and1015 and1024 nor1161 nor1170 0 0 0 1 0 1 0 
+not91 1 1 1 5 buf192 buf199 and665 and1016 and1025 0 0 0 0 0 
+not90 1 1 1 5 buf193 buf200 and664 and1017 and1026 0 0 0 0 0 
+buf97 1 1 1 1 monitor 39 
+not96 1 1 1 1 and650 0 
+not95 1 1 1 5 buf188 buf196 and669 and1012 and1021 0 0 0 0 0 
+not94 1 1 1 5 buf189 buf197 and668 and1013 and1022 0 0 0 0 0 
+not99 1 1 1 5 buf213 buf221 and652 and1080 and1097 0 0 0 0 0 
+not98 1 1 1 6 buf214 buf223 and651 and1081 and1098 nor1223 0 0 0 0 0 0 
+and3488 1 2 1 1 or3498 0 
+and3494 1 2 1 1 or3498 1 
+or3495 1 2 1 2 nand3501 not3502 0 0 
+nand3496 1 2 1 1 nand3499 1 
+nand3497 1 2 1 1 nand3500 1 
+not80 1 1 1 1 and385 0 
+not81 1 1 1 7 buf177 buf182 and386 and698 and707 nor824 nor835 0 0 0 0 1 0 1 
+not86 1 1 1 1 and660 0 
+not87 1 1 1 2 and495 and661 0 0 
+not84 1 1 1 1 and389 0 
+buf85 1 1 1 4 not145 and3435 and3436 and3494 0 2 2 0 
+or3498 1 2 1 2 nand3506 not3507 0 0 
+not89 1 1 1 5 buf194 buf201 and663 and1018 and1027 0 0 0 0 0 
+not2989 1 1 1 1 nand3033 1 
+nand2988 1 2 1 1 nand3049 1 
+nand2981 1 2 1 1 and3022 3 
+nand2980 1 2 1 1 and3022 2 
+nand2983 1 2 1 1 and3023 2 
+or2982 1 2 1 4 not3048 and3439 and3440 and3484 0 2 2 0 
+buf2985 1 1 1 2 not3043 nand3044 0 0 
+nand2984 1 2 1 1 and3023 3 
+not2987 1 1 1 1 nand3032 1 
+buf2986 1 1 1 2 not3045 nand3046 0 0 
+not3085 1 1 1 1 nand3124 1 
+nand3084 1 2 1 1 nand3170 1 
+nand3449 1 2 1 1 nand3457 0 
+nand3448 1 2 1 1 nand3456 0 
+not3441 1 1 1 1 nand3451 1 
+and3440 1 3 1 1 or3453 3 
+nand3443 1 2 1 2 not3458 nand3459 0 0 
+nand3442 1 2 1 1 nand3464 1 
+nand3445 1 2 1 2 not3462 nand3463 0 0 
+nand3444 1 2 1 2 not3460 nand3461 0 0 
+nand3447 1 2 1 1 nand3455 0 
+nand3446 1 2 1 1 nand3454 0 
+not3458 1 1 1 1 nand3469 1 
+nand3459 1 2 1 1 nand3478 1 
+not3450 1 1 1 1 nand3490 1 
+nand3451 1 2 1 1 nand3464 0 
+or3452 1 4 1 2 not3470 nand3509 0 0 
+or3453 1 4 1 2 not3473 nand3505 0 0 
+nand3454 1 2 1 1 and3466 1 
+nand3455 1 2 1 1 not3465 0 
+nand3456 1 2 1 1 and3468 1 
+nand3457 1 2 1 1 not3467 0 
+nand3469 1 2 1 1 nand3478 0 
+and3468 1 2 1 1 or3486 1 
+nand3463 1 2 1 1 nand3480 1 
+not3462 1 1 1 1 nand3472 1 
+nand3461 1 2 1 1 nand3479 1 
+not1784 1 1 1 2 and2080 and2356 1 0 
+not1785 1 1 1 2 and2080 and2357 0 1 
+and3466 1 2 1 1 or3485 1 
+not3465 1 1 1 1 and3474 0 
+not1780 1 1 1 2 and2076 and2352 1 0 
+not1781 1 1 1 2 and2076 and2353 0 1 
+or2392 1 4 1 3 not2637 or2736 and2856 0 0 1 
+or2393 1 5 1 2 not2638 and2639 0 1 
+and2390 1 3 1 1 nor2533 0 
+and2391 1 3 1 1 nor2534 0 
+nand2396 1 2 1 1 nand2550 0 
+nand2397 1 2 1 1 nand2551 0 
+and2394 1 3 1 1 nor2543 0 
+nand3478 1 2 1 1 not3482 0 
+nand3479 1 2 1 1 and3484 1 
+not2398 1 1 1 1 nand2552 1 
+nand2399 1 2 1 1 nand2648 0 
+buf28 1 1 1 1 monitor 23 
+buf29 1 1 1 1 monitor 24 
+not3470 1 1 1 1 nand3506 1 
+nand3471 1 2 1 1 nand3479 0 
+not3476 1 1 1 1 nand3481 1 
+nand3477 1 2 1 1 nand3487 1 
+and3474 1 2 1 1 or3485 0 
+and3475 1 2 1 1 or3486 0 
+buf20 1 1 1 1 monitor 16 
+nand3409 1 2 1 2 and3437 and3439 0 0 
+nand3408 1 2 1 2 and3438 and3440 0 0 
+and3405 1 3 1 1 or3421 3 
+and3404 1 3 1 1 or3421 2 
+nand3407 1 2 1 2 and3433 and3435 0 0 
+nand3406 1 2 1 2 and3434 and3436 0 0 
+nand3401 1 2 1 1 nand3414 0 
+nand3400 1 2 1 1 nand3413 0 
+and3403 1 3 1 1 or3421 1 
+and3402 1 3 1 1 or3421 0 
+nand3418 1 2 1 1 nand3444 1 
+not3419 1 1 1 1 nand3424 1 
+nand3414 1 2 1 2 not3441 nand3442 0 0 
+not3415 1 1 1 1 nand3422 1 
+nand3416 1 2 1 1 nand3443 1 
+not3417 1 1 1 1 nand3423 1 
+nand3410 1 2 1 2 not3425 nand3426 0 0 
+nand3411 1 2 1 2 not3427 nand3428 0 0 
+and1795 1 4 1 1 or2019 3 
+and1794 1 3 1 1 or2019 2 
+and1793 1 2 1 1 or2019 1 
+and1792 1 4 1 2 and2086 and2359 0 0 
+nand3221 1 2 1 2 not3266 nand3267 0 0 
+or2383 1 5 1 2 and2616 or3133 0 0 
+or2382 1 4 1 1 or2718 0 
+and2381 1 2 1 1 or2499 1 
+not2380 1 1 1 1 and2979 0 
+or2387 1 2 1 2 or2676 not2678 0 0 
+or2386 1 4 1 1 or2730 0 
+and2385 1 3 1 1 nor2514 0 
+and2384 1 3 1 1 nor2513 0 
+or2389 1 2 1 2 or2682 not2686 0 0 
+or2388 1 5 1 3 not2631 and2632 and3438 0 1 1 
+nand3428 1 2 1 1 nand3455 1 
+not3427 1 1 1 1 nand3447 1 
+nand3426 1 2 1 1 nand3454 1 
+not3425 1 1 1 1 nand3446 1 
+nand3424 1 2 1 1 nand3445 0 
+nand3423 1 2 1 1 nand3444 0 
+nand3422 1 2 1 1 nand3443 0 
+or3421 1 4 1 2 not3450 nand3496 0 0 
+nand1748 1 2 1 1 nand2014 1 
+not1749 1 1 1 1 and3078 1 
+buf3238 1 1 1 1 monitor 92 
+buf3239 1 1 1 1 monitor 93 
+nand3009 1 2 1 2 not3066 nand3067 0 0 
+nand3235 1 2 1 1 nand3253 0 
+and3438 1 3 1 1 or3453 1 
+and3439 1 3 1 1 or3453 2 
+and3436 1 3 1 1 or3452 3 
+and3437 1 3 1 1 or3453 0 
+and3434 1 3 1 1 or3452 1 
+and3435 1 3 1 1 or3452 2 
+nand3432 1 2 1 1 nand3457 1 
+and3433 1 3 1 1 or3452 0 
+nand3430 1 2 1 1 nand3456 1 
+not3431 1 1 1 1 nand3449 1 
+or3209 1 2 1 2 buf3237 buf3238 0 0 
+not3203 1 1 1 1 nand3233 1 
+and3200 1 2 1 1 or3280 1 
+or3018 1 2 1 5 and3075 and3076 and3077 and3078 not3105 0 0 0 0 0 
+nand3212 1 2 1 2 not3254 nand3255 0 0 
+nand3213 1 2 1 2 not3256 nand3257 0 0 
+or3210 1 2 1 2 buf3239 buf3240 0 0 
+not3211 1 1 1 4 and3246 and3247 and3248 and3249 1 1 1 1 
+buf2330 1 1 1 2 not2576 nand3190 0 0 
+buf2331 1 1 1 2 not2577 nand3289 0 0 
+buf2332 1 1 1 2 not2578 nand3345 0 0 
+buf2333 1 1 1 2 not2521 nand3396 0 0 
+buf2334 1 1 1 2 not2579 nand3244 0 0 
+and3023 1 4 1 2 not3097 and3099 0 1 
+buf2336 1 1 1 2 not2581 nand3368 0 0 
+buf2337 1 1 1 2 not2582 nand3423 0 0 
+nand3269 1 2 1 1 nand3300 1 
+and1750 1 5 1 3 not2064 and2067 nand2960 0 1 0 
+and1753 1 4 1 1 or2016 3 
+and1752 1 3 1 1 or2016 2 
+and1755 1 2 1 1 or2031 1 
+not3266 1 1 1 1 nand3286 1 
+nand1429 1 2 1 6 and1834 buf1947 and2970 and2971 and2972 and2973 1 0 1 1 1 1 
+nand1708 1 2 1 1 nand1930 0 
+nand1709 1 2 1 1 nand1930 1 
+nand1705 1 2 1 1 nand1928 1 
+buf2318 1 1 1 2 not2503 nand2721 0 0 
+buf2319 1 1 1 2 not2504 nand2722 0 0 
+nand2312 1 2 1 2 not2495 nand2854 0 0 
+nand2313 1 2 1 2 not2496 nand2941 0 0 
+buf2310 1 1 1 2 not2569 nand3367 0 0 
+buf2311 1 1 1 2 not2566 nand3422 0 0 
+buf2316 1 1 1 2 not2501 nand2719 0 0 
+buf2317 1 1 1 2 not2502 nand2720 0 0 
+not2314 1 1 1 1 nand2426 1 
+not2315 1 1 1 1 nand2427 1 
+not3047 1 1 1 3 and3131 and3132 and3474 2 2 1 
+and1779 1 2 1 1 or3030 1 
+and1778 1 3 1 1 or3029 2 
+buf2329 1 1 1 2 not2520 nand3395 0 0 
+buf2328 1 1 1 2 not2575 nand3344 0 0 
+and1777 1 2 1 1 or3029 1 
+and1776 1 4 1 1 or3028 3 
+buf2321 1 1 1 2 nand2507 not2508 0 0 
+buf2320 1 1 1 2 nand2505 not2506 0 0 
+not2323 1 1 1 1 nand2433 1 
+not2322 1 1 1 1 nand2432 1 
+not2325 1 1 1 1 nand2435 1 
+not2324 1 1 1 1 nand2434 1 
+buf2327 1 1 1 2 not2574 nand3288 0 0 
+buf2326 1 1 1 2 not2573 nand3189 0 0 
+nand3054 1 2 1 1 nand3143 1 
+nand3055 1 2 1 2 not3144 nand3145 0 0 
+nand3056 1 2 1 2 not3146 nand3147 0 0 
+not296 1 1 1 1 nand1003 1 
+not299 1 1 1 1 nand1009 1 
+not1505 1 1 1 1 nand1674 1 
+nand108 1 2 1 1 monitor 40 
+or2439 1 5 1 2 not2683 nand3115 0 0 
+not103 1 1 1 7 buf209 buf222 and656 and1076 and1093 nor1193 nor1222 0 0 0 1 0 1 0 
+not102 1 1 1 5 buf210 buf218 and655 and1077 and1094 0 0 0 0 0 
+or2378 1 4 1 3 not2613 or2716 and3070 0 0 1 
+or2379 1 5 1 2 not2614 and2615 0 1 
+nand1722 1 2 1 1 nand1942 0 
+or2374 1 2 1 2 or2663 not2665 0 0 
+nand3253 1 2 1 1 monitor 98 
+nand3250 1 2 1 1 monitor 95 
+or2377 1 2 1 3 and2589 and2590 or2905 0 0 0 
+nand2370 1 2 1 1 nand2448 1 
+or2371 1 4 1 3 not2598 or2701 and2975 0 0 0 
+or2372 1 5 1 2 and2599 or2779 0 0 
+or2373 1 4 1 3 not2610 or2713 and2898 0 0 1 
+not283 1 1 1 1 nand977 1 
+not284 1 1 1 1 nand979 1 
+not285 1 1 1 1 nand981 1 
+not286 1 1 1 1 nand983 1 
+not287 1 1 1 1 nand985 1 
+not288 1 1 1 1 nand987 1 
+not289 1 1 1 1 nand989 1 
+buf2309 1 1 1 2 not2568 nand3311 0 0 
+not2308 1 1 1 1 nand2671 1 
+nand1717 1 2 1 1 nand1936 1 
+nand1711 1 2 1 1 nand1931 1 
+buf2303 1 1 1 2 not2563 nand3343 0 0 
+buf2302 1 1 1 2 not2492 nand3394 0 0 
+buf2301 1 1 1 2 not2561 nand3342 0 0 
+buf2300 1 1 1 2 not2560 nand3286 0 0 
+buf2307 1 1 1 2 not2494 nand3469 0 0 
+buf2306 1 1 1 2 not2493 nand3481 0 0 
+buf2305 1 1 1 2 not2565 nand3451 0 0 
+buf2304 1 1 1 2 not2564 nand3401 0 0 
+and3076 1 2 1 1 or3193 1 
+and3070 1 2 1 1 or3161 1 
+not2358 1 1 1 2 and2595 and3402 0 1 
+and2359 1 2 1 1 or2465 1 
+and2356 1 3 1 1 nor2462 0 
+and2357 1 3 1 1 nor2463 0 
+and2354 1 3 1 1 nor2460 0 
+and2355 1 3 1 1 nor2461 0 
+and2352 1 3 1 1 nor2458 0 
+and2353 1 3 1 1 nor2459 0 
+and2350 1 2 1 1 or2447 1 
+not2351 1 1 1 3 and2594 and3014 and3131 0 0 1 
+nand2369 1 2 1 1 nand2471 1 
+nand2368 1 2 1 1 nand2597 1 
+not1516 1 1 1 1 nand2505 1 
+not2365 1 1 1 1 nand2469 1 
+nand2364 1 2 1 1 nand2596 1 
+not2367 1 1 1 1 nand2470 1 
+nand2366 1 2 1 1 nand2592 1 
+not2361 1 1 1 1 nand2467 1 
+and2360 1 2 1 1 or2466 1 
+not2363 1 1 1 1 nand2468 1 
+nand2362 1 2 1 1 nand2591 1 
+and2349 1 2 1 1 or2446 1 
+not2348 1 1 1 1 nand2445 1 
+not2347 1 1 1 1 nand2444 1 
+not2346 1 1 1 1 nand2443 1 
+not2345 1 1 1 1 nand2442 1 
+nand2344 1 2 1 2 not2538 nand2865 0 0 
+buf2343 1 1 1 2 not2583 nand3424 0 0 
+buf2342 1 1 1 2 not2586 nand3369 0 0 
+buf2341 1 1 1 2 not2585 nand3313 0 0 
+buf2340 1 1 1 2 not2584 nand3245 0 0 
+nand2811 1 2 1 2 not2930 nand2931 0 0 
+not2810 1 1 1 1 nand3153 1 
+nand2813 1 2 1 2 not2900 nand2901 0 0 
+not2812 1 1 1 1 nand2931 1 
+nand2815 1 2 1 2 not2909 nand2910 0 0 
+nand2814 1 2 1 2 not2902 nand2903 0 0 
+not2817 1 1 1 1 nand2875 1 
+nand2816 1 2 1 2 not2911 nand2912 0 0 
+not2819 1 1 1 1 nand2876 1 
+nand2818 1 2 1 1 nand2932 0 
+nand2800 1 2 1 1 nand2925 1 
+not2801 1 1 1 1 nand2871 1 
+nand2802 1 2 1 1 nand2926 1 
+not2803 1 1 1 1 nand2872 1 
+nand2804 1 2 1 1 nand2927 0 
+not2805 1 1 1 1 nand2873 1 
+nand2806 1 2 1 1 nand2928 0 
+not2807 1 1 1 1 nand2874 1 
+nand2808 1 2 1 1 nand2929 0 
+not2809 1 1 1 1 nand3002 1 
+and2833 1 4 1 1 or2879 3 
+and2832 1 3 1 1 or2879 2 
+and2831 1 4 1 1 or2878 3 
+and2830 1 3 1 1 or2878 2 
+not2837 1 1 1 1 and3246 0 
+and2836 1 5 1 1 or2880 4 
+and2835 1 4 1 1 or2880 3 
+and2834 1 3 1 1 or2880 2 
+nand2839 1 2 1 1 monitor 55 
+not2838 1 1 1 1 and3247 0 
+not2822 1 1 1 1 nand2935 1 
+nand2823 1 2 1 2 not2936 nand2937 0 0 
+nand2820 1 2 1 1 nand2933 0 
+nand2821 1 2 1 2 not2934 nand2935 0 0 
+nand2826 1 2 1 2 not2917 nand2918 0 0 
+and2827 1 3 1 1 or2877 2 
+not2824 1 1 1 1 nand2937 1 
+nand2825 1 2 1 2 not2915 nand2916 0 0 
+and2828 1 4 1 1 or2877 3 
+and2829 1 5 1 1 or2877 4 
+buf223 1 1 1 2 not373 nand1698 0 0 
+not224 1 1 1 1 monitor 52 
+buf225 1 1 1 1 monitor 53 
+not2855 1 1 1 1 and2904 1 
+nand2854 1 2 1 1 nand2899 0 
+and2857 1 2 1 1 or2905 1 
+and2856 1 2 1 1 or2943 1 
+and2851 1 4 1 1 or2892 3 
+and2850 1 3 1 1 or2892 2 
+and2853 1 3 1 1 or2893 2 
+and2852 1 2 1 1 or2893 1 
+and2859 1 2 1 1 or2906 1 
+and2858 1 3 1 1 or2905 2 
+nand2844 1 2 1 1 nand2887 0 
+nand2845 1 2 1 1 nand2888 0 
+nand2846 1 2 1 1 nand2889 0 
+nand2847 1 2 1 1 nand2890 0 
+not2840 1 1 1 1 and2956 0 
+not2841 1 1 1 1 and2957 0 
+nand2842 1 2 1 1 nand2885 0 
+buf390 1 1 1 2 not426 nand1280 0 0 
+buf391 1 1 1 2 not430 nand1285 0 0 
+buf392 1 1 1 2 not485 nand486 0 0 
+nand393 1 2 1 1 nand425 0 
+nand394 1 2 1 1 nand425 1 
+not395 1 1 1 1 nand427 1 
+nand396 1 2 1 1 nand558 1 
+nand397 1 2 1 1 nand428 0 
+nand398 1 2 1 1 nand428 1 
+not399 1 1 1 1 nand429 1 
+or2877 1 5 1 1 monitor 56 
+nand2876 1 2 1 1 nand2933 1 
+nand2875 1 2 1 1 nand2932 1 
+nand2874 1 2 1 1 nand2929 1 
+nand2873 1 2 1 1 nand2928 1 
+nand2872 1 2 1 1 nand2927 1 
+nand2871 1 2 1 1 nand2926 0 
+nand2870 1 2 1 1 nand2925 0 
+and279 1 2 1 1 or566 1 
+and278 1 2 1 1 or565 1 
+and277 1 2 1 1 or607 1 
+and276 1 2 1 1 or564 1 
+not271 1 1 1 5 and436 and437 and438 and439 and440 1 1 1 1 1 
+not270 1 1 1 5 and431 and432 and433 and434 and435 1 1 1 1 1 
+nand2866 1 2 1 2 nand2938 not2949 0 0 
+nand2867 1 2 1 2 nand2939 not2950 0 0 
+nand2864 1 2 1 1 nand2908 0 
+nand2865 1 2 1 1 nand2914 0 
+and2862 1 2 1 1 or2907 1 
+and2863 1 3 1 1 or2907 2 
+and2860 1 3 1 1 or2906 2 
+and2861 1 4 1 1 or2906 3 
+nand2868 1 2 1 1 nand2919 0 
+nand2869 1 2 1 1 nand2920 0 
+not264 1 1 1 1 nand398 1 
+not265 1 1 1 1 nand400 1 
+not260 1 1 1 1 nand937 1 
+not261 1 1 1 1 nand396 1 
+nand2899 1 2 1 1 and3020 1 
+and2898 1 2 1 1 or2982 1 
+and381 1 2 1 1 or593 1 
+and380 1 2 1 1 or613 1 
+and383 1 2 1 1 or595 1 
+and382 1 2 1 1 or594 1 
+and385 1 2 1 1 or597 1 
+and384 1 2 1 1 or596 1 
+and387 1 2 1 1 or599 1 
+and386 1 2 1 1 or598 1 
+and389 1 2 1 1 or601 1 
+and388 1 2 1 1 or600 1 
+nand2888 1 2 1 1 monitor 63 
+nand2889 1 2 1 1 and3022 0 
+or2880 1 5 1 1 monitor 59 
+and2881 1 2 1 1 or3010 1 
+and2882 1 2 1 1 or3011 1 
+and2883 1 2 1 1 or3012 1 
+and2884 1 2 1 1 or3013 1 
+nand2885 1 2 1 1 monitor 60 
+nand2886 1 2 1 1 monitor 61 
+nand2887 1 2 1 1 monitor 62 
+not1487 1 1 1 1 nand1666 1 
+not1486 1 1 1 1 nand1665 1 
+not1485 1 1 1 1 nand1664 1 
+not1484 1 1 1 1 nand1663 1 
+not1483 1 1 1 1 nand1662 1 
+nand1482 1 2 1 1 nand1878 1 
+not1481 1 1 1 1 nand1661 1 
+nand1480 1 2 1 1 nand1877 1 
+not1489 1 1 1 1 nand1668 1 
+not1488 1 1 1 1 nand1667 1 
+monitor 107
+driver 10 207 291 buf1 buf2 buf45 not44 not46 not47 nand53 nand54 not43 buf52 buf67 buf68 buf70 not71 and310 and475 and309 and474 and308 and473 and362 and505 and361 and504 buf51 buf55 and307 and472 and306 and471 and360 and503 and363 and506 and528 and529 and530 and531 not3 and510 and513 and517 and518 and519 and538 and537 and533 and364 and507 and522 and496 and523 and527 and524 and526 and525 and511 and512 and516 and515 and514 and532 and534 and535 and536 and539 and490 and492 nand2536 and2691 and2692 and2717 and458 and463 and457 and462 and447 and452 and443 and448 buf61 not66 and540 and541 and489 and491 and488 and487 and455 and460 and456 and461 and459 and464 and446 and451 and445 and450 and444 and449 and4 and435 and440 and433 and438 and431 and436 and434 and439 and432 and437 and21 and278 and42 and255 and254 and253 and252 and251 and281 and280 and279 and277 and11 and234 and243 and242 and241 and240 and239 and238 and235 and273 and250 and249 and248 and247 and246 and276 and275 and274 and272 and41 and630 and502 and501 and500 and499 and498 and633 and632 and631 and629 and467 and623 and622 and621 and620 and619 and470 and469 and468 and466 and329 and335 and334 and333 and332 and331 and330 and635 and649 and648 and647 and646 and645 and638 and637 and636 and634 and640 and628 and627 and626 and625 and624 and643 and642 and641 and639 nand121 nand123 not56 and493 buf5 not57 buf58 not59 buf6 not60 buf7 not62 buf8 not63 buf9 not64 and69 buf10 not65 nand72 not73 and494 buf12 not74 buf75 not76 buf13 not77 buf14 not78 buf15 not79 buf16 not48 not80 buf17 not81 buf18 not82 buf19 not49 not83 buf20 not50 not84 buf22 not86 buf23 not87 buf24 not88 buf25 not89 buf26 not90 buf27 not91 buf28 not92 buf29 not93 buf30 not94 buf31 not95 buf32 not96 buf97 not98 buf33 not99 buf34 not100 buf35 not101 buf36 not102 buf37 not103 buf38 not104 buf39 not105 buf40 not106 buf85 buf107 and2474 and2475 and2476 and2477 and2707 nand2710 and2829 and2836 and2851 and2853 and2861 and2863 and118 nand119 G1 3 0 buf1 0 buf2 0 buf45 0 G5 3 1 not44 0 not46 0 not47 0 G9 2 2 nand53 1 nand54 1 G12 2 3 nand53 0 nand54 0 G15 2 4 not43 0 buf52 0 G18 4 5 buf67 0 buf68 0 buf70 0 not71 0 G23 2 6 and310 0 and475 0 G26 2 7 and309 0 and474 0 G29 2 8 and308 0 and473 0 G32 2 9 and362 0 and505 0 G35 2 10 and361 0 and504 0 G38 2 11 buf51 0 buf55 0 G41 2 12 and307 0 and472 0 G44 2 13 and306 0 and471 0 G47 2 14 and360 0 and503 0 G50 2 15 and363 0 and506 0 G53 1 16 and528 0 G54 1 17 and529 0 G55 1 18 and530 0 G56 1 19 and531 0 G57 1 20 not3 0 G58 1 21 and510 0 G59 1 22 and513 0 G60 1 23 and517 0 G61 1 24 and518 0 G62 1 25 and519 0 G63 1 26 and538 0 G64 1 27 and537 0 G65 1 28 and533 0 G66 2 29 and364 0 and507 0 G69 1 30 and522 0 G70 2 31 and496 0 and523 0 G73 1 32 and527 0 G74 1 33 and524 0 G75 1 34 and526 0 G76 1 35 and525 0 G77 1 36 and511 0 G78 1 37 and512 0 G79 1 38 and516 0 G80 1 39 and515 0 G81 1 40 and514 0 G82 1 41 and532 0 G83 1 42 and534 0 G84 1 43 and535 0 G85 1 44 and536 0 G86 1 45 and539 0 G87 1 46 and490 0 G88 1 47 and492 0 G89 4 48 nand2536 1 and2691 0 and2692 0 and2717 0 G94 2 49 and458 0 and463 0 G97 2 50 and457 0 and462 0 G100 2 51 and447 0 and452 0 G103 2 52 and443 0 and448 0 G106 2 53 buf61 0 not66 0 G109 1 54 and540 0 G110 1 55 and541 0 G111 1 56 and489 0 G112 1 57 and491 0 G113 1 58 and488 0 G114 1 59 and487 0 G115 2 60 and455 0 and460 0 G118 2 61 and456 0 and461 0 G121 2 62 and459 0 and464 0 G124 2 63 and446 0 and451 0 G127 2 64 and445 0 and450 0 G130 2 65 and444 0 and449 0 G133 1 66 and4 1 G134 1 67 and4 0 G135 2 68 and435 0 and440 0 G138 2 69 and433 0 and438 0 G141 2 70 and431 0 and436 0 G144 2 71 and434 0 and439 0 G147 2 72 and432 0 and437 0 G150 1 73 and21 0 G151 1 74 and278 0 G152 1 75 and42 1 G153 1 76 and255 0 G154 1 77 and254 0 G155 1 78 and253 0 G156 1 79 and252 0 G157 1 80 and251 0 G158 1 81 and281 0 G159 1 82 and280 0 G160 1 83 and279 0 G161 1 84 and277 0 G162 1 85 and11 0 G163 1 86 and234 0 G164 1 87 and243 0 G165 1 88 and242 0 G166 1 89 and241 0 G167 1 90 and240 0 G168 1 91 and239 0 G169 1 92 and238 0 G170 1 93 and235 0 G171 1 94 and273 0 G172 1 95 and11 1 G173 1 96 and250 0 G174 1 97 and249 0 G175 1 98 and248 0 G176 1 99 and247 0 G177 1 100 and246 0 G178 1 101 and276 0 G179 1 102 and275 0 G180 1 103 and274 0 G181 1 104 and272 0 G182 1 105 and41 1 G183 1 106 and41 0 G184 1 107 and21 1 G185 1 108 and41 2 G186 1 109 and41 3 G187 1 110 and630 0 G188 1 111 and11 2 G189 1 112 and502 0 G190 1 113 and501 0 G191 1 114 and500 0 G192 1 115 and499 0 G193 1 116 and498 0 G194 1 117 and633 0 G195 1 118 and632 0 G196 1 119 and631 0 G197 1 120 and629 0 G198 1 121 and467 0 G199 1 122 and11 3 G200 1 123 and623 0 G201 1 124 and622 0 G202 1 125 and621 0 G203 1 126 and620 0 G204 1 127 and619 0 G205 1 128 and470 0 G206 1 129 and469 0 G207 1 130 and468 0 G208 1 131 and466 0 G209 1 132 and329 0 G210 1 133 and42 0 G211 1 134 and335 0 G212 1 135 and334 0 G213 1 136 and333 0 G214 1 137 and332 0 G215 1 138 and331 0 G216 1 139 and330 0 G217 1 140 and635 0 G218 1 141 and42 2 G219 1 142 and649 0 G220 1 143 and648 0 G221 1 144 and647 0 G222 1 145 and646 0 G223 1 146 and645 0 G224 1 147 and638 0 G225 1 148 and637 0 G226 1 149 and636 0 G227 1 150 and634 0 G228 1 151 and21 2 G229 1 152 and640 0 G230 1 153 and42 3 G231 1 154 and628 0 G232 1 155 and627 0 G233 1 156 and626 0 G234 1 157 and625 0 G235 1 158 and624 0 G236 1 159 and643 0 G237 1 160 and642 0 G238 1 161 and641 0 G239 1 162 and639 0 G240 1 163 and21 3 G339 0 164 G1197 2 165 nand121 0 nand123 0 G1455 2 166 not56 0 and493 0 G1459 2 167 buf5 0 not57 0 G1462 2 168 buf58 0 not59 0 G1469 2 169 buf6 0 not60 0 G1480 2 170 buf7 0 not62 0 G1486 2 171 buf8 0 not63 0 G1492 3 172 buf9 0 not64 0 and69 1 G1496 3 173 buf10 0 not65 0 nand72 1 G2204 2 174 not73 0 and494 0 G2208 2 175 buf12 0 not74 0 G2211 2 176 buf75 0 not76 0 G2218 2 177 buf13 0 not77 0 G2224 2 178 buf14 0 not78 0 G2230 2 179 buf15 0 not79 0 G2236 3 180 buf16 0 not48 0 not80 0 G2239 2 181 buf17 0 not81 0 G2247 2 182 buf18 0 not82 0 G2253 3 183 buf19 0 not49 0 not83 0 G2256 3 184 buf20 0 not50 0 not84 0 G3698 2 185 buf22 0 not86 0 G3701 2 186 buf23 0 not87 0 G3705 2 187 buf24 0 not88 0 G3711 2 188 buf25 0 not89 0 G3717 2 189 buf26 0 not90 0 G3723 2 190 buf27 0 not91 0 G3729 2 191 buf28 0 not92 0 G3737 2 192 buf29 0 not93 0 G3743 2 193 buf30 0 not94 0 G3749 2 194 buf31 0 not95 0 G4393 2 195 buf32 0 not96 0 G4394 2 196 buf97 0 not98 0 G4400 2 197 buf33 0 not99 0 G4405 2 198 buf34 0 not100 0 G4410 2 199 buf35 0 not101 0 G4415 2 200 buf36 0 not102 0 G4420 2 201 buf37 0 not103 0 G4427 2 202 buf38 0 not104 0 G4432 2 203 buf39 0 not105 0 G4437 2 204 buf40 0 not106 0 G4526 14 205 buf85 0 buf107 0 and2474 0 and2475 0 and2476 0 and2477 0 and2707 1 nand2710 1 and2829 0 and2836 0 and2851 0 and2853 0 and2861 0 and2863 0 G4528 4 206 and69 0 nand72 0 and118 0 nand119 0 0 2147483647

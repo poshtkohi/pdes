@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="ClusteredQueuingNetworkSimulation" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/ClusteredQueuingNetworkSimulation.exe" prefix_auto="0" extension_auto="0" />
+				<Option working_dir="bin/Debug" />
+				<Option object_output="bin/Debug" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-fomit-frame-pointer" />
+					<Add option="-O3" />
+					<Add option="-w" />
+					<Add option="-march=native" />
+					<Add directory="../../../Parvicursor" />
+				</Compiler>
+				<ResourceCompiler>
+					<Add directory="../../../Parvicursor" />
+				</ResourceCompiler>
+				<Linker>
+					<Add option="-s" />
+					<Add option="-lpthread" />
+					<Add library="../../../xSimLib/bin/Debug/xSimLib.lib" />
+					<Add library="../../../ParvicursorLib/bin/Debug/ParvicursorLib.lib" />
+					<Add directory="../../../xSimLib/bin/Debug/" />
+					<Add directory="../../../ParvicursorLib/bin/Debug/" />
+					<Add directory="../../../Parvicursor/System.Threading/Thread/" />
+				</Linker>
+			</Target>
+		</Build>
+		<Unit filename="ClusteredQueuingNetworkPartitioner.cpp" />
+		<Unit filename="ClusteredQueuingNetworkPartitioner.h" />
+		<Unit filename="QueueEvent.cpp" />
+		<Unit filename="QueueEvent.h" />
+		<Unit filename="ReadMe.txt" />
+		<Unit filename="ServerLogicalProcess.cpp" />
+		<Unit filename="ServerLogicalProcess.h" />
+		<Unit filename="SinkLogicalProcess.cpp" />
+		<Unit filename="SinkLogicalProcess.h" />
+		<Unit filename="SourceLogicalProcess.cpp" />
+		<Unit filename="SourceLogicalProcess.h" />
+		<Unit filename="main.cpp" />
+		<Extensions>
+			<code_completion />
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

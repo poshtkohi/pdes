@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="GateLevelSimulation" />
+		<Option execution_dir="bin/Debug" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/GateLevelSimulation.exe" prefix_auto="0" extension_auto="0" />
+				<Option object_output="bin/Debug" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-w" />
+					<Add option="-g" />
+					<Add option="-march=native" />
+					<Add directory="../../../Parvicursor" />
+				</Compiler>
+				<ResourceCompiler>
+					<Add directory="../../../Parvicursor" />
+				</ResourceCompiler>
+				<Linker>
+					<Add option="-lpthread" />
+					<Add library="../../../xSimLib/bin/Debug/xSimLib.lib" />
+					<Add library="../../../ParvicursorLib/bin/Debug/ParvicursorLib.lib" />
+					<Add directory="../../../Parvicursor/System.Threading/Thread" />
+					<Add directory="../../../ParvicursorLib/bin/Debug" />
+					<Add directory="../../../xSimLib/bin/Debug" />
+				</Linker>
+			</Target>
+		</Build>
+		<Unit filename="CircuitReader.cpp" />
+		<Unit filename="CircuitReader.h" />
+		<Unit filename="DriverLogicalProcess.cpp" />
+		<Unit filename="DriverLogicalProcess.h" />
+		<Unit filename="GateLogicalProcess.cpp" />
+		<Unit filename="GateLogicalProcess.h" />
+		<Unit filename="LogicEvent.cpp" />
+		<Unit filename="LogicEvent.h" />
+		<Unit filename="MonitorLogicalProcess.cpp" />
+		<Unit filename="MonitorLogicalProcess.h" />
+		<Unit filename="ReadMe.txt" />
+		<Unit filename="main.cpp" />
+		<Extensions>
+			<code_completion />
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
