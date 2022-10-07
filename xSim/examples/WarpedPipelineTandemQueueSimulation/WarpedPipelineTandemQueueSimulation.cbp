@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="WarpedPipelineTandemQueueSimulation" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/WarpedPipelineTandemQueueSimulation.exe" prefix_auto="0" extension_auto="0" />
+				<Option working_dir="bin/Debug" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-fomit-frame-pointer" />
+					<Add option="-O2" />
+					<Add option="-std=c++11" />
+					<Add option="-w" />
+					<Add option="-march=native" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+					<Add option="-lwarped -lmpich -lpthread" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="MyApplication.cpp" />
+		<Unit filename="MyApplication.h" />
+		<Unit filename="PipelineTandemQueuePartitioner.cpp" />
+		<Unit filename="PipelineTandemQueuePartitioner.h" />
+		<Unit filename="QueueEvent.cpp" />
+		<Unit filename="QueueEvent.h" />
+		<Unit filename="ServerObject.cpp" />
+		<Unit filename="ServerObject.h" />
+		<Unit filename="ServerState.h" />
+		<Unit filename="SinkObject.cpp" />
+		<Unit filename="SinkObject.h" />
+		<Unit filename="SinkState.h" />
+		<Unit filename="SourceObject.cpp" />
+		<Unit filename="SourceObject.h" />
+		<Unit filename="SourceState.h" />
+		<Unit filename="main.cpp" />
+		<Extensions>
+			<code_completion />
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

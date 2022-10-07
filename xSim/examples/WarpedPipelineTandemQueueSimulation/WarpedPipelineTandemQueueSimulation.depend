@@ -1,0 +1,103 @@
+# depslib dependency file v1.0
+1434631683 source:/root/devel/xParvicursor/Samples/xSim/WarpedPipelineTandemQueueSimulation/main.cpp
+	"MyApplication.h"
+	<WarpedMain.h>
+	<iostream>
+
+1424813148 source:/root/devel/xParvicursor/Samples/xSim/WarpedPipelineTandemQueueSimulation/QueueEvent.cpp
+	"QueueEvent.h"
+
+1424809760 /root/devel/xParvicursor/Samples/xSim/WarpedPipelineTandemQueueSimulation/QueueEvent.h
+	<DefaultEvent.h>
+	<cstdlib>
+	<SerializedInstance.h>
+	<ObjectID.h>
+	<FlatState.h>
+
+1434622199 source:/root/devel/xParvicursor/Samples/xSim/WarpedPipelineTandemQueueSimulation/ServerObject.cpp
+	"ServerObject.h"
+	<iostream>
+
+1434618229 /root/devel/xParvicursor/Samples/xSim/WarpedPipelineTandemQueueSimulation/ServerObject.h
+	<warped.h>
+	<SimulationObject.h>
+	<IntVTime.h>
+	"ServerState.h"
+	"QueueEvent.h"
+	<iostream>
+	<sstream>
+	<fstream>
+	<vector>
+
+1434622132 /root/devel/xParvicursor/Samples/xSim/WarpedPipelineTandemQueueSimulation/ServerState.h
+	<State.h>
+	<sstream>
+
+1434624901 source:/root/devel/xParvicursor/Samples/xSim/WarpedPipelineTandemQueueSimulation/SinkObject.cpp
+	"SinkObject.h"
+	<iostream>
+
+1434624901 /root/devel/xParvicursor/Samples/xSim/WarpedPipelineTandemQueueSimulation/SinkObject.h
+	<warped.h>
+	<SimulationObject.h>
+	<IntVTime.h>
+	<SimulationStream.h>
+	"SinkState.h"
+	"QueueEvent.h"
+	<iostream>
+	<sstream>
+	<fstream>
+	<vector>
+
+1434622132 /root/devel/xParvicursor/Samples/xSim/WarpedPipelineTandemQueueSimulation/SinkState.h
+	<State.h>
+	<sstream>
+
+1434622199 source:/root/devel/xParvicursor/Samples/xSim/WarpedPipelineTandemQueueSimulation/SourceObject.cpp
+	"SourceObject.h"
+	<iostream>
+
+1434618856 /root/devel/xParvicursor/Samples/xSim/WarpedPipelineTandemQueueSimulation/SourceObject.h
+	<warped.h>
+	<SimulationObject.h>
+	<IntVTime.h>
+	"SourceState.h"
+	"QueueEvent.h"
+	<iostream>
+	<sstream>
+	<fstream>
+	<vector>
+
+1434622133 /root/devel/xParvicursor/Samples/xSim/WarpedPipelineTandemQueueSimulation/SourceState.h
+	<State.h>
+	<sstream>
+
+1434628810 source:/root/devel/xParvicursor/Samples/xSim/WarpedPipelineTandemQueueSimulation/PipelineTandemQueuePartitioner.cpp
+	"PipelineTandemQueuePartitioner.h"
+
+1434627208 /root/devel/xParvicursor/Samples/xSim/WarpedPipelineTandemQueueSimulation/PipelineTandemQueuePartitioner.h
+	<warped.h>
+	<Partitioner.h>
+	<PartitionInfo.h>
+	<iostream>
+	"MyApplication.h"
+
+1434627375 source:/root/devel/xParvicursor/Samples/xSim/WarpedPipelineTandemQueueSimulation/MyApplication.cpp
+	"MyApplication.h"
+
+1434632998 /root/devel/xParvicursor/Samples/xSim/WarpedPipelineTandemQueueSimulation/MyApplication.h
+	<Application.h>
+	<IntVTime.h>
+	<PartitionInfo.h>
+	<RoundRobinPartitioner.h>
+	<DeserializerManager.h>
+	<IntVTime.h>
+	"SourceObject.h"
+	"SinkObject.h"
+	"ServerObject.h"
+	"QueueEvent.h"
+	"PipelineTandemQueuePartitioner.h"
+	<vector>
+	<iostream>
+	<fstream>
+

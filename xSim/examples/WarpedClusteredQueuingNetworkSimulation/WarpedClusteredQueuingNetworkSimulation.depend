@@ -1,0 +1,101 @@
+# depslib dependency file v1.0
+1425012558 source:/root/devel/xParvicursor/Samples/xSim/WarpedClusteredQueuingNetworkSimulation/main.cpp
+	"MyApplication.h"
+	<WarpedMain.h>
+	<iostream>
+
+1424823570 /root/devel/xParvicursor/Samples/xSim/WarpedClusteredQueuingNetworkSimulation/SinkState.h
+	<State.h>
+	<sstream>
+
+1424441338 /root/devel/xParvicursor/Samples/xSim/WarpedClusteredQueuingNetworkSimulation/SourceState.h
+	<State.h>
+	<sstream>
+
+1424827414 /root/devel/xParvicursor/Samples/xSim/WarpedClusteredQueuingNetworkSimulation/ServerState.h
+	<State.h>
+	<sstream>
+
+1424834747 source:/root/devel/xParvicursor/Samples/xSim/WarpedClusteredQueuingNetworkSimulation/QueueEvent.cpp
+	"QueueEvent.h"
+
+1424831359 /root/devel/xParvicursor/Samples/xSim/WarpedClusteredQueuingNetworkSimulation/QueueEvent.h
+	<DefaultEvent.h>
+	<cstdlib>
+	<SerializedInstance.h>
+	<ObjectID.h>
+	<FlatState.h>
+
+1424461418 /root/devel/xParvicursor/Samples/xSim/WarpedClusteredQueuingNetworkSimulation/ServerObject.h
+	<warped.h>
+	<SimulationObject.h>
+	<IntVTime.h>
+	"ServerState.h"
+	"QueueEvent.h"
+	<iostream>
+	<sstream>
+	<fstream>
+	<vector>
+
+1424831360 source:/root/devel/xParvicursor/Samples/xSim/WarpedClusteredQueuingNetworkSimulation/ServerObject.cpp
+	"ServerObject.h"
+	<iostream>
+
+1425013100 source:/root/devel/xParvicursor/Samples/xSim/WarpedClusteredQueuingNetworkSimulation/SinkObject.cpp
+	"SinkObject.h"
+	<iostream>
+
+1425011907 /root/devel/xParvicursor/Samples/xSim/WarpedClusteredQueuingNetworkSimulation/SinkObject.h
+	<warped.h>
+	<SimulationObject.h>
+	<IntVTime.h>
+	<SimulationStream.h>
+	"SinkState.h"
+	"QueueEvent.h"
+	<iostream>
+	<sstream>
+	<fstream>
+	<vector>
+
+1424831526 source:/root/devel/xParvicursor/Samples/xSim/WarpedClusteredQueuingNetworkSimulation/SourceObject.cpp
+	"SourceObject.h"
+	<iostream>
+
+1424473848 /root/devel/xParvicursor/Samples/xSim/WarpedClusteredQueuingNetworkSimulation/SourceObject.h
+	<warped.h>
+	<SimulationObject.h>
+	<IntVTime.h>
+	"SourceState.h"
+	"QueueEvent.h"
+	<iostream>
+	<sstream>
+	<fstream>
+	<vector>
+
+1425045304 /root/devel/xParvicursor/Samples/xSim/WarpedClusteredQueuingNetworkSimulation/MyApplication.h
+	<Application.h>
+	<IntVTime.h>
+	<PartitionInfo.h>
+	<RoundRobinPartitioner.h>
+	<DeserializerManager.h>
+	<IntVTime.h>
+	"SourceObject.h"
+	"SinkObject.h"
+	"ServerObject.h"
+	"QueueEvent.h"
+	"ClusteredQueuingNetworkPartitioner.h"
+	<vector>
+	<iostream>
+	<fstream>
+
+1424817695 source:/root/devel/xParvicursor/Samples/xSim/WarpedClusteredQueuingNetworkSimulation/MyApplication.cpp
+	"MyApplication.h"
+
+1425045304 /root/devel/xParvicursor/Samples/xSim/WarpedClusteredQueuingNetworkSimulation/ClusteredQueuingNetworkPartitioner.h
+	<warped.h>
+	<Partitioner.h>
+	<PartitionInfo.h>
+
+1425045304 source:/root/devel/xParvicursor/Samples/xSim/WarpedClusteredQueuingNetworkSimulation/ClusteredQueuingNetworkPartitioner.cpp
+	"ClusteredQueuingNetworkPartitioner.h"
+
